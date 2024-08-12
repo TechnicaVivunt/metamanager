@@ -1,13 +1,10 @@
 metadata:
-
-  
   64688: # 21 Jump Street (2012) Poster by RuviLev on MediUX. https://mediux.pro/sets/10012
     url_poster: https://api.mediux.pro/assets/58da0238-df5b-4dda-ad33-942eb2be03b8
 
   187017: # 22 Jump Street (2014) Poster by RuviLev on MediUX. https://mediux.pro/sets/10012
     url_poster: https://api.mediux.pro/assets/91dd3a71-66d4-4c9a-b5c6-ea0223fd4e0a
-
-
+    
   170: # 28 Days Later (2002) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/806
     url_poster: https://api.mediux.pro/assets/98c096d1-a99c-4ee6-bed5-87710ab75fa2
 
@@ -120,7 +117,6 @@ metadata:
   818: # Austin Powers in Goldmember (2002) Poster by Pejamas on MediUX. https://mediux.pro/sets/14998
     url_poster: https://api.mediux.pro/assets/26e365a8-f0d4-47ec-bbd4-321043bbfe0c
 
-
   2907: # The Addams Family (1991) Poster by Pejamas on MediUX. https://mediux.pro/sets/9139
     url_poster: https://api.mediux.pro/assets/9b69fb0f-47ac-4757-9a76-52d09252e317
 
@@ -132,26 +128,7 @@ metadata:
 
   76600: # Avatar: The Way of Water (2022) Poster by RuviLev on MediUX. https://mediux.pro/sets/8373
     url_poster: https://api.mediux.pro/assets/19f567d6-ab13-48c6-807d-d7a47552d032
-
-  
-  816: # Austin Powers: International Man of Mystery (1997) Poster by Pejamas on MediUX. https://mediux.pro/sets/14998
-    url_poster: https://api.mediux.pro/assets/a7363756-e010-4013-8426-4fea87212d66
-
-  817: # Austin Powers: The Spy Who Shagged Me (1999) Poster by Pejamas on MediUX. https://mediux.pro/sets/14998
-    url_poster: https://api.mediux.pro/assets/2a6ad53c-43f1-46c5-99f8-5523d3a29db3
-
-  818: # Austin Powers in Goldmember (2002) Poster by Pejamas on MediUX. https://mediux.pro/sets/14998
-    url_poster: https://api.mediux.pro/assets/26e365a8-f0d4-47ec-bbd4-321043bbfe0c
-
-  816: # Austin Powers: International Man of Mystery (1997) Poster by Pejamas on MediUX. https://mediux.pro/sets/14998
-    url_poster: https://api.mediux.pro/assets/a7363756-e010-4013-8426-4fea87212d66
-
-  817: # Austin Powers: The Spy Who Shagged Me (1999) Poster by Pejamas on MediUX. https://mediux.pro/sets/14998
-    url_poster: https://api.mediux.pro/assets/2a6ad53c-43f1-46c5-99f8-5523d3a29db3
-
-  818: # Austin Powers in Goldmember (2002) Poster by Pejamas on MediUX. https://mediux.pro/sets/14998
-    url_poster: https://api.mediux.pro/assets/26e365a8-f0d4-47ec-bbd4-321043bbfe0c
-
+    
   419479: # The Babysitter (2017) Poster by darkwesley on MediUX. https://mediux.pro/sets/13665
     url_poster: https://api.mediux.pro/assets/b38f7828-e455-4465-a664-f8c5feba3d2e
 
@@ -580,7 +557,6 @@ metadata:
 
   72559: # G.I. Joe: Retaliation (2013) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1724
     url_poster: https://api.mediux.pro/assets/848ebe68-7d08-4390-98d0-1ff3d91e2654
-
 
   9336: # Police Academy (1984) Poster by Dazzatron on MediUX. https://mediux.pro/sets/20855
     url_poster: https://api.mediux.pro/assets/e1be0fa1-b09e-4add-b211-091aa8073a3f
