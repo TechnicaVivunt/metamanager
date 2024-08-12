@@ -1,5 +1,587 @@
 metadata:
 
+  
+  64688: # 21 Jump Street (2012) Poster by RuviLev on MediUX. https://mediux.pro/sets/10012
+    url_poster: https://api.mediux.pro/assets/58da0238-df5b-4dda-ad33-942eb2be03b8
+
+  187017: # 22 Jump Street (2014) Poster by RuviLev on MediUX. https://mediux.pro/sets/10012
+    url_poster: https://api.mediux.pro/assets/91dd3a71-66d4-4c9a-b5c6-ea0223fd4e0a
+
+
+  170: # 28 Days Later (2002) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/806
+    url_poster: https://api.mediux.pro/assets/98c096d1-a99c-4ee6-bed5-87710ab75fa2
+
+  1562: # 28 Weeks Later (2007) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/806
+    url_poster: https://api.mediux.pro/assets/af1c09d0-fe00-4cb8-96f1-5bcf321bcd7f
+
+  64686: # 47 Ronin (2013) Poster by Tiederian on MediUX. https://mediux.pro/sets/14599
+    url_poster: https://api.mediux.pro/assets/97db69da-eaa1-42bd-a174-b739c8bc3cc2
+
+  732459: # Blade of the 47 Ronin (2022) Poster by Tiederian on MediUX. https://mediux.pro/sets/14599
+    url_poster: https://api.mediux.pro/assets/9574259c-bbc7-411a-8286-0e42d2444f42
+
+  3049: # Ace Ventura: Pet Detective (1994) Poster by RuviLev on MediUX. https://mediux.pro/sets/8347
+    url_poster: https://api.mediux.pro/assets/04f1c612-9a12-4f5b-b422-8429f5267fb1
+
+  9273: # Ace Ventura: When Nature Calls (1995) Poster by RuviLev on MediUX. https://mediux.pro/sets/8347
+    url_poster: https://api.mediux.pro/assets/060e27f2-0edc-4bc3-b834-8b67305e7ac1
+
+  15338: # Ace Ventura Jr: Pet Detective (2009) Poster by RuviLev on MediUX. https://mediux.pro/sets/8347
+    url_poster: https://api.mediux.pro/assets/4a758fe2-db45-4ca5-ab89-2e2b9ff30a0c
+
+  481084: # The Addams Family (2019) Poster by RuviLev on MediUX. https://mediux.pro/sets/12209
+    url_poster: https://api.mediux.pro/assets/3684a56f-5553-40f7-8951-b375a50ff36b
+
+  639721: # The Addams Family 2 (2021) Poster by RuviLev on MediUX. https://mediux.pro/sets/12209
+    url_poster: https://api.mediux.pro/assets/cfb12edd-4252-40aa-8a39-cae4b485b1bd
+
+  12155: # Alice in Wonderland (2010) Poster by Olivier_286 on MediUX. https://mediux.pro/sets/19302
+    url_poster: https://api.mediux.pro/assets/110a5644-28b1-4022-8b00-2184ed6bb825
+    url_background: https://api.mediux.pro/assets/7dd11324-4d8e-4c43-a1e2-5934e8463910
+
+  241259: # Alice Through the Looking Glass (2016) Poster by Olivier_286 on MediUX. https://mediux.pro/sets/19302
+    url_poster: https://api.mediux.pro/assets/8f9d6086-908e-45f1-8053-9c801e2685ca
+    url_background: https://api.mediux.pro/assets/278f5468-2e15-44a1-ae8a-1d698b7c422a
+
+  348: # Alien (1979) Poster by darkwesley on MediUX. https://mediux.pro/sets/11765
+    url_poster: https://api.mediux.pro/assets/2ae2e987-d762-4705-804f-c0a29658e838
+
+  679: # Aliens (1986) Poster by darkwesley on MediUX. https://mediux.pro/sets/11765
+    url_poster: https://api.mediux.pro/assets/f23364c2-886b-45d5-bec4-8a5ef4b0d6e8
+
+  8077: # Alien³ (1992) Poster by darkwesley on MediUX. https://mediux.pro/sets/11765
+    url_poster: https://api.mediux.pro/assets/a16e8283-de1c-4880-9154-8f617ba59ad1
+
+  8078: # Alien Resurrection (1997) Poster by darkwesley on MediUX. https://mediux.pro/sets/11765
+    url_poster: https://api.mediux.pro/assets/2145a471-3361-4cdb-b9e5-eab9d2cbfb2f
+
+  11497: # All Dogs Go to Heaven (1989) Poster by RuviLev on MediUX. https://mediux.pro/sets/11118
+    url_poster: https://api.mediux.pro/assets/befcbf85-dd91-4783-9872-3f5836207238
+
+  19042: # All Dogs Go to Heaven 2 (1996) Poster by RuviLev on MediUX. https://mediux.pro/sets/11118
+    url_poster: https://api.mediux.pro/assets/2abb3c1e-f020-4af2-9a27-2cd311343ac3
+
+  51985: # An All Dogs Christmas Carol (1998) Poster by RuviLev on MediUX. https://mediux.pro/sets/11118
+    url_poster: https://api.mediux.pro/assets/a3a8f2c5-cb81-4df3-9eac-294f05a0d5e8
+  310: # Bruce Almighty (2003) Poster by RuviLev on MediUX. https://mediux.pro/sets/9298
+    url_poster: https://api.mediux.pro/assets/a9ede4c9-c22c-4163-8fbf-cbc7481d513a
+
+  6477: # Alvin and the Chipmunks (2007) Poster by RuviLev on MediUX. https://mediux.pro/sets/8350
+    url_poster: https://api.mediux.pro/assets/2c02176e-1dae-48a0-84db-1bbabfbe89f5
+
+  23398: # Alvin and the Chipmunks: The Squeakquel (2009) Poster by RuviLev on MediUX. https://mediux.pro/sets/8350
+    url_poster: https://api.mediux.pro/assets/96d51037-06f6-422b-8a97-90f815ac57da
+
+  55301: # Alvin and the Chipmunks: Chipwrecked (2011) Poster by RuviLev on MediUX. https://mediux.pro/sets/8350
+    url_poster: https://api.mediux.pro/assets/e5bab3c1-8ce6-43dd-a400-e12dafa13853
+
+  258509: # Alvin and the Chipmunks: The Road Chip (2015) Poster by RuviLev on MediUX. https://mediux.pro/sets/8350
+    url_poster: https://api.mediux.pro/assets/799799f1-12a7-4da2-86a8-e2e5441ba7cd
+
+  2105: # American Pie (1999) Poster by migstofero on MediUX. https://mediux.pro/sets/1843
+    url_poster: https://api.mediux.pro/assets/b2d48556-b839-4c0f-9476-2680fcf5d1fd
+
+  2770: # American Pie 2 (2001) Poster by migstofero on MediUX. https://mediux.pro/sets/1843
+    url_poster: https://api.mediux.pro/assets/87ed33d2-cd4a-4619-9a2f-12320772461a
+
+  8273: # American Wedding (2003) Poster by migstofero on MediUX. https://mediux.pro/sets/1843
+    url_poster: https://api.mediux.pro/assets/8c97406a-c8dc-496d-8294-0678e519dc68
+
+  71552: # American Reunion (2012) Poster by migstofero on MediUX. https://mediux.pro/sets/1843
+    url_poster: https://api.mediux.pro/assets/37ef1472-b434-43ad-917e-b29cfa8d27ad
+
+  8274: # American Pie Presents: Band Camp (2005) Poster by RuviLev on MediUX. https://mediux.pro/sets/8360
+    url_poster: https://api.mediux.pro/assets/eaf3716f-49c7-4a50-91bd-b2c52bdb8dc2
+
+  8275: # American Pie Presents: The Naked Mile (2006) Poster by RuviLev on MediUX. https://mediux.pro/sets/8360
+    url_poster: https://api.mediux.pro/assets/bebebd96-5796-45d4-980d-5f8b826f4e97
+
+  8277: # American Pie Presents: Beta House (2007) Poster by RuviLev on MediUX. https://mediux.pro/sets/8360
+    url_poster: https://api.mediux.pro/assets/14d582af-a24a-4469-a7d1-296a82edf0a9
+
+  26123: # American Pie Presents: The Book of Love (2009) Poster by RuviLev on MediUX. https://mediux.pro/sets/8360
+    url_poster: https://api.mediux.pro/assets/e4219603-61f0-4000-9aa8-73370d7530bd
+
+  660982: # American Pie Presents: Girls' Rules (2020) Poster by RuviLev on MediUX. https://mediux.pro/sets/8360
+    url_poster: https://api.mediux.pro/assets/07de4949-53ee-4756-b98b-d84baa277b7a
+
+  8699: # Anchorman: The Legend of Ron Burgundy (2004) Poster by Pejamas on MediUX. https://mediux.pro/sets/14997
+    url_poster: https://api.mediux.pro/assets/7844432f-0e7a-402e-b05d-6e5fec0dfd30
+
+  109443: # Anchorman 2: The Legend Continues (2013) Poster by Pejamas on MediUX. https://mediux.pro/sets/14997
+    url_poster: https://api.mediux.pro/assets/c5976328-a049-4582-ab17-4da0f8542f95
+
+  816: # Austin Powers: International Man of Mystery (1997) Poster by Pejamas on MediUX. https://mediux.pro/sets/14998
+    url_poster: https://api.mediux.pro/assets/a7363756-e010-4013-8426-4fea87212d66
+
+  817: # Austin Powers: The Spy Who Shagged Me (1999) Poster by Pejamas on MediUX. https://mediux.pro/sets/14998
+    url_poster: https://api.mediux.pro/assets/2a6ad53c-43f1-46c5-99f8-5523d3a29db3
+
+  818: # Austin Powers in Goldmember (2002) Poster by Pejamas on MediUX. https://mediux.pro/sets/14998
+    url_poster: https://api.mediux.pro/assets/26e365a8-f0d4-47ec-bbd4-321043bbfe0c
+
+
+  2907: # The Addams Family (1991) Poster by Pejamas on MediUX. https://mediux.pro/sets/9139
+    url_poster: https://api.mediux.pro/assets/9b69fb0f-47ac-4757-9a76-52d09252e317
+
+  2758: # Addams Family Values (1993) Poster by Pejamas on MediUX. https://mediux.pro/sets/9139
+    url_poster: https://api.mediux.pro/assets/2674e2ba-a5b0-4492-af9f-3230601f6bfe
+
+  19995: # Avatar (2009) Poster by RuviLev on MediUX. https://mediux.pro/sets/8373
+    url_poster: https://api.mediux.pro/assets/3ad8fc4e-0cbf-4cd7-97df-d69d209d4320
+
+  76600: # Avatar: The Way of Water (2022) Poster by RuviLev on MediUX. https://mediux.pro/sets/8373
+    url_poster: https://api.mediux.pro/assets/19f567d6-ab13-48c6-807d-d7a47552d032
+
+  
+  816: # Austin Powers: International Man of Mystery (1997) Poster by Pejamas on MediUX. https://mediux.pro/sets/14998
+    url_poster: https://api.mediux.pro/assets/a7363756-e010-4013-8426-4fea87212d66
+
+  817: # Austin Powers: The Spy Who Shagged Me (1999) Poster by Pejamas on MediUX. https://mediux.pro/sets/14998
+    url_poster: https://api.mediux.pro/assets/2a6ad53c-43f1-46c5-99f8-5523d3a29db3
+
+  818: # Austin Powers in Goldmember (2002) Poster by Pejamas on MediUX. https://mediux.pro/sets/14998
+    url_poster: https://api.mediux.pro/assets/26e365a8-f0d4-47ec-bbd4-321043bbfe0c
+
+  816: # Austin Powers: International Man of Mystery (1997) Poster by Pejamas on MediUX. https://mediux.pro/sets/14998
+    url_poster: https://api.mediux.pro/assets/a7363756-e010-4013-8426-4fea87212d66
+
+  817: # Austin Powers: The Spy Who Shagged Me (1999) Poster by Pejamas on MediUX. https://mediux.pro/sets/14998
+    url_poster: https://api.mediux.pro/assets/2a6ad53c-43f1-46c5-99f8-5523d3a29db3
+
+  818: # Austin Powers in Goldmember (2002) Poster by Pejamas on MediUX. https://mediux.pro/sets/14998
+    url_poster: https://api.mediux.pro/assets/26e365a8-f0d4-47ec-bbd4-321043bbfe0c
+
+  419479: # The Babysitter (2017) Poster by darkwesley on MediUX. https://mediux.pro/sets/13665
+    url_poster: https://api.mediux.pro/assets/b38f7828-e455-4465-a664-f8c5feba3d2e
+
+  623491: # The Babysitter: Killer Queen (2020) Poster by darkwesley on MediUX. https://mediux.pro/sets/13665
+    url_poster: https://api.mediux.pro/assets/123c9610-7826-48bb-94a8-3763cc7aaf9f
+
+  105: # Back to the Future (1985) Poster by RuviLev on MediUX. https://mediux.pro/sets/8380
+    url_poster: https://api.mediux.pro/assets/ced24c9b-12ad-44e4-8966-431977413f7e
+
+  165: # Back to the Future Part II (1989) Poster by RuviLev on MediUX. https://mediux.pro/sets/8380
+    url_poster: https://api.mediux.pro/assets/6015ff07-9fd3-4dec-80ad-d0054eb4122b
+
+  196: # Back to the Future Part III (1990) Poster by RuviLev on MediUX. https://mediux.pro/sets/8380
+    url_poster: https://api.mediux.pro/assets/3de738a4-9a37-476e-bc0f-8494fe62f180
+
+  9737: # Bad Boys (1995) Poster by RuviLev on MediUX. https://mediux.pro/sets/8384
+    url_poster: https://api.mediux.pro/assets/ac25f6b7-53e4-48cc-a129-dba7039980c7
+
+  8961: # Bad Boys II (2003) Poster by RuviLev on MediUX. https://mediux.pro/sets/8384
+    url_poster: https://api.mediux.pro/assets/721e4393-6fc9-4150-b6a1-25a6a309674d
+
+  38700: # Bad Boys for Life (2020) Poster by RuviLev on MediUX. https://mediux.pro/sets/8384
+    url_poster: https://api.mediux.pro/assets/a10a2768-8b6f-4b86-a994-70ac9398dd88
+
+  268: # Batman (1989) Poster by adamboulton on MediUX. https://mediux.pro/sets/17314
+    url_poster: https://api.mediux.pro/assets/ce966836-9957-401c-a8a0-f1c6853da32d
+
+  364: # Batman Returns (1992) Poster by adamboulton on MediUX. https://mediux.pro/sets/17314
+    url_poster: https://api.mediux.pro/assets/67c7e550-0d01-42a4-a8f7-dd361ba0aadd
+
+  414: # Batman Forever (1995) Poster by adamboulton on MediUX. https://mediux.pro/sets/17314
+    url_poster: https://api.mediux.pro/assets/87fa1f01-3ea1-4817-8c5a-03588a394494
+
+  415: # Batman & Robin (1997) Poster by adamboulton on MediUX. https://mediux.pro/sets/17314
+    url_poster: https://api.mediux.pro/assets/521f2405-6e4b-4de5-b89e-58e7ef815986
+
+  272: # Batman Begins (2005) Poster by adamboulton on MediUX. https://mediux.pro/sets/17111
+    url_poster: https://api.mediux.pro/assets/332f3741-0a62-403a-a056-20aa4210cbe4
+
+  155: # The Dark Knight (2008) Poster by adamboulton on MediUX. https://mediux.pro/sets/17111
+    url_poster: https://api.mediux.pro/assets/17cbfbef-b24d-408b-8bf9-d4bd40aef19d
+
+  49026: # The Dark Knight Rises (2012) Poster by adamboulton on MediUX. https://mediux.pro/sets/17111
+    url_poster: https://api.mediux.pro/assets/3e617528-bd0b-4467-a793-3a77aa37f05f
+
+  14405: # Beverly Hills Chihuahua (2008) Poster by RuviLev on MediUX. https://mediux.pro/sets/13312
+    url_poster: https://api.mediux.pro/assets/a4e208ca-10ac-4464-b718-8c89ac10660c
+
+  54540: # Beverly Hills Chihuahua 2 (2011) Poster by RuviLev on MediUX. https://mediux.pro/sets/13312
+    url_poster: https://api.mediux.pro/assets/2d93011c-631c-4ed9-a660-ccd38ec215c9
+
+  105965: # Beverly Hills Chihuahua 3: Viva la Fiesta! (2012) Poster by RuviLev on MediUX. https://mediux.pro/sets/13312
+    url_poster: https://api.mediux.pro/assets/09d7eaaa-0784-4fb2-886c-1bcee6b6f147
+
+  1648: # Bill & Ted's Excellent Adventure (1989) Poster by 13slim on MediUX. https://mediux.pro/sets/9548
+    url_poster: https://api.mediux.pro/assets/867a2380-6128-4049-80ef-688e8434cc9c
+
+  1649: # Bill & Ted's Bogus Journey (1991) Poster by 13slim on MediUX. https://mediux.pro/sets/9548
+    url_poster: https://api.mediux.pro/assets/a40e4e4f-b2fa-40ab-9573-3e07e072d613
+
+  501979: # Bill & Ted Face the Music (2020) Poster by 13slim on MediUX. https://mediux.pro/sets/9548
+    url_poster: https://api.mediux.pro/assets/1fefdb43-06d0-4f01-aa84-002f33e82a63
+
+  36647: # Blade (1998) Poster by Pejamas on MediUX. https://mediux.pro/sets/4770
+    url_poster: https://api.mediux.pro/assets/524734d3-9384-4f55-83be-0e0a550fd52a
+
+  36586: # Blade II (2002) Poster by Pejamas on MediUX. https://mediux.pro/sets/4770
+    url_poster: https://api.mediux.pro/assets/ffe7b2e6-792c-456e-b8dc-3361bb00788f
+
+  36648: # Blade: Trinity (2004) Poster by Pejamas on MediUX. https://mediux.pro/sets/4770
+    url_poster: https://api.mediux.pro/assets/82f1ce66-cee4-43fc-b22b-ffff74f94301
+
+  78: # Blade Runner (1982) Poster by Pejamas on MediUX. https://mediux.pro/sets/11217
+    url_poster: https://api.mediux.pro/assets/231468dc-650c-4d47-bd31-b56e8a49e9d7
+
+  335984: # Blade Runner 2049 (2017) Poster by Pejamas on MediUX. https://mediux.pro/sets/11217
+    url_poster: https://api.mediux.pro/assets/33d392a8-5dd4-43cd-85b0-e445cf955711
+
+  2501: # The Bourne Identity (2002) Poster by RuviLev on MediUX. https://mediux.pro/sets/10213
+    url_poster: https://api.mediux.pro/assets/e3b6c6b6-f2b6-44fe-a661-2602414110dc
+
+  2502: # The Bourne Supremacy (2004) Poster by RuviLev on MediUX. https://mediux.pro/sets/10213
+    url_poster: https://api.mediux.pro/assets/a20d23df-60bc-4584-b4d2-8e5e8f10e7cc
+
+  2503: # The Bourne Ultimatum (2007) Poster by RuviLev on MediUX. https://mediux.pro/sets/10213
+    url_poster: https://api.mediux.pro/assets/8f967e15-cc46-47f0-b29d-73afb904baad
+
+  49040: # The Bourne Legacy (2012) Poster by RuviLev on MediUX. https://mediux.pro/sets/10213
+    url_poster: https://api.mediux.pro/assets/f750e241-e166-42dc-adda-a0332342ff27
+
+  324668: # Jason Bourne (2016) Poster by RuviLev on MediUX. https://mediux.pro/sets/10213
+    url_poster: https://api.mediux.pro/assets/2204a89e-f296-48e9-993e-66982244ed1e
+
+  11977: # Caddyshack (1980) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1212
+    url_poster: https://api.mediux.pro/assets/f09f6756-489c-446f-90f9-8f2a5ed6b393
+
+  18509: # Caddyshack II (1988) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1212
+    url_poster: https://api.mediux.pro/assets/75e6fb1b-47cb-4e3f-a301-0b88318ee874
+
+  9529: # Candyman (1992) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1215
+    url_poster: https://api.mediux.pro/assets/ef7a48af-47d3-4414-9848-6f38efd21cdc
+
+  10824: # Candyman: Farewell to the Flesh (1995) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1215
+    url_poster: https://api.mediux.pro/assets/a5d9659d-1d37-4698-9c05-726a1fa86ab6
+
+  12485: # Candyman: Day of the Dead (1999) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1215
+    url_poster: https://api.mediux.pro/assets/9fc51982-3edc-485e-8897-51d2bee1e667
+
+  565028: # Candyman (2021) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1215
+    url_poster: https://api.mediux.pro/assets/2d1aa85b-dbd6-4e0c-974e-9b822a14a3bc
+
+  10992: # Cats & Dogs (2001) Poster by RuviLev on MediUX. https://mediux.pro/sets/11536
+    url_poster: https://api.mediux.pro/assets/cff1936b-88cb-4c2f-803e-3f45bd0958e9
+
+  39691: # Cats & Dogs: The Revenge of Kitty Galore (2010) Poster by RuviLev on MediUX. https://mediux.pro/sets/11536
+    url_poster: https://api.mediux.pro/assets/8825b560-7119-4661-b8a4-73fe87948b74
+
+  726739: # Cats & Dogs 3: Paws Unite (2020) Poster by RuviLev on MediUX. https://mediux.pro/sets/11536
+    url_poster: https://api.mediux.pro/assets/9acebda1-34af-4fed-864f-4791bae30757
+
+  411: # The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005) Poster by CohenCovers on MediUX. https://mediux.pro/sets/19776
+    url_poster: https://api.mediux.pro/assets/119e0774-d09f-4e9e-9a46-ee689e3e206c
+
+  2454: # The Chronicles of Narnia: Prince Caspian (2008) Poster by CohenCovers on MediUX. https://mediux.pro/sets/19776
+    url_poster: https://api.mediux.pro/assets/665b955f-a26c-453e-b4ee-249d5a33b4f9
+
+  10140: # The Chronicles of Narnia: The Voyage of the Dawn Treader (2010) Poster by CohenCovers on MediUX. https://mediux.pro/sets/19776
+    url_poster: https://api.mediux.pro/assets/bed9f847-3d6e-4a3c-9a5f-dc8f5c15f2ce
+  7191: # Cloverfield (2008) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1265
+    url_poster: https://api.mediux.pro/assets/1290e8ca-43c4-474a-8822-22252c892892
+    url_background: https://api.mediux.pro/assets/078cc7d7-e4be-4d4d-9704-18fbd8b5e502
+
+  138843: # The Conjuring (2013) Poster by Pejamas on MediUX. https://mediux.pro/sets/14847
+    url_poster: https://api.mediux.pro/assets/7d26d3bf-0322-4c7c-858e-52bfc68aaa94
+
+  259693: # The Conjuring 2 (2016) Poster by Pejamas on MediUX. https://mediux.pro/sets/14847
+    url_poster: https://api.mediux.pro/assets/984652a1-769d-4788-8ddc-69392e345ff1
+
+  423108: # The Conjuring: The Devil Made Me Do It (2021) Poster by Pejamas on MediUX. https://mediux.pro/sets/14847
+    url_poster: https://api.mediux.pro/assets/7d5710ce-3e6a-429b-a3f2-ed6bcfb05a3c
+
+  312221: # Creed (2015) Poster by RuviLev on MediUX. https://mediux.pro/sets/8784
+    url_poster: https://api.mediux.pro/assets/e063e7cd-f6d8-487c-ae6b-d1d0efb5d78d
+
+  480530: # Creed II (2018) Poster by RuviLev on MediUX. https://mediux.pro/sets/8784
+    url_poster: https://api.mediux.pro/assets/de569d99-bf10-41d2-abb7-421a35f85c08
+
+  677179: # Creed III (2023) Poster by RuviLev on MediUX. https://mediux.pro/sets/8784
+    url_poster: https://api.mediux.pro/assets/dc21beb9-413a-460f-8d6c-cd5a42240dd5
+
+  49519: # The Croods (2013) Poster by RuviLev on MediUX. https://mediux.pro/sets/12319
+    url_poster: https://api.mediux.pro/assets/c77c285e-e9de-4190-8f24-7394e03bc362
+
+  529203: # The Croods: A New Age (2020) Poster by RuviLev on MediUX. https://mediux.pro/sets/12319
+    url_poster: https://api.mediux.pro/assets/e888837a-0517-4b12-863e-23348025cfea
+
+  20352: # Despicable Me (2010) Poster by MiniZaki on MediUX. https://mediux.pro/sets/24024
+    url_poster: https://api.mediux.pro/assets/179058ff-5de9-410b-bc8d-f3072d69503a
+
+  93456: # Despicable Me 2 (2013) Poster by MiniZaki on MediUX. https://mediux.pro/sets/24024
+    url_poster: https://api.mediux.pro/assets/96a2522f-b5fc-48ac-a8c0-fce7da2d6f78
+
+  324852: # Despicable Me 3 (2017) Poster by MiniZaki on MediUX. https://mediux.pro/sets/24024
+    url_poster: https://api.mediux.pro/assets/975b4ece-c439-459e-96e1-8edef12ba4a1
+
+  519182: # Despicable Me 4 (2024) Poster by MiniZaki on MediUX. https://mediux.pro/sets/24024
+    url_poster: https://api.mediux.pro/assets/bf3f53a7-839f-47a9-bd38-805872c0a176
+
+  211672: # Minions (2015) Poster by MiniZaki on MediUX. https://mediux.pro/sets/24025
+    url_poster: https://api.mediux.pro/assets/feb2f90d-53ac-4e14-a630-839cc7b9f6af
+
+  438148: # Minions: The Rise of Gru (2022) Poster by MiniZaki on MediUX. https://mediux.pro/sets/24025
+    url_poster: https://api.mediux.pro/assets/f7d5ec5f-2616-4476-8eca-8f981c865ec7
+
+  1024546: # Detective Knight: Rogue (2022) Poster by fxckingham on MediUX. https://mediux.pro/sets/4356
+    url_poster: https://api.mediux.pro/assets/51c3f9e8-6abc-4452-b236-95bfc496d69f
+
+  1035803: # Detective Knight: Redemption (2022) Poster by fxckingham on MediUX. https://mediux.pro/sets/4356
+    url_poster: https://api.mediux.pro/assets/ca99614b-6154-4781-a69a-dda372b598a9
+
+  1035806: # Detective Knight: Independence (2023) Poster by fxckingham on MediUX. https://mediux.pro/sets/4356
+    url_poster: https://api.mediux.pro/assets/204b566b-1279-438b-8190-0ee1ce77f3c5
+
+  562: # Die Hard (1988) Poster by RuviLev on MediUX. https://mediux.pro/sets/8789
+    url_poster: https://api.mediux.pro/assets/0262a65c-9ede-430b-b247-1774c47977ca
+
+  1573: # Die Hard 2 (1990) Poster by RuviLev on MediUX. https://mediux.pro/sets/8789
+    url_poster: https://api.mediux.pro/assets/57e56107-4d3a-434e-a773-e609bd9f35eb
+
+  1572: # Die Hard: With a Vengeance (1995) Poster by RuviLev on MediUX. https://mediux.pro/sets/8789
+    url_poster: https://api.mediux.pro/assets/7033f925-d53a-4fb4-8cd6-983b1ae0f250
+
+  1571: # Live Free or Die Hard (2007) Poster by RuviLev on MediUX. https://mediux.pro/sets/8789
+    url_poster: https://api.mediux.pro/assets/3371bb34-86d0-40ec-94e0-1fbbf0b35ed2
+
+  47964: # A Good Day to Die Hard (2013) Poster by RuviLev on MediUX. https://mediux.pro/sets/8789
+    url_poster: https://api.mediux.pro/assets/810e7a63-2798-4372-85f2-356b127d3819
+
+  157350: # Divergent (2014) Poster by Pejamas on MediUX. https://mediux.pro/sets/13561
+    url_poster: https://api.mediux.pro/assets/8b3da1d7-e30d-4986-b5bb-9e0111b78086
+
+  262500: # Insurgent (2015) Poster by Pejamas on MediUX. https://mediux.pro/sets/13561
+    url_poster: https://api.mediux.pro/assets/1a03c726-65e6-409e-81b3-c3fbd98c318b
+
+  262504: # Allegiant (2016) Poster by Pejamas on MediUX. https://mediux.pro/sets/13561
+    url_poster: https://api.mediux.pro/assets/819eb946-73fb-4596-b27c-ccf7c38b8b4d
+
+  39144: # Dragon Ball: Curse of the Blood Rubies (1986) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6457
+    url_poster: https://api.mediux.pro/assets/787d2cf2-cda0-4612-b8ba-7bdff2621f4f
+
+  39145: # Dragon Ball: Sleeping Princess in Devil's Castle (1987) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6457
+    url_poster: https://api.mediux.pro/assets/68064d8d-5a61-4f26-b7b8-23c8968a8ed7
+
+  116776: # Dragon Ball: Mystical Adventure (1988) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6457
+    url_poster: https://api.mediux.pro/assets/8f9fa68f-6523-4b67-8b4d-672aac5cd2b6
+
+  39148: # Dragon Ball: The Path to Power (1996) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6457
+    url_poster: https://api.mediux.pro/assets/b9ba2dad-3076-4ceb-87eb-d78a9e57a61c
+
+  28609: # Dragon Ball Z: Dead Zone (1989) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6459
+    url_poster: https://api.mediux.pro/assets/22642e33-77de-4595-9075-2e592b311079
+
+  39100: # Dragon Ball Z: The World's Strongest (1990) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6459
+    url_poster: https://api.mediux.pro/assets/dfd6c888-53a4-4607-b178-b7044cfffdde
+
+  39101: # Dragon Ball Z: The Tree of Might (1990) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6459
+    url_poster: https://api.mediux.pro/assets/237da320-2b75-407d-a2e5-0aee9fb16baa
+
+  39102: # Dragon Ball Z: Lord Slug (1991) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6459
+    url_poster: https://api.mediux.pro/assets/a94137ed-36c4-4171-b162-8dabd66975fd
+
+  24752: # Dragon Ball Z: Cooler's Revenge (1991) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6459
+    url_poster: https://api.mediux.pro/assets/828cab7b-fe41-4822-80d8-4f8716213b6b
+
+  39103: # Dragon Ball Z: The Return of Cooler (1992) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6459
+    url_poster: https://api.mediux.pro/assets/95f7cb8e-ff09-45c6-a109-d99ff40011b3
+
+  39104: # Dragon Ball Z: Super Android 13! (1992) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6459
+    url_poster: https://api.mediux.pro/assets/5e0d5550-8c47-4434-b2d1-736321523897
+
+  34433: # Dragon Ball Z: Broly – The Legendary Super Saiyan (1993) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6459
+    url_poster: https://api.mediux.pro/assets/2158d3b1-935b-4cb6-9901-79815cac103c
+
+  39105: # Dragon Ball Z: Bojack Unbound (1993) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6459
+    url_poster: https://api.mediux.pro/assets/620ea619-5409-4732-9499-0ff0915c81a1
+
+  44251: # Dragon Ball Z: Broly - Second Coming (1994) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6459
+    url_poster: https://api.mediux.pro/assets/643af2d4-4a70-4613-8423-1186dbea84ca
+
+  39106: # Dragon Ball Z: Bio-Broly (1994) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6459
+    url_poster: https://api.mediux.pro/assets/21f7cbe7-8c94-41e7-956a-a98d6f4e7405
+
+  39107: # Dragon Ball Z: Fusion Reborn (1995) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6459
+    url_poster: https://api.mediux.pro/assets/d302abcc-2620-4da3-ba8a-c911ed7b9fc5
+
+  39108: # Dragon Ball Z: Wrath of the Dragon (1995) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6459
+    url_poster: https://api.mediux.pro/assets/3698dd47-bb59-46ea-a3aa-8bf5c9936232
+
+  126963: # Dragon Ball Z: Battle of Gods (2013) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6461
+    url_poster: https://api.mediux.pro/assets/a237b333-1c25-4c71-b59c-e008cb54c0df
+
+  303857: # Dragon Ball Z: Resurrection 'F' (2015) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6461
+    url_poster: https://api.mediux.pro/assets/2df5f16b-e938-4f53-ab0c-9fc57be186af
+
+  503314: # Dragon Ball Super: Broly (2018) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6461
+    url_poster: https://api.mediux.pro/assets/6dce225b-3b0e-4e7d-9d2a-1b05df33a653
+
+  610150: # Dragon Ball Super: Super Hero (2022) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6461
+    url_poster: https://api.mediux.pro/assets/cce5c374-b211-440a-b257-d71d7e3b40ad
+
+  6519: # The Dukes of Hazzard (2005) Poster by gemris on MediUX. https://mediux.pro/sets/20654
+    url_poster: https://api.mediux.pro/assets/50a243f0-7794-491e-b238-37fa2d1b1d54
+
+  19580: # The Dukes of Hazzard: The Beginning (2007) Poster by gemris on MediUX. https://mediux.pro/sets/20654
+    url_poster: https://api.mediux.pro/assets/8c760b17-eb79-48d3-a142-5fcaf6edbbd3
+
+  8467: # Dumb and Dumber (1994) Poster by RuviLev on MediUX. https://mediux.pro/sets/8975
+    url_poster: https://api.mediux.pro/assets/dff90f09-682d-49e8-be6a-d30a9e47afff
+
+  10152: # Dumb and Dumberer: When Harry Met Lloyd (2003) Poster by RuviLev on MediUX. https://mediux.pro/sets/8975
+    url_poster: https://api.mediux.pro/assets/65ff2ed1-c787-400a-bada-7ef97e26bc65
+
+  100042: # Dumb and Dumber To (2014) Poster by RuviLev on MediUX. https://mediux.pro/sets/8975
+    url_poster: https://api.mediux.pro/assets/38c6225b-53b4-4ffe-9823-48461d83f2b6
+
+  438631: # Dune (2021) Poster by MiniZaki on MediUX. https://mediux.pro/sets/17528
+    url_poster: https://api.mediux.pro/assets/b70d3503-42be-4d3e-9ec6-c60f929d4eb9
+
+  693134: # Dune: Part Two (2024) Poster by MiniZaki on MediUX. https://mediux.pro/sets/17528
+    url_poster: https://api.mediux.pro/assets/b5bee3b7-eda4-44b0-9600-7dc85c39f674
+
+  21721: # Eddie and the Cruisers (1983) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1440
+    url_poster: https://api.mediux.pro/assets/7509861a-8b6e-44f9-84da-ca0f452c5b45
+
+  25005: # Eddie and the Cruisers II: Eddie Lives! (1989) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1440
+    url_poster: https://api.mediux.pro/assets/c9efdcdc-de3d-48b4-b73c-a1965ba842ba
+
+  497582: # Enola Holmes (2020) Poster by RuviLev on MediUX. https://mediux.pro/sets/9001
+    url_poster: https://api.mediux.pro/assets/625e6be4-a4f6-4750-a67d-5018efeba39f
+
+  829280: # Enola Holmes 2 (2022) Poster by RuviLev on MediUX. https://mediux.pro/sets/9001
+    url_poster: https://api.mediux.pro/assets/0164db45-44d0-4438-a38e-ccb4c0063733
+
+  156022: # The Equalizer (2014) Poster by fxckingham on MediUX. https://mediux.pro/sets/4716
+    url_poster: https://api.mediux.pro/assets/53466b29-12b2-47c2-86e9-dc014c084f18
+
+  345887: # The Equalizer 2 (2018) Poster by fxckingham on MediUX. https://mediux.pro/sets/4716
+    url_poster: https://api.mediux.pro/assets/18116bc4-dd50-4d4d-b16a-af02da8b5424
+
+  926393: # The Equalizer 3 (2023) Poster by fxckingham on MediUX. https://mediux.pro/sets/4716
+    url_poster: https://api.mediux.pro/assets/4556bf94-2e5f-4184-a82e-06525ff8040c
+
+  1103: # Escape from New York (1981) Poster by Pejamas on MediUX. https://mediux.pro/sets/12741
+    url_poster: https://api.mediux.pro/assets/a3815ade-e3ca-4147-bf6a-00ceb94f9923
+
+  10061: # Escape from L.A. (1996) Poster by Pejamas on MediUX. https://mediux.pro/sets/12741
+    url_poster: https://api.mediux.pro/assets/e84f4e50-1105-4187-8e56-0a2a667c2bcf
+
+  764: # The Evil Dead (1981) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1456
+    url_poster: https://api.mediux.pro/assets/25a3fb7d-3df4-46c5-9771-2a79d0ad29a7
+
+  765: # Evil Dead II (1987) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1456
+    url_poster: https://api.mediux.pro/assets/37d65aec-1fc7-4440-898e-2f8ab58a58ee
+
+  766: # Army of Darkness (1992) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1456
+    url_poster: https://api.mediux.pro/assets/5a3bc351-00a8-4350-994f-319eb3c6c1ff
+
+  27578: # The Expendables (2010) Poster by Pejamas on MediUX. https://mediux.pro/sets/8348
+    url_poster: https://api.mediux.pro/assets/49d9366d-590d-421b-a3cb-de0afec224b6
+
+  76163: # The Expendables 2 (2012) Poster by Pejamas on MediUX. https://mediux.pro/sets/8348
+    url_poster: https://api.mediux.pro/assets/746afe1e-df1d-4e5f-9194-88244045bade
+
+  138103: # The Expendables 3 (2014) Poster by Pejamas on MediUX. https://mediux.pro/sets/8348
+    url_poster: https://api.mediux.pro/assets/f7b0d042-7385-4b01-b790-9f0a06cb863b
+
+  299054: # Expend4bles (2023) Poster by Pejamas on MediUX. https://mediux.pro/sets/8348
+    url_poster: https://api.mediux.pro/assets/679afc0c-1613-4112-b724-202a0a07eaf1
+
+  545609: # Extraction (2020) Poster by Praythea on MediUX. https://mediux.pro/sets/2303
+    url_poster: https://api.mediux.pro/assets/f2825953-8701-4d6f-9615-9280f67d3fae
+
+  697843: # Extraction 2 (2023) Poster by Praythea on MediUX. https://mediux.pro/sets/2303
+    url_poster: https://api.mediux.pro/assets/aadc8aaf-c3c8-4109-a11e-8e17e700a6d8
+
+  9799: # The Fast and the Furious (2001) Poster by Pejamas on MediUX. https://mediux.pro/sets/9740
+    url_poster: https://api.mediux.pro/assets/6e086621-dcd2-4801-9332-5b98e187bb9d
+
+  584: # 2 Fast 2 Furious (2003) Poster by Pejamas on MediUX. https://mediux.pro/sets/9740
+    url_poster: https://api.mediux.pro/assets/202f04c0-60d2-4eec-be51-a5fef9655ec2
+
+  9615: # The Fast and the Furious: Tokyo Drift (2006) Poster by Pejamas on MediUX. https://mediux.pro/sets/9740
+    url_poster: https://api.mediux.pro/assets/d76eb174-1740-4462-8e43-3bbe1f6d28c8
+
+  13804: # Fast & Furious (2009) Poster by Pejamas on MediUX. https://mediux.pro/sets/9740
+    url_poster: https://api.mediux.pro/assets/cc71fa52-c43f-46bc-a2f9-abba3af33bd4
+
+  51497: # Fast Five (2011) Poster by Pejamas on MediUX. https://mediux.pro/sets/9740
+    url_poster: https://api.mediux.pro/assets/408967fa-2805-43b1-bc5c-84ce0012c5e5
+
+  82992: # Fast & Furious 6 (2013) Poster by Pejamas on MediUX. https://mediux.pro/sets/9740
+    url_poster: https://api.mediux.pro/assets/4f38b9e7-31f6-4a34-b946-99706e935dd9
+
+  168259: # Furious 7 (2015) Poster by Pejamas on MediUX. https://mediux.pro/sets/9740
+    url_poster: https://api.mediux.pro/assets/f2c5bedf-335d-49a8-908a-d846db28a442
+
+  337339: # The Fate of the Furious (2017) Poster by Pejamas on MediUX. https://mediux.pro/sets/9740
+    url_poster: https://api.mediux.pro/assets/4a536b25-bd80-4a88-b437-8665989f6870
+
+  385128: # F9 (2021) Poster by Pejamas on MediUX. https://mediux.pro/sets/9740
+    url_poster: https://api.mediux.pro/assets/867b44e5-cf4e-42a3-a6bb-44757ade1941
+
+  385687: # Fast X (2023) Poster by Pejamas on MediUX. https://mediux.pro/sets/9740
+    url_poster: https://api.mediux.pro/assets/fea13858-0baa-4018-995e-22db66473b99
+
+  9532: # Final Destination (2000) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1527
+    url_poster: https://api.mediux.pro/assets/7c4d07e5-dbbf-4147-9433-39bb6d9cf37f
+
+  9358: # Final Destination 2 (2003) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1527
+    url_poster: https://api.mediux.pro/assets/2001793d-8399-4414-8021-898309212822
+
+  9286: # Final Destination 3 (2006) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1527
+    url_poster: https://api.mediux.pro/assets/8088e23a-cd75-482c-b190-2665b4723a83
+
+  19912: # The Final Destination (2009) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1527
+    url_poster: https://api.mediux.pro/assets/fca058bc-cc49-4a2b-a1b2-e480f01d0a2a
+
+  55779: # Final Destination 5 (2011) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1527
+    url_poster: https://api.mediux.pro/assets/09e7ddec-79ee-4fa7-88ad-bd29eac3ce54
+
+  4488: # Friday the 13th (1980) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1553
+    url_poster: https://api.mediux.pro/assets/409a12af-a7ba-4912-a3f8-020626cb5291
+
+  9725: # Friday the 13th Part 2 (1981) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1553
+    url_poster: https://api.mediux.pro/assets/d1ce6b55-e3b0-4734-ae85-09142f00761b
+
+  9728: # Friday the 13th Part III (1982) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1553
+    url_poster: https://api.mediux.pro/assets/464d9ace-93f5-456a-ac1a-b53cc80e6cbf
+
+  9730: # Friday the 13th: The Final Chapter (1984) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1553
+    url_poster: https://api.mediux.pro/assets/f6710d6b-dd14-492f-8ad1-cee868e34936
+
+  9731: # Friday the 13th: A New Beginning (1985) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1553
+    url_poster: https://api.mediux.pro/assets/0e444e35-571b-4fcf-b4bb-9ed47b71855f
+
+  10225: # Friday the 13th Part VI: Jason Lives (1986) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1553
+    url_poster: https://api.mediux.pro/assets/5b8fcc0f-f2e2-4370-b1e2-68a7aaa8113e
+
+  10281: # Friday the 13th Part VII: The New Blood (1988) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1553
+    url_poster: https://api.mediux.pro/assets/6b96c721-bb54-4845-ad84-f04a74a60e35
+
+  10283: # Friday the 13th Part VIII: Jason Takes Manhattan (1989) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1553
+    url_poster: https://api.mediux.pro/assets/a209ea3f-f7ea-4cdc-b2d3-f0aa824efdb6
+
+  10285: # Jason Goes to Hell: The Final Friday (1993) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1553
+    url_poster: https://api.mediux.pro/assets/5efd7ef7-facf-45b7-b6ac-f54786172ffa
+
+  11470: # Jason X (2001) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1553
+    url_poster: https://api.mediux.pro/assets/ed746590-3000-45f9-8d11-43f69cedb57a
+
+  6466: # Freddy vs. Jason (2003) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1553
+    url_poster: https://api.mediux.pro/assets/7d45d59e-bdfc-4f64-a59d-a12579efd9ed
+
+  14869: # G.I. Joe: The Rise of Cobra (2009) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1724
+    url_poster: https://api.mediux.pro/assets/40f5fd7a-fc7d-4127-ad29-41784cd959da
+
+  72559: # G.I. Joe: Retaliation (2013) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/1724
+    url_poster: https://api.mediux.pro/assets/848ebe68-7d08-4390-98d0-1ff3d91e2654
+
+
   9336: # Police Academy (1984) Poster by Dazzatron on MediUX. https://mediux.pro/sets/20855
     url_poster: https://api.mediux.pro/assets/e1be0fa1-b09e-4add-b211-091aa8073a3f
 
