@@ -33,9 +33,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/c1c4a7a7-89d0-4337-a385-db52d2c64dbb
           8:
             url_poster: https://api.mediux.pro/assets/1321accb-950e-4a2b-9484-078d4f948d71
-  405535: # TVDB id for Interview with the Vampire. Set by fwlolx on MediUX. https://mediux.pro/sets/13676
-    url_poster: https://api.mediux.pro/assets/0d3161c2-69f5-4f64-8aaa-71d8c448c340
-    seasons:
+
       1:
         url_poster: https://api.mediux.pro/assets/83cea44e-4178-4a1c-b54f-fe0babb193fe
       2:
