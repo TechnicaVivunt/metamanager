@@ -1,6 +1,7 @@
 metadata:
   405535: # TVDB id for Interview with the Vampire. Set by Kwickflix on MediUX. https://mediux.pro/sets/18164
     seasons:
+    1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/a54623f0-54a7-4c58-997e-9aa07d5dbb54
@@ -16,6 +17,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/a7e3c4bf-7eda-4b10-9c48-159e08512e75
           7:
             url_poster: https://api.mediux.pro/assets/1bb995a9-d811-4149-99c4-830105c7e31e
+    2:        
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/76b312f9-100b-43d6-b42e-3145200eb2db
