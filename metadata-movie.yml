@@ -5,9 +5,132 @@ metadata:
     url_poster: https://api.mediux.pro/assets/e8b0484d-675b-47a3-af25-26696f51f2e5
   76203: # 12 Years a Slave (2013) Poster by Tiederian on MediUX. https://mediux.pro/sets/14598
     url_poster: https://api.mediux.pro/assets/0e4d6d79-6f5e-4d36-8a9b-dc3fe85cbf9c
+  136400: # 2 Guns (2013) Poster by Pejamas on MediUX. https://mediux.pro/sets/8918
+    url_poster: https://api.mediux.pro/assets/b7314b63-9a27-400c-9d0c-0a28532b3cc7
+  1129598: # Prey (2024) Poster by Pejamas on MediUX. https://mediux.pro/sets/13450
+    url_poster: https://api.mediux.pro/assets/d6004b38-0702-4fc2-9070-5bdf2ca6e6f8
+    url_background: https://api.mediux.pro/assets/da14e70c-4790-4341-9bff-2c4ba04a8a72
+  391713: # Lady Bird (2017) Poster by fxckingham on MediUX. https://mediux.pro/sets/14808
+    url_poster: https://api.mediux.pro/assets/2cb66459-3cda-4796-b137-20fc6620e4cd
+
+  760104: # X (2022) Poster by KosherKale on MediUX. https://mediux.pro/sets/23660
+    url_poster: https://api.mediux.pro/assets/2f4bd78c-a125-4421-94ae-40483908d880
+
+  949423: # Pearl (2022) Poster by KosherKale on MediUX. https://mediux.pro/sets/23660
+    url_poster: https://api.mediux.pro/assets/9d5c18c9-88e6-4641-8c4f-8c74f8394656
+
+  1023922: # MaXXXine (2024) Poster by KosherKale on MediUX. https://mediux.pro/sets/23660
+    url_poster: https://api.mediux.pro/assets/c52705d1-f274-4790-8182-6323f3cf322c
+
+  1271: # 300 (2007) Poster by RuviLev on MediUX. https://mediux.pro/sets/8346
+    url_poster: https://api.mediux.pro/assets/baadd914-8e41-473a-aac1-4d4cb5aa57a2
+
+  53182: # 300: Rise of an Empire (2014) Poster by RuviLev on MediUX. https://mediux.pro/sets/8346
+    url_poster: https://api.mediux.pro/assets/574ca4bf-6c84-494b-bd1b-2afd35a64cc4
+  704239: # The Union (2024) Poster by Pejamas on MediUX. https://mediux.pro/sets/24090
+    url_poster: https://api.mediux.pro/assets/0a0f4fb2-3665-45b6-827e-ed2038bc82e0
+
+  953: # Madagascar (2005) Poster by RuviLev on MediUX. https://mediux.pro/sets/8313
+    url_poster: https://api.mediux.pro/assets/1bbb0cf6-99ab-4104-95f4-f46360bcca5f
+
+  10527: # Madagascar: Escape 2 Africa (2008) Poster by RuviLev on MediUX. https://mediux.pro/sets/8313
+    url_poster: https://api.mediux.pro/assets/38328cfe-f886-4646-938e-9541977920b3
+
+  80321: # Madagascar 3: Europe's Most Wanted (2012) Poster by RuviLev on MediUX. https://mediux.pro/sets/8313
+    url_poster: https://api.mediux.pro/assets/52c13e83-ea13-4e5b-8761-e60c868f7d76
+  270946: # Penguins of Madagascar (2014) Poster by RuviLev on MediUX. https://mediux.pro/sets/8314
+    url_poster: https://api.mediux.pro/assets/32edd871-cc0f-4faf-b9db-08595ca15090
+  225565: # That Awkward Moment (2014) Poster by 71622495t on MediUX. https://mediux.pro/sets/13076
+    url_poster: https://api.mediux.pro/assets/1a3a21ed-ffa2-496c-affc-202caf8fab84
+  9480: # Daredevil (2003) Poster by Pejamas on MediUX. https://mediux.pro/sets/4771
+    url_poster: https://api.mediux.pro/assets/d8ad1f13-b174-427d-8596-05e72b23c0d6
+  9947: # Elektra (2005) Poster by Pejamas on MediUX. https://mediux.pro/sets/4772
+    url_poster: https://api.mediux.pro/assets/6966aef8-477d-4226-b408-d9a0395eeb82
 
   4513: # 30 Days of Night (2007) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/824
     url_poster: https://api.mediux.pro/assets/35650c1d-2c80-45e6-98e6-fdcb1b682515
+  1032823: # Trap (2024) Poster by Pejamas on MediUX. https://mediux.pro/sets/24663
+    url_poster: https://api.mediux.pro/assets/c06913e5-c571-42ae-98a3-4528fa94667d
+  365177: # Borderlands (2024) Poster by RuviLev on MediUX. https://mediux.pro/sets/24705
+    url_poster: https://api.mediux.pro/assets/886f3784-de64-4a89-bbc2-fa85236c3e4b
+  382322: # Batman: The Killing Joke (2016) Poster by RuviLev on MediUX. https://mediux.pro/sets/15476
+    url_poster: https://api.mediux.pro/assets/48c59b60-5100-4f31-98e5-d14decb54e8e
+  198184: # Chappie (2015) Poster by brikim on MediUX. https://mediux.pro/sets/9321
+    url_poster: https://api.mediux.pro/assets/6e5fd448-0ae1-4623-8a75-0d7d2a41cb5c
+  329865: # Arrival (2016) Poster by Pejamas on MediUX. https://mediux.pro/sets/8791
+    url_poster: https://api.mediux.pro/assets/0374aa81-4f45-4a23-b576-6e7ceb79ed22
+  10201: # Yes Man (2008) Poster by RuviLev on MediUX. https://mediux.pro/sets/9300
+    url_poster: https://api.mediux.pro/assets/52aa8566-6506-430e-bb1d-c01869f28256
+
+  14919: # Batman: Mask of the Phantasm (1993) Poster by RuviLev on MediUX. https://mediux.pro/sets/15484
+    url_poster: https://api.mediux.pro/assets/3141de1e-d58a-4c66-b39f-28fe816aac62
+
+  15805: # Batman & Mr. Freeze: SubZero (1998) Poster by RuviLev on MediUX. https://mediux.pro/sets/15484
+    url_poster: https://api.mediux.pro/assets/77c6f9e8-357a-4e59-a58c-44fc66bb80de
+
+  21683: # Batman: Mystery of the Batwoman (2003) Poster by RuviLev on MediUX. https://mediux.pro/sets/15484
+    url_poster: https://api.mediux.pro/assets/486e201f-83ec-4823-bf43-cd72f960a910
+  581997: # Batman vs Teenage Mutant Ninja Turtles (2019) Poster by RuviLev on MediUX. https://mediux.pro/sets/15478
+    url_poster: https://api.mediux.pro/assets/d35fb66c-82e7-4e6a-916b-2d2f1ca29774
+
+  251519: # Son of Batman (2014) Poster by RuviLev on MediUX. https://mediux.pro/sets/15491
+    url_poster: https://api.mediux.pro/assets/667ba1e3-6a69-4070-ab48-224dc3ef6a6e
+
+  321528: # Batman vs. Robin (2015) Poster by RuviLev on MediUX. https://mediux.pro/sets/15491
+    url_poster: https://api.mediux.pro/assets/5346f797-3180-4a19-8c3d-6255095b1002
+
+  366924: # Batman: Bad Blood (2016) Poster by RuviLev on MediUX. https://mediux.pro/sets/15491
+    url_poster: https://api.mediux.pro/assets/0fb8a382-9d12-4b70-95d2-de903e39a45c
+
+  537056: # Batman: Hush (2019) Poster by RuviLev on MediUX. https://mediux.pro/sets/15491
+    url_poster: https://api.mediux.pro/assets/217b1225-88d6-4c45-8dec-90c0d139df06
+  257344: # Pixels (2015) Poster by RuviLev on MediUX. https://mediux.pro/sets/10069
+    url_poster: https://api.mediux.pro/assets/d21f7d6a-1013-4785-b2e3-b5eaafc826e4
+
+  82690: # Wreck-It Ralph (2012) Poster by Olivier_286 on MediUX. https://mediux.pro/sets/10111
+    url_poster: https://api.mediux.pro/assets/c544b66b-1681-41cc-8af5-634de5080e79
+    url_background: https://api.mediux.pro/assets/006b4619-317a-4f31-a5e8-b0bb41301fa9
+
+  404368: # Ralph Breaks the Internet (2018) Poster by Olivier_286 on MediUX. https://mediux.pro/sets/10111
+    url_poster: https://api.mediux.pro/assets/f2ad4cdc-1ef8-4971-828b-4aa1cb68ed14
+    url_background: https://api.mediux.pro/assets/444bfe13-182b-4b6f-93b9-0caf55de9289
+  1226578: # Longlegs (2024) Poster by Pejamas on MediUX. https://mediux.pro/sets/8788
+    url_poster: https://api.mediux.pro/assets/d13207e3-52c3-4fc5-b5e4-b59de3c027e6
+
+  250546: # Annabelle (2014) Poster by Pejamas on MediUX. https://mediux.pro/sets/14848
+    url_poster: https://api.mediux.pro/assets/79bab778-17bd-4ede-aa06-116bf6614cc7
+
+  396422: # Annabelle: Creation (2017) Poster by Pejamas on MediUX. https://mediux.pro/sets/14848
+    url_poster: https://api.mediux.pro/assets/ca850311-394e-4e45-bc46-1d17c77c52ce
+
+  521029: # Annabelle Comes Home (2019) Poster by Pejamas on MediUX. https://mediux.pro/sets/14848
+    url_poster: https://api.mediux.pro/assets/1df8ea4b-cf63-494e-aaed-8f3f63898206
+
+  150540: # Inside Out (2015) Poster by Olivier_286 on MediUX. https://mediux.pro/sets/22804
+    url_poster: https://api.mediux.pro/assets/c82cc726-4b3d-44d9-80c4-2c1dcf930af4
+    url_background: https://api.mediux.pro/assets/8f4db695-ff23-4c72-a084-3be5f152509f
+
+  1022789: # Inside Out 2 (2024) Poster by Olivier_286 on MediUX. https://mediux.pro/sets/22804
+    url_poster: https://api.mediux.pro/assets/ce6bdcee-e4ae-4f1d-9ed0-7c86e3712b35
+    url_background: https://api.mediux.pro/assets/9aeb6ea1-a944-4c3f-b32a-07cf1bee99c0
+
+
+  138843: # The Conjuring (2013) Poster by Pejamas on MediUX. https://mediux.pro/sets/14847
+    url_poster: https://api.mediux.pro/assets/7d26d3bf-0322-4c7c-858e-52bfc68aaa94
+
+  259693: # The Conjuring 2 (2016) Poster by Pejamas on MediUX. https://mediux.pro/sets/14847
+    url_poster: https://api.mediux.pro/assets/984652a1-769d-4788-8ddc-69392e345ff1
+
+  423108: # The Conjuring: The Devil Made Me Do It (2021) Poster by Pejamas on MediUX. https://mediux.pro/sets/14847
+    url_poster: https://api.mediux.pro/assets/7d5710ce-3e6a-429b-a3f2-ed6bcfb05a3c
+
+  439079: # The Nun (2018) Poster by Pejamas on MediUX. https://mediux.pro/sets/14849
+    url_poster: https://api.mediux.pro/assets/887011ae-61e8-41fb-b427-8ff4543744c9
+
+  968051: # The Nun II (2023) Poster by Pejamas on MediUX. https://mediux.pro/sets/14849
+    url_poster: https://api.mediux.pro/assets/f3cf46e2-243d-4cc9-8269-74dc4c280c83
+  190859: # American Sniper (2014) Poster by Pejamas on MediUX. https://mediux.pro/sets/10915
+    url_poster: https://api.mediux.pro/assets/44a077d1-8778-4b0a-9535-78d2e36bfe5d
 
   42941: # 30 Days of Night: Dark Days (2010) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/824
     url_poster: https://api.mediux.pro/assets/3e8274c9-731c-4be4-9b15-5e016d3184a5
