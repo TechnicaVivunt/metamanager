@@ -12,6 +12,8 @@ metadata:
     url_background: https://api.mediux.pro/assets/da14e70c-4790-4341-9bff-2c4ba04a8a72
   391713: # Lady Bird (2017) Poster by fxckingham on MediUX. https://mediux.pro/sets/14808
     url_poster: https://api.mediux.pro/assets/2cb66459-3cda-4796-b137-20fc6620e4cd
+  1824: # 50 First Dates (2004) Poster by wwalkerrrrr on MediUX. https://mediux.pro/sets/15833
+    url_poster: https://api.mediux.pro/assets/87680e34-ad96-4f04-946a-0822de518434
 
   760104: # X (2022) Poster by KosherKale on MediUX. https://mediux.pro/sets/23660
     url_poster: https://api.mediux.pro/assets/2f4bd78c-a125-4421-94ae-40483908d880
@@ -134,8 +136,6 @@ metadata:
 
   42941: # 30 Days of Night: Dark Days (2010) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/824
     url_poster: https://api.mediux.pro/assets/3e8274c9-731c-4be4-9b15-5e016d3184a5
-  1824: # 50 First Dates (2004) Poster by wwalkerrrrr on MediUX. https://mediux.pro/sets/15833
-    url_poster: https://api.mediux.pro/assets/87680e34-ad96-4f04-946a-0822de518434
   937249: # 57 Seconds (2023) Poster by Pejamas on MediUX. https://mediux.pro/sets/13034
     url_poster: https://api.mediux.pro/assets/bf534d57-c2a4-4646-b880-9cc0596ab1a2
   530915: # 1917 (2019) Poster by Pejamas on MediUX. https://mediux.pro/sets/10684
