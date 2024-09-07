@@ -29,6 +29,24 @@ metadata:
   4011: # Beetlejuice (1988) Poster by Pejamas on MediUX. https://mediux.pro/sets/20757
     url_poster: https://api.mediux.pro/assets/6aa32d1e-9758-4713-aac0-ec089015e2b2
 
+  329: # Jurassic Park (1993) Poster by Pejamas on MediUX. https://mediux.pro/sets/10660
+    url_poster: https://api.mediux.pro/assets/1a9f50a6-e837-4de6-8d8f-b1458f568428
+
+  330: # The Lost World: Jurassic Park (1997) Poster by Pejamas on MediUX. https://mediux.pro/sets/10660
+    url_poster: https://api.mediux.pro/assets/5068c4e3-f4b6-4ad6-b8ce-2e8e139eac61
+
+  331: # Jurassic Park III (2001) Poster by Pejamas on MediUX. https://mediux.pro/sets/10660
+    url_poster: https://api.mediux.pro/assets/155eb80a-3e28-4420-b21e-ba872416354d
+
+  135397: # Jurassic World (2015) Poster by Pejamas on MediUX. https://mediux.pro/sets/10660
+    url_poster: https://api.mediux.pro/assets/b5a0128d-a1c7-4152-a431-01bb8f658f35
+
+  351286: # Jurassic World: Fallen Kingdom (2018) Poster by Pejamas on MediUX. https://mediux.pro/sets/10660
+    url_poster: https://api.mediux.pro/assets/dacbe8fe-4218-4d92-ab60-6bb90c48f034
+
+  507086: # Jurassic World Dominion (2022) Poster by Pejamas on MediUX. https://mediux.pro/sets/10660
+    url_poster: https://api.mediux.pro/assets/718e073b-449a-489d-962e-38640cd01814
+
   7340: # Carrie (1976) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/6907
     url_poster: https://theposterdb.com/api/assets/155155/download?performed_by=technicavivunt
 
