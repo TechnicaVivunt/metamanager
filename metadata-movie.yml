@@ -1,4 +1,48 @@
 metadata:
+  505262: # My Hero Academia: Two Heroes (2018) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6572
+    url_poster: https://api.mediux.pro/assets/0953886a-cf29-4b3c-bf80-cebdb37221f8
+  592350: # My Hero Academia: Heroes Rising (2019) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6572
+    url_poster: https://api.mediux.pro/assets/a6bfd376-3626-4e98-a46d-89fced5c9e67
+  768744: # My Hero Academia: World Heroes' Mission (2021) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6572
+    url_poster: https://api.mediux.pro/assets/7ea6134b-b931-4618-9d82-bde42bde20fe
+  1159311: # My Hero Academia: You're Next (2024) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6572
+    url_poster: https://api.mediux.pro/assets/b30314b0-d424-45a5-b276-88fc36305186
+  1054116: # My Hero Academia: All Might Rising (2019) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/6574
+    url_poster: https://api.mediux.pro/assets/31e0fa14-0084-4e81-a853-ab77b5694bc6
+  9059: # Tales from the Crypt: Demon Knight (1995) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/3973
+    url_poster: https://api.mediux.pro/assets/203d27b6-0d60-43ad-b4b5-ddd85d68b35e
+  9431: # Bordello of Blood (1996) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/3973
+    url_poster: https://api.mediux.pro/assets/e65902d5-39d3-4cd3-bdcb-fb6841b35a5a
+  41235: # Ritual (2002) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/3973
+    url_poster: https://api.mediux.pro/assets/6c8392e4-5e95-4b75-8268-057932773d08
+  21481: # Twitches (2005) Poster by MiniZaki on MediUX. https://mediux.pro/sets/25023
+    url_poster: https://api.mediux.pro/assets/66f63151-992e-4173-a8e8-d6d152539af0
+  46169: # Twitches Too (2007) Poster by MiniZaki on MediUX. https://mediux.pro/sets/25023
+    url_poster: https://api.mediux.pro/assets/ace754a9-0e87-4be7-84c5-8484446110a6
+  671: # Harry Potter and the Philosopher's Stone (2001) Poster by willtong93 on MediUX. https://mediux.pro/sets/26316
+    url_poster: https://api.mediux.pro/assets/599e8af2-c002-4f6e-9d35-bfb6e1618cea
+  672: # Harry Potter and the Chamber of Secrets (2002) Poster by willtong93 on MediUX. https://mediux.pro/sets/26316
+    url_poster: https://api.mediux.pro/assets/8826754d-8a7c-4d29-9981-03903d3886bf
+  673: # Harry Potter and the Prisoner of Azkaban (2004) Poster by willtong93 on MediUX. https://mediux.pro/sets/26316
+    url_poster: https://api.mediux.pro/assets/67c2106b-32b3-4be0-9c34-bd06b9bc282f
+  674: # Harry Potter and the Goblet of Fire (2005) Poster by willtong93 on MediUX. https://mediux.pro/sets/26316
+    url_poster: https://api.mediux.pro/assets/626112c9-4d2d-48a1-9694-3b1e7b8bd642
+  675: # Harry Potter and the Order of the Phoenix (2007) Poster by willtong93 on MediUX. https://mediux.pro/sets/26316
+    url_poster: https://api.mediux.pro/assets/44acab76-4b20-4a26-abef-d827ceea04a8
+  767: # Harry Potter and the Half-Blood Prince (2009) Poster by willtong93 on MediUX. https://mediux.pro/sets/26316
+    url_poster: https://api.mediux.pro/assets/4fbfba5e-bf6e-42a3-be67-7636a7ed844a
+  12444: # Harry Potter and the Deathly Hallows: Part 1 (2010) Poster by willtong93 on MediUX. https://mediux.pro/sets/26316
+    url_poster: https://api.mediux.pro/assets/6a2c4755-c2fb-47b5-a0ce-3fcc9c229937
+  12445: # Harry Potter and the Deathly Hallows: Part 2 (2011) Poster by willtong93 on MediUX. https://mediux.pro/sets/26316
+    url_poster: https://api.mediux.pro/assets/7376d614-dd8c-412c-aae7-5930ce9ecacd
+  899082: # Harry Potter 20th Anniversary: Return to Hogwarts (2022) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26317
+    url_poster: https://api.mediux.pro/assets/b1549591-069c-482c-8de9-bec3e4193b6d
+      259316: # Fantastic Beasts and Where to Find Them (2016) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26318
+    url_poster: https://api.mediux.pro/assets/99b6efba-ca48-492a-82ab-b92515b91540
+      338952: # Fantastic Beasts: The Crimes of Grindelwald (2018) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26318
+    url_poster: https://api.mediux.pro/assets/e15205b9-b954-425e-a03c-a72ecb6c0cff
+      338953: # Fantastic Beasts: The Secrets of Dumbledore (2022) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26318
+    url_poster: https://api.mediux.pro/assets/82db0dae-a0e1-4b7d-b99f-fa5191d73dc0    
   389: # 12 Angry Men (1957) Poster by wwalkerrrrr on MediUX. https://mediux.pro/sets/15837    
     url_poster: https://api.mediux.pro/assets/be664c27-20e1-4c75-ae05-e95b8dabc971
   429351: # 12 Strong (2018) Poster by Pejamas on MediUX. https://mediux.pro/sets/9885
