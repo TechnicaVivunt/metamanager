@@ -1,60 +1,7 @@
 metadata:
-  405535: # TVDB id for Interview with the Vampire. Set by Kwickflix on MediUX. https://mediux.pro/sets/18164
+299139: # TVDB id for The Magicians. Set by JackTaylor803 on MediUX. https://mediux.pro/sets/27752
     seasons:
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/a54623f0-54a7-4c58-997e-9aa07d5dbb54
-          2:
-            url_poster: https://api.mediux.pro/assets/257f0480-c53b-4da0-9e6e-4b07561984b7
-          3:
-            url_poster: https://api.mediux.pro/assets/8646a148-6fd7-4507-9559-cd73df84d1cd
-          4:
-            url_poster: https://api.mediux.pro/assets/794a43fe-9362-457c-a2b3-35b2d7de21af
-          5:
-            url_poster: https://api.mediux.pro/assets/c4887727-17d1-4482-bd51-d771eea5e592
-          6:
-            url_poster: https://api.mediux.pro/assets/a7e3c4bf-7eda-4b10-9c48-159e08512e75
-          7:
-            url_poster: https://api.mediux.pro/assets/1bb995a9-d811-4149-99c4-830105c7e31e
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/76b312f9-100b-43d6-b42e-3145200eb2db
-          2:
-            url_poster: https://api.mediux.pro/assets/7805ff7a-959b-468c-bfbc-18fe128e487b
-          3:
-            url_poster: https://api.mediux.pro/assets/857ef8a2-ab94-48f3-878f-40b1aab22447
-          4:
-            url_poster: https://api.mediux.pro/assets/164679dd-c339-4f88-9afa-41285e159eba
-          5:
-            url_poster: https://api.mediux.pro/assets/6e905bef-663d-486b-9645-be55363fc298
-          6:
-            url_poster: https://api.mediux.pro/assets/3f8b7eb5-13bc-4d45-bd56-d8bbab2c4af9
-          7:
-            url_poster: https://api.mediux.pro/assets/c1c4a7a7-89d0-4337-a385-db52d2c64dbb
-          8:
-            url_poster: https://api.mediux.pro/assets/1321accb-950e-4a2b-9484-078d4f948d71
-  413074: # TVDB id for Mayfair Witches. Set by Kwickflix on MediUX. https://mediux.pro/sets/18165
-    seasons:
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/f08818e8-f1a2-44ec-9b1e-9f3bde58a57b
-          2:
-            url_poster: https://api.mediux.pro/assets/bf52fb79-5a98-40c1-81ad-95d3d05736e7
-          3:
-            url_poster: https://api.mediux.pro/assets/f3d76c4e-0445-4c57-9176-dbc6d151a615
-          4:
-            url_poster: https://api.mediux.pro/assets/b4649cc8-b7f9-4c2c-b90e-fe0744ca506f
-          5:
-            url_poster: https://api.mediux.pro/assets/2b764e84-3767-4d2c-a833-2dbf30acd44b
-          6:
-            url_poster: https://api.mediux.pro/assets/607c507d-f767-416d-b136-2d87dccfa469
-          7:
-            url_poster: https://api.mediux.pro/assets/c2b51d8d-a09a-4f8e-96c7-d27d441c842a
-          8:
-            url_poster: https://api.mediux.pro/assets/608fa334-cf9f-457e-9da9-036b6c37da48
-
-  299139: # TVDB id for The Magicians. Set by JackTaylor803 on MediUX. https://mediux.pro/sets/27752
-    seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/95bf70fe-0577-43d0-b7d7-dcd8efd061cf
@@ -82,6 +29,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/bff5c4f6-3091-4b15-a193-899b216a0fb1
           13:
             url_poster: https://api.mediux.pro/assets/560c9865-b4b0-4acb-a95e-95128956725d
+      2:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/629750ed-4951-481d-8180-b89f1482737c
@@ -109,6 +57,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/d80b22e7-805b-44b6-8086-f5413e23f8d6
           13:
             url_poster: https://api.mediux.pro/assets/742fe480-cfcc-40ca-8446-3a4cf8044830
+      3:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/a9cc2283-c220-41d0-a675-60435b688d9f
@@ -136,6 +85,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/49cf11d9-a25b-47ca-8b99-6dbb26a86b2b
           13:
             url_poster: https://api.mediux.pro/assets/880ae287-2ae2-48c4-80eb-440732713d47
+      4:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/f24ad6a4-f8db-4e5f-9978-42a42b2d7c4b
@@ -163,6 +113,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/4acec8d7-cb4a-47a2-8483-29c8664a706a
           13:
             url_poster: https://api.mediux.pro/assets/e4876885-eff1-4ae4-8396-918fd7560422
+      5:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/d40432db-ad7d-4189-a0d4-0aefa82d4d16
@@ -190,7 +141,6 @@ metadata:
             url_poster: https://api.mediux.pro/assets/c47c3207-7160-4b8b-813f-55b541fcdc2b
           13:
             url_poster: https://api.mediux.pro/assets/94b5a6f7-0c49-48b7-a723-b8faf5b57351
-
   341663: # TVDB id for Titans. Set by Koltom on MediUX. https://mediux.pro/sets/801
     url_poster: https://api.mediux.pro/assets/ab1b884f-aa74-4209-bc83-ac0f3e7e3596
     seasons:
