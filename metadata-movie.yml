@@ -1,4 +1,36 @@
 metadata:
+  70160: # The Hunger Games (2012) Poster by willtong93 on MediUX. https://mediux.pro/sets/27061
+    url_poster: https://api.mediux.pro/assets/d1fd7ba8-e431-45ad-847b-221a78c548a8
+  101299: # The Hunger Games: Catching Fire (2013) Poster by willtong93 on MediUX. https://mediux.pro/sets/27061
+    url_poster: https://api.mediux.pro/assets/6270abf9-3c3c-4dd8-95ed-9a535f32ab79
+  131631: # The Hunger Games: Mockingjay - Part 1 (2014) Poster by willtong93 on MediUX. https://mediux.pro/sets/27061
+    url_poster: https://api.mediux.pro/assets/e99f1655-d659-46a9-8992-c809a2b06428
+  131634: # The Hunger Games: Mockingjay - Part 2 (2015) Poster by willtong93 on MediUX. https://mediux.pro/sets/27061
+    url_poster: https://api.mediux.pro/assets/c2d2a94d-29dd-4b32-ba70-3abbc4a5c6a3
+  695721: # The Hunger Games: The Ballad of Songbirds & Snakes (2023) Poster by willtong93 on MediUX. https://mediux.pro/sets/27061
+    url_poster: https://api.mediux.pro/assets/bf67250f-ce8e-4abd-937a-4b9f64d1f4ff
+  8966: # Twilight (2008) Poster by darkwesley on MediUX. https://mediux.pro/sets/9320
+    url_poster: https://api.mediux.pro/assets/56d55fa6-5a14-4b69-8014-d6dec1fc93c6
+  18239: # The Twilight Saga: New Moon (2009) Poster by darkwesley on MediUX. https://mediux.pro/sets/9320
+    url_poster: https://api.mediux.pro/assets/beb23f14-c885-49ea-b123-afc88cf5888c
+  24021: # The Twilight Saga: Eclipse (2010) Poster by darkwesley on MediUX. https://mediux.pro/sets/9320
+    url_poster: https://api.mediux.pro/assets/adb8a496-6cc9-47df-8399-33c88d9d075d
+  50619: # The Twilight Saga: Breaking Dawn - Part 1 (2011) Poster by darkwesley on MediUX. https://mediux.pro/sets/9320
+    url_poster: https://api.mediux.pro/assets/ed332bea-47db-4acb-9d3f-8f93004fea7b
+  50620: # The Twilight Saga: Breaking Dawn - Part 2 (2012) Poster by darkwesley on MediUX. https://mediux.pro/sets/9320
+    url_poster: https://api.mediux.pro/assets/148aa7ac-c77b-418f-b6ff-a2f13fad3ca1
+  920125: # White Men Can't Jump (2023) Poster by Pejamas on MediUX. https://mediux.pro/sets/9236
+    url_poster: https://api.mediux.pro/assets/8e73de2d-53ef-470f-a123-3764babcc05f
+  617: # Wild Things (1998) Poster by darkwesley on MediUX. https://mediux.pro/sets/12799
+    url_poster: https://api.mediux.pro/assets/f38a79f2-0f19-4e85-a54a-86804b51b25f
+  10367: # Wild Things 2 (2004) Poster by darkwesley on MediUX. https://mediux.pro/sets/12799
+    url_poster: https://api.mediux.pro/assets/e62a3729-3bf8-451f-ab54-71f333c292d4
+  17124: # Wild Things: Diamonds in the Rough (2005) Poster by darkwesley on MediUX. https://mediux.pro/sets/12799
+    url_poster: https://api.mediux.pro/assets/474480b2-65ff-4eb2-84f3-117d0eb330d0
+  37708: # Wild Things: Foursome (2010) Poster by darkwesley on MediUX. https://mediux.pro/sets/12799
+    url_poster: https://api.mediux.pro/assets/7888e280-82c1-415f-a2f1-0cb2e111da0d
+  14317: # The Wild Thornberrys Movie (2002) Poster by MiniZaki on MediUX. https://mediux.pro/sets/25634
+    url_poster: https://api.mediux.pro/assets/8c3546eb-0387-4a3f-ae89-a12f843785e2
   8487: # Wild Wild West (1999) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/5970
     url_poster: https://api.mediux.pro/assets/39fb6302-0052-4b5e-bea7-a2cf2f1d8ea0
   531219: # Roald Dahl's The Witches (2020) Poster by 71622495t on MediUX. https://mediux.pro/sets/13453
