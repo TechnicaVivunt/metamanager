@@ -1,4 +1,105 @@
 metadata:
+  475557: # Joker (2019) Poster by willtong93 on MediUX. https://mediux.pro/sets/25136
+  url_poster: https://api.mediux.pro/assets/c991dd7e-6719-4e15-a55b-21dcb8580581
+  url_background: https://api.mediux.pro/assets/d6f029fc-4cc7-496f-9f14-236bc59bffdd
+  889737: # Joker: Folie à Deux (2024) Poster by willtong93 on MediUX. https://mediux.pro/sets/25136
+    url_poster: https://api.mediux.pro/assets/fc494efc-1e56-4ecc-91da-9f9dc29b9cec
+    url_background: https://api.mediux.pro/assets/206b6871-f597-4100-8038-1416c483ac46
+  414906: # The Batman (2022) Poster by willtong93 on MediUX.  https://mediux.pro/sets/23332
+    url_poster: https://api.mediux.pro/assets/b060d65a-4bb5-4e58-87ee-19233f134067
+    url_background: https://api.mediux.pro/assets/78c2e18a-f73b-430b-9095-d73acafcc08b
+  272: # Batman Begins (2005) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24170
+    url_poster: https://api.mediux.pro/assets/e09d1394-86f5-42cc-a97c-f3e9f72662b5
+    url_background: https://api.mediux.pro/assets/110d9280-711f-47aa-b1bb-357502f66314
+  155: # The Dark Knight (2008) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24170
+    url_poster: https://api.mediux.pro/assets/0dfc0571-1d3e-43e7-8b1f-9da2dd4747aa
+    url_background: https://api.mediux.pro/assets/ffdf287d-fe79-47d8-bac9-d46eb4243c20
+  49026: # The Dark Knight Rises (2012) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24170
+    url_poster: https://api.mediux.pro/assets/ff8ba228-bf7f-4b30-9102-dc994b9b7a5d
+    url_background: https://api.mediux.pro/assets/e6b360d4-1f87-40ac-90d8-ced455102343
+  268: # Batman (1989) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24471
+    url_poster: https://api.mediux.pro/assets/ac4bf3f4-5718-4f41-b7ba-50d13dbefa12
+  414: # Batman Forever (1995) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24471
+    url_poster: https://api.mediux.pro/assets/3f8173ae-8af4-4364-a1fa-b2a5deb44763
+  364: # Batman Returns (1992) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24471
+    url_poster: https://api.mediux.pro/assets/c39fd25a-af20-4ebc-9caf-ca0ce2884c42
+  415: # Batman u0026 Robin (1997) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24471
+    url_poster: https://api.mediux.pro/assets/a259d584-c19c-40e9-a051-90cba874ab40
+  2661: # Batman (1966) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24472
+    url_poster: https://api.mediux.pro/assets/b28979c8-7065-4060-80f7-3f4e66801320
+  1924: # Superman (1978) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24488
+    url_poster: https://api.mediux.pro/assets/090256f4-50af-4641-addf-4b4aeb662f73
+  8536: # Superman II (1980) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24488
+    url_poster: https://api.mediux.pro/assets/e46eb638-3389-4e10-81c4-c4d4bcacc65e
+  9531: # Superman III (1983) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24488
+    url_poster: https://api.mediux.pro/assets/8ae3e201-e02a-4ea3-a8e3-f56d6901272f
+  11411: # Superman IV: The Quest for Peace (1987) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24488
+    url_poster: https://api.mediux.pro/assets/7f8d91f0-2666-4ab4-8662-76a74d65b922
+  1452: # Superman Returns (2006) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24488
+   url_poster: https://api.mediux.pro/assets/18740cf7-214a-4ad3-8666-b20e316f7137
+  624479: # Superman II: The Richard Donner Cut (2006) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24489
+    url_poster: https://api.mediux.pro/assets/2703b309-8f3f-47f4-a2dd-57f607e724ae
+  39514: # RED (2010) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24508
+    url_poster: https://api.mediux.pro/assets/3b26b48e-8703-46aa-bd2f-fd151890cf00
+  146216: # RED 2 (2013) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24508
+    url_poster: https://api.mediux.pro/assets/837bd8b8-d8b6-4719-89f3-989e86bd2ee4
+  17918: # Swamp Thing (1982) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24509
+    url_poster: https://api.mediux.pro/assets/9027fd2c-89aa-48cf-932b-59efdbc49460
+  19142: # The Return of Swamp Thing (1989) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24509
+    url_poster: https://api.mediux.pro/assets/9e45c41b-59a9-4fc6-ada3-c1652cc22e58
+  44912: # Green Lantern (2011) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24510
+    url_poster: https://api.mediux.pro/assets/f973b6b5-f78f-4b9b-afa0-994651b9b29d
+  487680: # The Kitchen (2019) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24511
+    url_poster: https://api.mediux.pro/assets/5bb292c2-5c21-4596-add5-7433335c3e86
+  20533: # Jonah Hex (2010) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24512
+    url_poster: https://api.mediux.pro/assets/b56a7439-bcdb-4bd4-a760-8cafa2fb42bf
+  314: # Catwoman (2004) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24513
+    url_poster: https://api.mediux.pro/assets/fa6b8b42-8cc9-4fdc-a6e9-e08d46000a77
+  59: # A History of Violence (2005) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24514
+    url_poster: https://api.mediux.pro/assets/037852ec-970b-41c2-9050-9bea4ff19f3d
+  561: # Constantine (2005) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24515
+    url_poster: https://api.mediux.pro/assets/e9575948-2fd4-4b1e-b6f4-e594d33c2c09
+  4147: # Road to Perdition (2002) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24516
+    url_poster: https://api.mediux.pro/assets/657f4579-5c26-4639-85d6-8b8c585870a5
+  2270: # Stardust (2007) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24517
+    url_poster: https://api.mediux.pro/assets/85f60a69-370b-4e82-a83b-9057e1b59f1f
+  8854: # Steel (1997) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24518
+    url_poster: https://api.mediux.pro/assets/a3547c10-edcd-410b-8072-ee921f2bfaf3
+  9651: # Supergirl (1984) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24519
+    url_poster: https://api.mediux.pro/assets/9e6cb7a3-59ba-4809-aa35-d368dedfb830
+  8698: # The League of Extraordinary Gentlemen (2003) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24520
+    url_poster: https://api.mediux.pro/assets/af6a2474-0e2b-40dc-ae63-0cbc3835cd63
+  34813: # The Losers (2010) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24521
+    url_poster: https://api.mediux.pro/assets/38a9a24b-18ef-47a5-8d0b-78108c5386ee
+  752: # V for Vendetta (2006) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24522
+    url_poster: https://api.mediux.pro/assets/7fb7aa21-3cca-4cc8-9fdb-4bcebf794a39
+  13183: # Watchmen (2009) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24523
+    url_poster: https://api.mediux.pro/assets/a52c7c16-53e2-447d-a71a-cd3d3b96eb27
+  8285: # The Spirit (2008) Poster by willtong93 on MediUX.  https://mediux.pro/sets/25256
+    url_poster: https://api.mediux.pro/assets/26f09790-ce4b-4248-b413-198c07d3702f
+  13455: # Push (2009) Poster by willtong93 on MediUX.  https://mediux.pro/sets/25283
+    url_poster: https://api.mediux.pro/assets/d26e9fc8-962e-4bc0-a02d-4166d90027e7
+  348: # Alien (1979) Poster by willtong93 on MediUX. https://mediux.pro/sets/25343
+    url_poster: https://api.mediux.pro/assets/9a8e936c-ad0c-4140-8d70-7e2695605256
+  679: # Aliens (1986) Poster by willtong93 on MediUX. https://mediux.pro/sets/25343
+    url_poster: https://api.mediux.pro/assets/6041e74d-1c8d-49d8-af64-d76861508303
+  8077: # Alien³ (1992) Poster by willtong93 on MediUX. https://mediux.pro/sets/25343
+    url_poster: https://api.mediux.pro/assets/1ed2b8fd-6a50-4fd5-b30b-1d73a5737881
+  8078: # Alien Resurrection (1997) Poster by willtong93 on MediUX. https://mediux.pro/sets/25343
+    url_poster: https://api.mediux.pro/assets/1cc4d029-7384-4fb6-a5e3-91def743bcfa
+  440: # Aliens vs Predator: Requiem (2007) Poster by willtong93 on MediUX.  https://mediux.pro/sets/25344
+    url_poster: https://api.mediux.pro/assets/28c4d4b4-c006-4ba4-b14a-a8907677a054
+  395: # AVP: Alien vs. Predator (2004) Poster by willtong93 on MediUX.  https://mediux.pro/sets/25344
+    url_poster: https://api.mediux.pro/assets/1ded833e-699d-421f-a299-667416584545
+  126889: # Alien: Covenant (2017) Poster by willtong93 on MediUX.  https://mediux.pro/sets/25345
+    url_poster: https://api.mediux.pro/assets/fe87ab06-509a-4a6e-b56b-96bf59e0b1bf
+  70981: # Prometheus (2012) Poster by willtong93 on MediUX.  https://mediux.pro/sets/25345
+    url_poster: https://api.mediux.pro/assets/3698485a-23da-4989-9db9-38d684ed7e83
+  945961: # Alien: Romulus (2024) Poster by willtong93 on MediUX.  https://mediux.pro/sets/25346
+    url_poster: https://api.mediux.pro/assets/7917de7c-3da6-4c75-a10e-a712e285ac23
+  11674: # 101 Dalmatians (1996) Poster by Olivier_286 on MediUX. https://mediux.pro/sets/19385
+    url_poster: https://api.mediux.pro/assets/77efa110-db0e-4755-b378-96648601dde5
+    url_background: https://api.mediux.pro/assets/c872c0c8-6c8f-48cb-b7b0-f2909a4f3edd
   299537: # Captain Marvel (2019) Poster by Pejamas on MediUX. https://mediux.pro/sets/7161
     url_poster: https://api.mediux.pro/assets/97f6b19e-8a53-44c9-9489-cf770df9b921
   609681: # The Marvels (2023) Poster by Pejamas on MediUX. https://mediux.pro/sets/7161
@@ -932,26 +1033,6 @@ metadata:
   639721: # The Addams Family 2 (2021) Poster by RuviLev on MediUX. https://mediux.pro/sets/12209
     url_poster: https://api.mediux.pro/assets/cfb12edd-4252-40aa-8a39-cae4b485b1bd
 
-  12155: # Alice in Wonderland (2010) Poster by Olivier_286 on MediUX. https://mediux.pro/sets/19302
-    url_poster: https://api.mediux.pro/assets/110a5644-28b1-4022-8b00-2184ed6bb825
-    url_background: https://api.mediux.pro/assets/7dd11324-4d8e-4c43-a1e2-5934e8463910
-
-  241259: # Alice Through the Looking Glass (2016) Poster by Olivier_286 on MediUX. https://mediux.pro/sets/19302
-    url_poster: https://api.mediux.pro/assets/8f9d6086-908e-45f1-8053-9c801e2685ca
-    url_background: https://api.mediux.pro/assets/278f5468-2e15-44a1-ae8a-1d698b7c422a
-
-  348: # Alien (1979) Poster by darkwesley on MediUX. https://mediux.pro/sets/11765
-    url_poster: https://api.mediux.pro/assets/2ae2e987-d762-4705-804f-c0a29658e838
-
-  679: # Aliens (1986) Poster by darkwesley on MediUX. https://mediux.pro/sets/11765
-    url_poster: https://api.mediux.pro/assets/f23364c2-886b-45d5-bec4-8a5ef4b0d6e8
-
-  8077: # Alien³ (1992) Poster by darkwesley on MediUX. https://mediux.pro/sets/11765
-    url_poster: https://api.mediux.pro/assets/a16e8283-de1c-4880-9154-8f617ba59ad1
-
-  8078: # Alien Resurrection (1997) Poster by darkwesley on MediUX. https://mediux.pro/sets/11765
-    url_poster: https://api.mediux.pro/assets/2145a471-3361-4cdb-b9e5-eab9d2cbfb2f
-
   11497: # All Dogs Go to Heaven (1989) Poster by RuviLev on MediUX. https://mediux.pro/sets/11118
     url_poster: https://api.mediux.pro/assets/befcbf85-dd91-4783-9872-3f5836207238
 
@@ -1052,28 +1133,6 @@ metadata:
 
   38700: # Bad Boys for Life (2020) Poster by RuviLev on MediUX. https://mediux.pro/sets/8384
     url_poster: https://api.mediux.pro/assets/a10a2768-8b6f-4b86-a994-70ac9398dd88
-
-  268: # Batman (1989) Poster by adamboulton on MediUX. https://mediux.pro/sets/17314
-    url_poster: https://api.mediux.pro/assets/ce966836-9957-401c-a8a0-f1c6853da32d
-
-  364: # Batman Returns (1992) Poster by adamboulton on MediUX. https://mediux.pro/sets/17314
-    url_poster: https://api.mediux.pro/assets/67c7e550-0d01-42a4-a8f7-dd361ba0aadd
-
-  414: # Batman Forever (1995) Poster by adamboulton on MediUX. https://mediux.pro/sets/17314
-    url_poster: https://api.mediux.pro/assets/87fa1f01-3ea1-4817-8c5a-03588a394494
-
-  415: # Batman & Robin (1997) Poster by adamboulton on MediUX. https://mediux.pro/sets/17314
-    url_poster: https://api.mediux.pro/assets/521f2405-6e4b-4de5-b89e-58e7ef815986
-
-  272: # Batman Begins (2005) Poster by adamboulton on MediUX. https://mediux.pro/sets/17111
-    url_poster: https://api.mediux.pro/assets/332f3741-0a62-403a-a056-20aa4210cbe4
-
-  155: # The Dark Knight (2008) Poster by adamboulton on MediUX. https://mediux.pro/sets/17111
-    url_poster: https://api.mediux.pro/assets/17cbfbef-b24d-408b-8bf9-d4bd40aef19d
-
-  49026: # The Dark Knight Rises (2012) Poster by adamboulton on MediUX. https://mediux.pro/sets/17111
-    url_poster: https://api.mediux.pro/assets/3e617528-bd0b-4467-a793-3a77aa37f05f
-
   14405: # Beverly Hills Chihuahua (2008) Poster by RuviLev on MediUX. https://mediux.pro/sets/13312
     url_poster: https://api.mediux.pro/assets/a4e208ca-10ac-4464-b718-8c89ac10660c
 
@@ -1542,17 +1601,12 @@ metadata:
     url_poster: https://api.mediux.pro/assets/19552e6d-a864-4b02-b9e6-fb22605ffceb
   559907: # The Green Knight (2021) Poster by Pejamas on MediUX. https://mediux.pro/sets/10914
     url_poster: https://api.mediux.pro/assets/4eeafc5a-ad24-4d6a-bf40-13b9f4e1c1e7
-  44912: # Green Lantern (2011) Poster by wiwer on MediUX. https://mediux.pro/sets/9056
-    url_poster: https://api.mediux.pro/assets/bfe7fec9-6bce-4664-a6f0-8e3bfd68e06b
   887357: # Green Lantern: Beware My Power (2022) Poster by RuviLev on MediUX. https://mediux.pro/sets/15493
     url_poster: https://api.mediux.pro/assets/cfa54c99-f6dd-44a0-9bab-8412c9e8d338
   516486: # Greyhound (2020) Poster by Pejamas on MediUX. https://mediux.pro/sets/11289
     url_poster: https://api.mediux.pro/assets/54434717-f8ad-4770-9d19-c324b6db274f
   360920: # The Grinch (2018) Poster by RuviLev on MediUX. https://mediux.pro/sets/12326
     url_poster: https://api.mediux.pro/assets/c7830939-d925-412e-9c01-e8d65775f2f6
-  532639: # Pinocchio (2022) Poster by Olivier_286 on MediUX. https://mediux.pro/sets/3855
-    url_poster: https://api.mediux.pro/assets/0669820d-678a-4c97-aee6-8d4bba4f4559
-    url_background: https://api.mediux.pro/assets/3ec68af0-d0a4-47d3-b70a-85f1e22618f6
   38745: # Gulliver's Travels (2010) Poster by Pejamas on MediUX. https://mediux.pro/sets/14582
     url_poster: https://api.mediux.pro/assets/a813c2de-ff47-4045-b879-5ee13bf8aa62
   324786: # Hacksaw Ridge (2016) Poster by Pejamas on MediUX. https://mediux.pro/sets/10968
