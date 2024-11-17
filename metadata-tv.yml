@@ -1,4 +1,29 @@
 metadata:
+  359583: # TVDB id for The Stand. Set by valexv on MediUX. https://mediux.pro/sets/18968
+    url_poster: https://api.mediux.pro/assets/093012e2-6da1-4a14-95a7-484da5711e5b
+    url_background: https://api.mediux.pro/assets/52a6416b-6360-4383-b604-bf5b627cf928
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/9b6ee234-73c8-4246-bffe-1b7a874f72a0
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/a026cc15-1b98-49e7-aab8-90bb9835df3e
+          2:
+            url_poster: https://api.mediux.pro/assets/17f92936-98d4-4fe7-9bd3-9e90e184493f
+          3:
+            url_poster: https://api.mediux.pro/assets/88479dfe-0777-4e23-a3b6-dc81d40b9581
+          4:
+            url_poster: https://api.mediux.pro/assets/dbc6a6df-9053-4ef0-8fa3-67e0fb625b92
+          5:
+            url_poster: https://api.mediux.pro/assets/4feb11f2-56aa-4374-90cd-02d9ae9377c9
+          6:
+            url_poster: https://api.mediux.pro/assets/63460369-2f43-4710-9559-a46a0363a6c0
+          7:
+            url_poster: https://api.mediux.pro/assets/0529b6ec-5007-4c03-8143-5670578d327e
+          8:
+            url_poster: https://api.mediux.pro/assets/1fc4ef33-ee3e-4a17-ab95-336d51382cb9
+          9:
+            url_poster: https://api.mediux.pro/assets/2b656980-a7c6-4d05-a68a-e8cecd753663
   361753: # TVDB id for The Mandalorian. Set by ForLightAndLIfe on MediUX. https://mediux.pro/sets/14125
     url_background: https://api.mediux.pro/assets/02b889e6-8f80-47c7-823d-a4c26a93b3cb
     seasons:
