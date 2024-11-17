@@ -1,7 +1,317 @@
 metadata:
+  
+  62177: # Brave (2012) Poster by willtong93 on MediUX. https://mediux.pro/sets/26757
+    url_poster: https://api.mediux.pro/assets/2a47725f-d425-4838-9d5f-7ce09aeb024f
+  862: # Toy Story (1995) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26741
+    url_poster: https://api.mediux.pro/assets/c0f10a03-c0fc-465e-87b2-fd7e359884b3
+  863: # Toy Story 2 (1999) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26741
+    url_poster: https://api.mediux.pro/assets/dc82348f-9f5c-4e7b-ab05-0c68e8a66b28
+  10193: # Toy Story 3 (2010) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26741
+    url_poster: https://api.mediux.pro/assets/8a38a632-9d01-43ac-baea-c47d74f99647
+  301528: # Toy Story 4 (2019) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26741
+    url_poster: https://api.mediux.pro/assets/b0d72036-6f73-4c02-9f72-6f755d6169f8
+  718789: # Lightyear (2022) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26747
+    url_poster: https://api.mediux.pro/assets/c1071745-f59b-46de-95c0-57a423c133f2
+  62211: # Monsters University (2013) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26748
+    url_poster: https://api.mediux.pro/assets/e418bd4b-f286-4295-a38a-b92b62b28165
+  585: # Monsters, Inc. (2001) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26748
+    url_poster: https://api.mediux.pro/assets/b845094b-0d86-4d71-aa81-f027a01a10a7
+  920: # Cars (2006) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26749
+    url_poster: https://api.mediux.pro/assets/f14266a0-e44c-4aaa-ae06-51bb04199b7c
+  49013: # Cars 2 (2011) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26749
+    url_poster: https://api.mediux.pro/assets/3150ffb7-0141-49c6-9296-0316b0b2b98f
+  260514: # Cars 3 (2017) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26749
+    url_poster: https://api.mediux.pro/assets/085c2af4-e7fb-4c36-ae2d-8a8a1b918ef8
+  127380: # Finding Dory (2016) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26750
+    url_poster: https://api.mediux.pro/assets/0385e543-f4d7-4659-a5b9-4978133db538
+  12: # Finding Nemo (2003) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26750
+    url_poster: https://api.mediux.pro/assets/ffe8539f-0965-4a59-a1a7-eaa3afcb7edf
+  260513: # Incredibles 2 (2018) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26751
+    url_poster: https://api.mediux.pro/assets/86f4cfe3-b457-4f58-9c69-b480cd4e69ea
+  9806: # The Incredibles (2004) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26751
+    url_poster: https://api.mediux.pro/assets/5ef67fed-f12e-442c-ba76-8a4f9096509f
+  150540: # Inside Out (2015) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26752
+    url_poster: https://api.mediux.pro/assets/d2b58625-67fe-41bf-9d7d-df8fde471091
+  1022789: # Inside Out 2 (2024) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26752
+    url_poster: https://api.mediux.pro/assets/a268a264-14c6-4181-a9b9-4b086d03b6f4
+  14160: # Up (2009) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26753
+    url_poster: https://api.mediux.pro/assets/a5b498f0-0bac-4dee-8b80-3e2fe649a672
+  10681: # WALL·E (2008) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26754
+    url_poster: https://api.mediux.pro/assets/da5682ca-b952-4fa4-835f-57b270e9bbc5
+  9487: # A Bug's Life (1998) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26755
+    url_poster: https://api.mediux.pro/assets/f36df378-31ce-4d45-9278-528071fbb33f
+  2062: # Ratatouille (2007) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26756
+    url_poster: https://api.mediux.pro/assets/00401787-2a9c-43fd-846b-f16c6ac5fc98
+  105864: # The Good Dinosaur (2015) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26758
+    url_poster: https://api.mediux.pro/assets/b7aefe85-e2cc-4c2a-a3c5-5c33bd4258a7
+  354912: # Coco (2017) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26759
+    url_poster: https://api.mediux.pro/assets/db6777e7-95b3-4753-b3e3-1af3ab6208fe
+  508439: # Onward (2020) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26760
+    url_poster: https://api.mediux.pro/assets/91a9855f-a958-49a6-9857-ee7098239882
+  508442: # Soul (2020) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26761
+    url_poster: https://api.mediux.pro/assets/08bb2bc5-801c-4f72-8ee3-e27aa5c6bb99
+  508943: # Luca (2021) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26762
+    url_poster: https://api.mediux.pro/assets/a856f201-3afb-4296-bcac-efbb3ac67f6a
+  508947: # Turning Red (2022) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26763
+    url_poster: https://api.mediux.pro/assets/5d88558c-4576-4efc-acd7-337acfd529e4
+  976573: # Elemental (2023) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26765
+    url_poster: https://api.mediux.pro/assets/e2fbcc0b-44c4-43a4-905d-dfdb6161d673
+  256835: # Toy Story That Time Forgot (2014) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26766
+    url_poster: https://api.mediux.pro/assets/52d371af-a525-4e3a-8699-35e6ad1a1789
+  213121: # Toy Story of Terror! (2013) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26768
+    url_poster: https://api.mediux.pro/assets/9e038f0e-1898-43ca-9092-1c3d9c2221ee
+  13413: # BURN·E (2008) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26769
+    url_poster: https://api.mediux.pro/assets/04cabd2c-87b5-40d8-862c-22effe6b92da
+  55423: # Mr. Incredible and Pals (2005) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26770
+    url_poster: https://api.mediux.pro/assets/4bd5037b-78cd-4a5c-8530-be91e16c0acb
+  13932: # Jack-Jack Attack (2005) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26771
+    url_poster: https://api.mediux.pro/assets/49d37e00-5b34-4a97-9b86-f8d7da7035f9
+  546728: # Auntie Edna (2018) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26772
+    url_poster: https://api.mediux.pro/assets/98e83228-1018-4df0-996e-e3c7621209e8
+  594530: # Lamp Life (2020) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26773
+    url_poster: https://api.mediux.pro/assets/c11b544f-9693-4f87-a712-49f5f6f73160
+  24589: # Dug's Special Mission (2009) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26774
+    url_poster: https://api.mediux.pro/assets/a8e31c63-08bd-46f5-bedc-925468357d46
+  72962: # George and A.J. (2009) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26775
+    url_poster: https://api.mediux.pro/assets/232f24b3-0231-4968-abe8-63690f1b6163
+  1076364: # Carl's Date (2023) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26776
+    url_poster: https://api.mediux.pro/assets/48b5de4d-d5cd-4f27-ac22-0936e67c88f4
+  777350: # Dory's Reef Cam (2020) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26777
+    url_poster: https://api.mediux.pro/assets/927ec859-ed9a-4f3a-a760-03866a112eee
+  427004: # Marine Life Interviews (2016) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26778
+    url_poster: https://api.mediux.pro/assets/7c092658-e27b-4cc6-bfc0-90f7316a683e
+  296850: # Exploring the Reef (2003) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26779
+    url_poster: https://api.mediux.pro/assets/7ef8575e-23b8-4a48-acfa-81f1de5c1fcd
+  13931: # Mike's New Car (2002) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26780
+    url_poster: https://api.mediux.pro/assets/e0751cff-0b87-460a-a842-cfb046e88035
+  258152: # Party Central (2014) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26781
+    url_poster: https://api.mediux.pro/assets/2a516d56-ee11-401c-8cca-0ee1c9430015
+    
+  471474: # Batman: Gotham by Gaslight (2018) Poster by MiniZaki on MediUX. https://mediux.pro/sets/15751
+  url_poster: https://api.mediux.pro/assets/dea6663b-b8a4-4430-9b54-bedae8133aef
+  618350: # DC Showcase: Adam Strange (2020) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15739
+    url_poster: https://api.mediux.pro/assets/03c3961b-9ed0-4213-94a6-b4a5a6ad5b3d
+  56590: # All Star Superman (2011) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15740
+    url_poster: https://api.mediux.pro/assets/c5f4c71e-5841-430f-b727-b08a099fea1f
+  408648: # Batman and Harley Quinn (2017) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15741
+    url_poster: https://api.mediux.pro/assets/8da055f8-c7eb-4ac6-b304-f0a7a54d2ef9
+  15805: # Batman u0026 Mr. Freeze: SubZero (1998) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15742
+    url_poster: https://api.mediux.pro/assets/6d2e4a77-8ba6-45a5-9356-025190be92b4
+  14919: # Batman: Mask of the Phantasm (1993) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15742
+    url_poster: https://api.mediux.pro/assets/aa46c019-153d-4d04-9f07-0bb0161467f9
+  21683: # Batman: Mystery of the Batwoman (2003) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15742
+    url_poster: https://api.mediux.pro/assets/c2d7da7f-63c4-4d5f-bc21-0cada1711aa7
+  886396: # Batman and Superman: Battle of the Super Sons (2022) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15743
+    url_poster: https://api.mediux.pro/assets/0ba84e5d-d639-437b-9b15-959348c98734
+  242643: # Batman: Assault on Arkham (2014) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15744
+    url_poster: https://api.mediux.pro/assets/33dd12cf-c8c3-46aa-8b8e-015a907976ad
+  321528: # Batman vs. Robin (2015) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15745
+    url_poster: https://api.mediux.pro/assets/363ce6f9-86ea-45c2-83d3-cb6048fad353
+  366924: # Batman: Bad Blood (2016) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15745
+    url_poster: https://api.mediux.pro/assets/d8769101-7c41-4046-83f3-c0f5dc2aa4af
+  537056: # Batman: Hush (2019) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15745
+    url_poster: https://api.mediux.pro/assets/efe13a3c-8779-4c7a-9b19-c5049c9d5e45
+  251519: # Son of Batman (2014) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15745
+    url_poster: https://api.mediux.pro/assets/8f908cd8-9392-49dd-89fc-b9455844f236
+  16234: # Batman Beyond: Return of the Joker (2000) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15746
+    url_poster: https://api.mediux.pro/assets/335b4975-cc01-4c6b-8b9d-8f937ab85dff
+  485942: # Batman Ninja (2018) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15747
+    url_poster: https://api.mediux.pro/assets/14523d4b-1a00-451a-99db-ebf2e9f8804f
+  464882: # Batman vs. Two-Face (2017) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15748
+    url_poster: https://api.mediux.pro/assets/96c5201f-abe2-4f3b-9c54-3685d5db49d7
+  411736: # Batman: Return of the Caped Crusaders (2016) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15748
+    url_poster: https://api.mediux.pro/assets/821937c2-ef1f-4e4a-a38d-192b466a08ab
+  732450: # Batman: Soul of the Dragon (2021) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15749
+    url_poster: https://api.mediux.pro/assets/4b14fd6b-ec1a-4c8a-b0bf-2b0c7eeda80f
+  618353: # Batman: Death in the Family (2020) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15750
+    url_poster: https://api.mediux.pro/assets/437aae68-0675-4b18-b394-66e796876278
+  13851: # Batman: Gotham Knight (2008) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15752
+    url_poster: https://api.mediux.pro/assets/ade6316a-4ef6-4931-a7c0-8742d810cd72
+  123025: # Batman: The Dark Knight Returns, Part 1 (2012) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15753
+    url_poster: https://api.mediux.pro/assets/60a30e44-ad6e-46f2-a4ca-12977f38a838
+  142061: # Batman: The Dark Knight Returns, Part 2 (2013) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15753
+    url_poster: https://api.mediux.pro/assets/2b958ed8-83b4-4c36-a765-7d73077f8594
+  1003579: # Batman: The Doom That Came to Gotham (2023) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15754
+    url_poster: https://api.mediux.pro/assets/3584fb78-85bf-4b99-afd2-941758e0bb66
+  382322: # Batman: The Killing Joke (2016) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15755
+    url_poster: https://api.mediux.pro/assets/b955fc47-6413-447b-b164-346c5857c381
+  736073: # Batman: The Long Halloween, Part One (2021) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15756
+    url_poster: https://api.mediux.pro/assets/5755c00e-79e5-474c-bb36-958b81c07382
+  736074: # Batman: The Long Halloween, Part Two (2021) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15756
+    url_poster: https://api.mediux.pro/assets/9f2c3fe5-50b4-4400-b8fd-2cb6da235fc8
+  40662: # Batman: Under the Red Hood (2010) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15757
+    url_poster: https://api.mediux.pro/assets/05543db4-2532-4f9a-abb5-278ee62bda92
+  327418: # Batman Unlimited: Animal Instincts (2015) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15758
+    url_poster: https://api.mediux.pro/assets/bd029bd4-0d8e-4dc3-8d7b-7244707ba6fc
+  411802: # Batman Unlimited: Mechs vs. Mutants (2016) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15758
+    url_poster: https://api.mediux.pro/assets/565b2a45-90f8-49cf-a596-b138af7eae4c
+  342917: # Batman Unlimited: Monster Mayhem (2015) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15758
+    url_poster: https://api.mediux.pro/assets/0bd3d6e8-1b42-435e-98cc-619670e9336e
+  20077: # The Batman vs. Dracula (2005) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15759
+    url_poster: https://api.mediux.pro/assets/121845ed-2b5c-46ca-8314-7fa817ea8ffa
+  581997: # Batman vs Teenage Mutant Ninja Turtles (2019) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15760
+    url_poster: https://api.mediux.pro/assets/14f7ab53-3946-4321-b88e-2fd6af8ddc44
+  69735: # Batman: Year One (2011) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15761
+    url_poster: https://api.mediux.pro/assets/18dd3933-42be-46f8-9d26-7067473d5bde
+  791346: # DC Showcase: Blue Beetle (2021) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15762
+    url_poster: https://api.mediux.pro/assets/a5cf8ed3-e95b-4ce4-86ca-2d5b21cc1b6a
+  76420: # DC Showcase: Catwoman (2011) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15763
+    url_poster: https://api.mediux.pro/assets/bf50f372-af86-428c-bbea-9e9926348909
+  862491: # Catwoman: Hunted (2022) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15764
+    url_poster: https://api.mediux.pro/assets/df636a2a-f248-45e5-95ff-96aba56d1796
+  539517: # Constantine: City of Demons - The Movie (2018) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15765
+    url_poster: https://api.mediux.pro/assets/ec885bd0-0bf6-46b6-a9f8-6d0237ab39fd
+  791348: # Constantine: The House of Mystery (2022) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15766
+    url_poster: https://api.mediux.pro/assets/38ba31c8-9350-4edd-b581-7d9555bb5acc
+  539681: # DC League of Super-Pets (2022) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15767
+    url_poster: https://api.mediux.pro/assets/40f9efb3-80c4-4839-8658-5c9ad59b74b1
+  791343: # DC Showcase: Kamandi: The Last Boy on Earth! (2021) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15768
+    url_poster: https://api.mediux.pro/assets/e9dac360-565a-46a6-bd4a-7b0b65985434
+  791344: # DC Showcase: The Losers (2021) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15769
+    url_poster: https://api.mediux.pro/assets/4a51b70c-c37f-4995-b3a8-f6ca49281e48
+  579561: # Death (2019) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15770
+    url_poster: https://api.mediux.pro/assets/c8267a1d-e4e7-41d7-bebc-e0ffaf3cf9e3
+  703771: # Deathstroke: Knights u0026 Dragons - The Movie (2020) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15771
+    url_poster: https://api.mediux.pro/assets/34742200-4ce0-44a0-837f-8628d5a77c83
+  46718: # DC Showcase: Green Arrow (2010) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15772
+    url_poster: https://api.mediux.pro/assets/368bd810-d9b9-4d74-97db-f9d7e7827f7b
+  17445: # Green Lantern: First Flight (2009) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15773
+    url_poster: https://api.mediux.pro/assets/58427cc5-4493-46a3-ae98-c3d47c0aae12
+  65291: # Green Lantern: Emerald Knights (2011) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15774
+    url_poster: https://api.mediux.pro/assets/b6c3592c-122f-4209-a603-4b704947426b
+  887357: # Green Lantern: Beware My Power (2022) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15775
+    url_poster: https://api.mediux.pro/assets/8f42c96d-04c2-4744-88d6-f22624191a88
+  831405: # Injustice (2021) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15776
+    url_poster: https://api.mediux.pro/assets/d1b2e37b-5c45-4c6f-9636-109ef39df35e
+  41988: # DC Showcase: Jonah Hex (2010) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15777
+    url_poster: https://api.mediux.pro/assets/be28b4e0-0f21-4d61-aae3-da8a7066cfeb
+  251768: # JLA Adventures: Trapped in Time (2014) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15778
+    url_poster: https://api.mediux.pro/assets/ed905622-3a89-45e8-a750-231491beb23c
+  1155089: # Justice League: Crisis on Infinite Earths Part One (2024) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15779
+    url_poster: https://api.mediux.pro/assets/47ad879c-1521-40d1-a27f-7091b9a964c7
+  1209290: # Justice League: Crisis on Infinite Earths Part Three (2024) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15779
+    url_poster: https://api.mediux.pro/assets/076dd1e2-d456-47d9-a52d-a5826951666a
+  1209288: # Justice League: Crisis on Infinite Earths Part Two (2024) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15779
+    url_poster: https://api.mediux.pro/assets/ee1c7521-070f-4705-ba59-606ecd171e77
+  1003581: # Justice League: Warworld (2023) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15779
+    url_poster: https://api.mediux.pro/assets/0da364b2-8840-4797-8b88-6e4119d42b77
+  736069: # Justice Society: World War II (2021) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15779
+    url_poster: https://api.mediux.pro/assets/1abfe3a5-78b1-4c6b-8b96-9a5c46986e46
+  618354: # Superman: Man of Tomorrow (2020) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15779
+    url_poster: https://api.mediux.pro/assets/7136b09a-07ca-419d-bc7b-012eba90843a
+  76589: # Justice League: Doom (2012) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15780
+    url_poster: https://api.mediux.pro/assets/56bce825-4df7-408e-aeb2-25f64526bec9
+  30061: # Justice League: Crisis on Two Earths (2010) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15781
+    url_poster: https://api.mediux.pro/assets/8642e104-1ea4-4d68-a917-97407c995964
+  408220: # Justice League Dark (2017) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15782
+    url_poster: https://api.mediux.pro/assets/1ead2484-f496-4a86-947b-8ab26b42582a
+  618344: # Justice League Dark: Apokolips War (2020) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15782
+    url_poster: https://api.mediux.pro/assets/855d9c21-eeb1-4a61-bdc4-83f5ad2fadf6
+  183011: # Justice League: The Flashpoint Paradox (2013) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15783
+    url_poster: https://api.mediux.pro/assets/4e386cb2-e41f-47cc-87b4-c0ab4ad84fb4
+  297556: # Justice League: Throne of Atlantis (2015) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15783
+    url_poster: https://api.mediux.pro/assets/e2113507-a7a4-4f19-a39c-3864f160470a
+  217993: # Justice League: War (2014) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15783
+    url_poster: https://api.mediux.pro/assets/d172d0e2-7b46-4673-9f55-eab2b01db4c8
+  1003580: # Legion of Super-Heroes (2023) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15784
+    url_poster: https://api.mediux.pro/assets/3a8ab925-21ef-4c13-8833-8af0f94381cb
+  618352: # DC Showcase: The Phantom Stranger (2020) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15785
+    url_poster: https://api.mediux.pro/assets/b18c9d94-ea4b-4661-978d-40f72d750652
+  323027: # Justice League: Gods and Monsters (2015) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15786
+    url_poster: https://api.mediux.pro/assets/7687890f-4480-4ad8-a438-daeae200be93
+  14011: # Justice League: The New Frontier (2008) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15787
+    url_poster: https://api.mediux.pro/assets/c406ff30-e449-4e1d-8d0e-1764728c8c78
+  537059: # Justice League vs. the Fatal Five (2019) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15788
+    url_poster: https://api.mediux.pro/assets/629b83eb-cb70-41aa-ba99-3f41baecd87d
+  997776: # Justice League x RWBY: Super Heroes u0026 Huntsmen, Part One (2023) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15789
+    url_poster: https://api.mediux.pro/assets/86de12cb-795c-4208-9bff-261be8ae1b23
+  1150537: # Justice League x RWBY: Super Heroes u0026 Huntsmen, Part Two (2023) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15789
+    url_poster: https://api.mediux.pro/assets/e09c087e-72b6-4a40-86da-c0742a5e5adc
+  379291: # Justice League vs. Teen Titans (2016) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15790
+    url_poster: https://api.mediux.pro/assets/ed55ba48-1fc2-4209-9110-81e1b5407ac9
+  408647: # Teen Titans: The Judas Contract (2017) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15790
+    url_poster: https://api.mediux.pro/assets/7551abdc-9ec1-481c-b889-2d2be8c8ad3e
+  487672: # Reign of the Supermen (2019) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15791
+    url_poster: https://api.mediux.pro/assets/e4992844-e339-40ff-a366-abfdfb4068e6
+  487670: # The Death of Superman (2018) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15791
+    url_poster: https://api.mediux.pro/assets/6d899a47-3d93-4866-bf98-4d3a0390cd65
+  618346: # DC Showcase: Sgt. Rock (2019) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15792
+    url_poster: https://api.mediux.pro/assets/9d2c40bd-7618-418a-b051-87fea1224fed
+  487242: # Suicide Squad: Hell to Pay (2018) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15793
+    url_poster: https://api.mediux.pro/assets/ac9ae7ad-2441-451c-bcbe-1490c7400e75
+  45162: # Superman/Batman: Apocalypse (2010) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15794
+    url_poster: https://api.mediux.pro/assets/568f724c-9972-4f46-8bd6-8a86bfa02f94
+  22855: # Superman/Batman: Public Enemies (2009) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15794
+    url_poster: https://api.mediux.pro/assets/49132c88-6da4-4f5a-b714-2791f0118a25
+  19323: # Superman: Brainiac Attacks (2006) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15795
+    url_poster: https://api.mediux.pro/assets/592c88b3-5dbf-46fd-98fb-e441f05a913a
+  17074: # The Batman/Superman Movie: World's Finest (1998) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15795
+    url_poster: https://api.mediux.pro/assets/84c6280a-7d71-48fd-8e2d-5fdf744822c9
+  13640: # Superman: Doomsday (2007) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15796
+    url_poster: https://api.mediux.pro/assets/1e1f7a49-983c-448c-bf33-87c0ce37970a
+  618355: # Superman: Red Son (2020) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15797
+    url_poster: https://api.mediux.pro/assets/a9c18f3b-b479-474a-a5a6-2a41deeaefad
+  43641: # Superman/Shazam!: The Return of Black Adam (2010) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15798
+    url_poster: https://api.mediux.pro/assets/69c1f8f1-9522-4268-86fc-6f0ac69ad35e
+  166076: # Superman: Unbound (2013) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15799
+    url_poster: https://api.mediux.pro/assets/a4028755-e067-4f7d-87e4-a9c8f07bcd4e
+  103269: # Superman vs. The Elite (2012) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15800
+    url_poster: https://api.mediux.pro/assets/34b88504-1161-4369-9e32-f88b36d09385
+  834404: # Teen Titans Go! See Space Jam (2021) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15801
+    url_poster: https://api.mediux.pro/assets/35aa79b5-933b-40ae-9570-69f03aad7c55
+  474395: # Teen Titans Go! To the Movies (2018) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15801
+    url_poster: https://api.mediux.pro/assets/6ffaa6be-b1e1-4265-a152-03ec774ec568
+  913205: # Teen Titans Go! u0026 DC Super Hero Girls: Mayhem in the Multiverse (2022) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15801
+    url_poster: https://api.mediux.pro/assets/d88d0c53-d027-480a-8228-5465af9107c6
+  556901: # Teen Titans Go! vs. Teen Titans (2019) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15801
+    url_poster: https://api.mediux.pro/assets/63da2e12-79e8-46cc-9852-599ef0527c4b
+  16237: # Teen Titans: Trouble in Tokyo (2006) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15802
+    url_poster: https://api.mediux.pro/assets/67525d5d-ae03-4626-ad35-3123b1b6fa72
+  38180: # DC Showcase: The Spectre (2010) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15803
+    url_poster: https://api.mediux.pro/assets/664ee2d2-d67d-4064-a133-33475bb77568
+  15359: # Wonder Woman (2009) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15804
+    url_poster: https://api.mediux.pro/assets/9dadec17-9883-4e03-b00a-da534a90f257
+  537055: # Wonder Woman: Bloodlines (2019) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15805
+    url_poster: https://api.mediux.pro/assets/8994a71a-86d5-4b50-93a3-0ff4ef792bae
+  401650: # DC Super Hero Girls: Hero of the Year (2016) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15806
+    url_poster: https://api.mediux.pro/assets/32f5855d-e864-4f35-8dbb-97a6038abab9
+  452931: # DC Super Hero Girls: Intergalactic Games (2017) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15806
+    url_poster: https://api.mediux.pro/assets/f23d16f1-d9c6-457f-a96c-44669d836293
+  513730: # DC Super Hero Girls: Legends of Atlantis (2018) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15806
+    url_poster: https://api.mediux.pro/assets/3c63aecb-1a96-4d30-ba03-8208602c5b67
+  403333: # DC Super Hero Girls: Super Hero High (2016) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15806
+    url_poster: https://api.mediux.pro/assets/cde8339a-cb80-4196-a526-80c90fdbc250
+  539626: # Freedom Fighters: The Ray (2018) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15807
+    url_poster: https://api.mediux.pro/assets/a7203dd6-5033-4c84-89d5-7175093ca257
+  15993: # Gen 13 (2000) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15808
+    url_poster: https://api.mediux.pro/assets/3e699b5e-49c1-4a96-b92d-9b2e39197fa3
+  16440: # Tales of the Black Freighter (2009) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15809
+    url_poster: https://api.mediux.pro/assets/43c111f5-ece7-4aad-9bfa-652050daebe8
+  457249: # Vixen: The Movie (2017) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15810
+    url_poster: https://api.mediux.pro/assets/8e89851a-c606-45fa-8df8-0451c6913431
+  
+  1320637: # Am I Racist? (2024) Poster by Pejamas on MediUX. https://mediux.pro/sets/27627
+    url_poster: https://api.mediux.pro/assets/1a797430-31ef-4acc-bcd0-7622a073832d
+    url_background: https://api.mediux.pro/assets/a1e05328-1e9a-4d37-89fd-f9eaae9b9698
+  813: # Airplane! (1980) Poster by wwalkerrrrr on MediUX. https://mediux.pro/sets/16786
+    url_poster: https://api.mediux.pro/assets/120bf4a5-ff58-4ba3-80fd-7b446ffde6b2
+  537915: # After (2019) Poster by plexstreaming on MediUX. https://mediux.pro/sets/27620
+    url_poster: https://api.mediux.pro/assets/422b0125-9936-4e40-9035-7024a72d26f0
+  613504: # After We Collided (2020) Poster by plexstreaming on MediUX. https://mediux.pro/sets/27620
+    url_poster: https://api.mediux.pro/assets/d1c96639-46b0-4ff9-90ee-da1e181e9cb2
+  744275: # After We Fell (2021) Poster by plexstreaming on MediUX. https://mediux.pro/sets/27620
+    url_poster: https://api.mediux.pro/assets/3ccc78ec-65ea-444b-90b3-8accb260b300
+  744276: # After Ever Happy (2022) Poster by plexstreaming on MediUX. https://mediux.pro/sets/27620
+    url_poster: https://api.mediux.pro/assets/518a75ea-47d1-447d-a142-603020483e11
+  820525: # After Everything (2023) Poster by plexstreaming on MediUX. https://mediux.pro/sets/27620
+    url_poster: https://api.mediux.pro/assets/beb9eb80-fcc8-44a3-8501-7338008eed46
+  9495: # The Crow (1994) Poster by Pejamas on MediUX. https://mediux.pro/sets/23183
+    url_poster: https://api.mediux.pro/assets/71cea73d-4961-4a88-b791-6bfe12d7eec1
+  957452: # The Crow (2024) Poster by Pejamas on MediUX. https://mediux.pro/sets/16079
+    url_poster: https://api.mediux.pro/assets/e6c32853-68b3-4e5b-9c06-edf8028c0706
   475557: # Joker (2019) Poster by willtong93 on MediUX. https://mediux.pro/sets/25136
-  url_poster: https://api.mediux.pro/assets/c991dd7e-6719-4e15-a55b-21dcb8580581
-  url_background: https://api.mediux.pro/assets/d6f029fc-4cc7-496f-9f14-236bc59bffdd
+    url_poster: https://api.mediux.pro/assets/c991dd7e-6719-4e15-a55b-21dcb8580581
+    url_background: https://api.mediux.pro/assets/d6f029fc-4cc7-496f-9f14-236bc59bffdd
   889737: # Joker: Folie à Deux (2024) Poster by willtong93 on MediUX. https://mediux.pro/sets/25136
     url_poster: https://api.mediux.pro/assets/fc494efc-1e56-4ecc-91da-9f9dc29b9cec
     url_background: https://api.mediux.pro/assets/206b6871-f597-4100-8038-1416c483ac46
@@ -826,8 +1136,6 @@ metadata:
     url_poster: https://api.mediux.pro/assets/c06913e5-c571-42ae-98a3-4528fa94667d
   365177: # Borderlands (2024) Poster by RuviLev on MediUX. https://mediux.pro/sets/24705
     url_poster: https://api.mediux.pro/assets/886f3784-de64-4a89-bbc2-fa85236c3e4b
-  382322: # Batman: The Killing Joke (2016) Poster by RuviLev on MediUX. https://mediux.pro/sets/15476
-    url_poster: https://api.mediux.pro/assets/48c59b60-5100-4f31-98e5-d14decb54e8e
   198184: # Chappie (2015) Poster by brikim on MediUX. https://mediux.pro/sets/9321
     url_poster: https://api.mediux.pro/assets/6e5fd448-0ae1-4623-8a75-0d7d2a41cb5c
   329865: # Arrival (2016) Poster by Pejamas on MediUX. https://mediux.pro/sets/8791
@@ -835,28 +1143,6 @@ metadata:
   10201: # Yes Man (2008) Poster by RuviLev on MediUX. https://mediux.pro/sets/9300
     url_poster: https://api.mediux.pro/assets/52aa8566-6506-430e-bb1d-c01869f28256
 
-  14919: # Batman: Mask of the Phantasm (1993) Poster by RuviLev on MediUX. https://mediux.pro/sets/15484
-    url_poster: https://api.mediux.pro/assets/3141de1e-d58a-4c66-b39f-28fe816aac62
-
-  15805: # Batman & Mr. Freeze: SubZero (1998) Poster by RuviLev on MediUX. https://mediux.pro/sets/15484
-    url_poster: https://api.mediux.pro/assets/77c6f9e8-357a-4e59-a58c-44fc66bb80de
-
-  21683: # Batman: Mystery of the Batwoman (2003) Poster by RuviLev on MediUX. https://mediux.pro/sets/15484
-    url_poster: https://api.mediux.pro/assets/486e201f-83ec-4823-bf43-cd72f960a910
-  581997: # Batman vs Teenage Mutant Ninja Turtles (2019) Poster by RuviLev on MediUX. https://mediux.pro/sets/15478
-    url_poster: https://api.mediux.pro/assets/d35fb66c-82e7-4e6a-916b-2d2f1ca29774
-
-  251519: # Son of Batman (2014) Poster by RuviLev on MediUX. https://mediux.pro/sets/15491
-    url_poster: https://api.mediux.pro/assets/667ba1e3-6a69-4070-ab48-224dc3ef6a6e
-
-  321528: # Batman vs. Robin (2015) Poster by RuviLev on MediUX. https://mediux.pro/sets/15491
-    url_poster: https://api.mediux.pro/assets/5346f797-3180-4a19-8c3d-6255095b1002
-
-  366924: # Batman: Bad Blood (2016) Poster by RuviLev on MediUX. https://mediux.pro/sets/15491
-    url_poster: https://api.mediux.pro/assets/0fb8a382-9d12-4b70-95d2-de903e39a45c
-
-  537056: # Batman: Hush (2019) Poster by RuviLev on MediUX. https://mediux.pro/sets/15491
-    url_poster: https://api.mediux.pro/assets/217b1225-88d6-4c45-8dec-90c0d139df06
   257344: # Pixels (2015) Poster by RuviLev on MediUX. https://mediux.pro/sets/10069
     url_poster: https://api.mediux.pro/assets/d21f7d6a-1013-4785-b2e3-b5eaafc826e4
   1226578: # Longlegs (2024) Poster by Pejamas on MediUX. https://mediux.pro/sets/8788
@@ -870,16 +1156,6 @@ metadata:
 
   521029: # Annabelle Comes Home (2019) Poster by Pejamas on MediUX. https://mediux.pro/sets/14848
     url_poster: https://api.mediux.pro/assets/1df8ea4b-cf63-494e-aaed-8f3f63898206
-
-  150540: # Inside Out (2015) Poster by Olivier_286 on MediUX. https://mediux.pro/sets/22804
-    url_poster: https://api.mediux.pro/assets/c82cc726-4b3d-44d9-80c4-2c1dcf930af4
-    url_background: https://api.mediux.pro/assets/8f4db695-ff23-4c72-a084-3be5f152509f
-
-  1022789: # Inside Out 2 (2024) Poster by Olivier_286 on MediUX. https://mediux.pro/sets/22804
-    url_poster: https://api.mediux.pro/assets/ce6bdcee-e4ae-4f1d-9ed0-7c86e3712b35
-    url_background: https://api.mediux.pro/assets/9aeb6ea1-a944-4c3f-b32a-07cf1bee99c0
-
-
   138843: # The Conjuring (2013) Poster by Pejamas on MediUX. https://mediux.pro/sets/14847
     url_poster: https://api.mediux.pro/assets/7d26d3bf-0322-4c7c-858e-52bfc68aaa94
 
@@ -896,9 +1172,6 @@ metadata:
     url_poster: https://api.mediux.pro/assets/f3cf46e2-243d-4cc9-8269-74dc4c280c83
   190859: # American Sniper (2014) Poster by Pejamas on MediUX. https://mediux.pro/sets/10915
     url_poster: https://api.mediux.pro/assets/44a077d1-8778-4b0a-9535-78d2e36bfe5d
-  485942: # Batman Ninja (2018) Poster by RuviLev on MediUX. https://mediux.pro/sets/15473
-    url_poster: https://api.mediux.pro/assets/37b5d362-2415-4718-b094-a0700b744ab2
-
   42941: # 30 Days of Night: Dark Days (2010) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/824
     url_poster: https://api.mediux.pro/assets/3e8274c9-731c-4be4-9b15-5e016d3184a5
   937249: # 57 Seconds (2023) Poster by Pejamas on MediUX. https://mediux.pro/sets/13034
@@ -1601,8 +1874,7 @@ metadata:
     url_poster: https://api.mediux.pro/assets/19552e6d-a864-4b02-b9e6-fb22605ffceb
   559907: # The Green Knight (2021) Poster by Pejamas on MediUX. https://mediux.pro/sets/10914
     url_poster: https://api.mediux.pro/assets/4eeafc5a-ad24-4d6a-bf40-13b9f4e1c1e7
-  887357: # Green Lantern: Beware My Power (2022) Poster by RuviLev on MediUX. https://mediux.pro/sets/15493
-    url_poster: https://api.mediux.pro/assets/cfa54c99-f6dd-44a0-9bab-8412c9e8d338
+
   516486: # Greyhound (2020) Poster by Pejamas on MediUX. https://mediux.pro/sets/11289
     url_poster: https://api.mediux.pro/assets/54434717-f8ad-4770-9d19-c324b6db274f
   360920: # The Grinch (2018) Poster by RuviLev on MediUX. https://mediux.pro/sets/12326
