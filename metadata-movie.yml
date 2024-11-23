@@ -1,4 +1,22 @@
 metadata:
+  36657: # X-Men (2000) Poster by Pejamas on MediUX. https://mediux.pro/sets/4765
+    url_poster: https://api.mediux.pro/assets/9ea7b126-fbfb-4d3c-bbed-8c2f59b7ac83
+  36658: # X2 (2003) Poster by Pejamas on MediUX. https://mediux.pro/sets/4765
+    url_poster: https://api.mediux.pro/assets/10aee9b3-52f7-4b04-bd9d-b00a3b351e56
+  36668: # X-Men: The Last Stand (2006) Poster by Pejamas on MediUX. https://mediux.pro/sets/4765
+    url_poster: https://api.mediux.pro/assets/e8357de2-d39e-4893-b257-77f6c728cb79
+  49538: # X-Men: First Class (2011) Poster by Pejamas on MediUX. https://mediux.pro/sets/4765
+    url_poster: https://api.mediux.pro/assets/1ce3465f-f585-48b7-a494-44f149c9be90
+  127585: # X-Men: Days of Future Past (2014) Poster by Pejamas on MediUX. https://mediux.pro/sets/4765
+    url_poster: https://api.mediux.pro/assets/d3de7da6-5d23-4ee4-84f3-82d651dadc36
+  246655: # X-Men: Apocalypse (2016) Poster by Pejamas on MediUX. https://mediux.pro/sets/4765
+    url_poster: https://api.mediux.pro/assets/c3cf8b6d-98d4-4e85-8778-2adb7c80d0b3
+  320288: # Dark Phoenix (2019) Poster by Pejamas on MediUX. https://mediux.pro/sets/4765
+    url_poster: https://api.mediux.pro/assets/e7de0bff-705d-4dd0-9653-bda60b82879a
+  1930: # The Amazing Spider-Man (2012) Poster by Pejamas on MediUX. https://mediux.pro/sets/4767
+    url_poster: https://api.mediux.pro/assets/ee9ef8cf-019e-4c38-bf03-a4c03435274b
+  102382: # The Amazing Spider-Man 2 (2014) Poster by Pejamas on MediUX. https://mediux.pro/sets/4767
+    url_poster: https://api.mediux.pro/assets/3654eee1-cae8-440b-9593-a3759c99ca93
   211387: # Marvel One-Shot: Agent Carter (2013) Poster by Pejamas on MediUX. https://mediux.pro/sets/3120
     url_poster: https://api.mediux.pro/assets/1a327d90-d8a6-4bcc-823d-1c9a9a0a9e08
   253980: # Marvel One-Shot: All Hail the King (2014) Poster by Pejamas on MediUX.  https://mediux.pro/sets/3119
