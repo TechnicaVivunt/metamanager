@@ -1,4 +1,10 @@
 metadata:
+  310: # Bruce Almighty (2003) Poster by RuviLev on MediUX. https://mediux.pro/sets/24701
+    url_poster: https://api.mediux.pro/assets/3a388a8e-062c-46c3-af3a-cf5a5281ec21
+  2698: # Evan Almighty (2007) Poster by RuviLev on MediUX. https://mediux.pro/sets/24701
+    url_poster: https://api.mediux.pro/assets/b352c2df-0a38-49c5-a3d5-950d677a293d
+  399579: # Alita: Battle Angel (2019) Poster by willtong93 on MediUX. https://mediux.pro/sets/25551
+    url_poster: https://api.mediux.pro/assets/2da4efb7-d283-4701-9f12-f4aa8cc2cda9
   36657: # X-Men (2000) Poster by Pejamas on MediUX. https://mediux.pro/sets/4765
     url_poster: https://api.mediux.pro/assets/9ea7b126-fbfb-4d3c-bbed-8c2f59b7ac83
   36658: # X2 (2003) Poster by Pejamas on MediUX. https://mediux.pro/sets/4765
@@ -118,7 +124,7 @@ metadata:
     url_poster: https://api.mediux.pro/assets/2a516d56-ee11-401c-8cca-0ee1c9430015
     
   471474: # Batman: Gotham by Gaslight (2018) Poster by MiniZaki on MediUX. https://mediux.pro/sets/15751
-  url_poster: https://api.mediux.pro/assets/dea6663b-b8a4-4430-9b54-bedae8133aef
+    url_poster: https://api.mediux.pro/assets/dea6663b-b8a4-4430-9b54-bedae8133aef
   618350: # DC Showcase: Adam Strange (2020) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15739
     url_poster: https://api.mediux.pro/assets/03c3961b-9ed0-4213-94a6-b4a5a6ad5b3d
   56590: # All Star Superman (2011) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15740
@@ -1344,9 +1350,6 @@ metadata:
 
   51985: # An All Dogs Christmas Carol (1998) Poster by RuviLev on MediUX. https://mediux.pro/sets/11118
     url_poster: https://api.mediux.pro/assets/a3a8f2c5-cb81-4df3-9eac-294f05a0d5e8
-  310: # Bruce Almighty (2003) Poster by RuviLev on MediUX. https://mediux.pro/sets/9298
-    url_poster: https://api.mediux.pro/assets/a9ede4c9-c22c-4163-8fbf-cbc7481d513a
-
   6477: # Alvin and the Chipmunks (2007) Poster by RuviLev on MediUX. https://mediux.pro/sets/8350
     url_poster: https://api.mediux.pro/assets/2c02176e-1dae-48a0-84db-1bbabfbe89f5
 
