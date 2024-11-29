@@ -1,4 +1,84 @@
 metadata:
+  102651: # Maleficent (2014) Poster by Olivier_286 on MediUX. https://mediux.pro/sets/3875
+    url_poster: https://api.mediux.pro/assets/cfd1eb7c-484e-4207-93d1-03b415432330
+    url_background: https://api.mediux.pro/assets/9d09bfd6-9ef3-448e-bdb1-0a7adf0879af
+
+  420809: # Maleficent: Mistress of Evil (2019) Poster by Olivier_286 on MediUX. https://mediux.pro/sets/3875
+    url_poster: https://api.mediux.pro/assets/2880007a-d488-4200-9a9c-30572748f740
+    url_background: https://api.mediux.pro/assets/29c355b2-35f3-469f-afa8-25448531dc41
+
+  447277: # The Little Mermaid (2023) Poster by Olivier_286 on MediUX.  https://mediux.pro/sets/3851
+    url_poster: https://api.mediux.pro/assets/ed89a892-6128-47bb-9a54-386e92aab0ec
+    url_background: https://api.mediux.pro/assets/c6bfc4fe-7203-4c79-9cc8-dd093cca8217
+
+  532639: # Pinocchio (2022) Poster by Olivier_286 on MediUX.  https://mediux.pro/sets/3855
+    url_poster: https://api.mediux.pro/assets/0669820d-678a-4c97-aee6-8d4bba4f4559
+    url_background: https://api.mediux.pro/assets/3ec68af0-d0a4-47d3-b70a-85f1e22618f6
+
+  420817: # Aladdin (2019) Poster by Olivier_286 on MediUX.  https://mediux.pro/sets/3865
+    url_poster: https://api.mediux.pro/assets/2ef42b4e-9614-4296-a75e-9e6d823e3f9c
+    url_background: https://api.mediux.pro/assets/83b9337b-2434-4a6e-8a5b-9cab507830a8
+
+  321612: # Beauty and the Beast (2017) Poster by Olivier_286 on MediUX.  https://mediux.pro/sets/3867
+    url_poster: https://api.mediux.pro/assets/c3f17205-6597-4d90-a533-8f6ca4637344
+    url_background: https://api.mediux.pro/assets/74254e69-cb99-41f1-ac08-14715570c1c0
+
+  337404: # Cruella (2021) Poster by Olivier_286 on MediUX.  https://mediux.pro/sets/3868
+    url_poster: https://api.mediux.pro/assets/d29cce45-a214-48b9-93f3-e2579e2790c7
+    url_background: https://api.mediux.pro/assets/0dff963c-a484-4f99-b836-50a1d4d31823
+
+  329996: # Dumbo (2019) Poster by Olivier_286 on MediUX.  https://mediux.pro/sets/3871
+    url_poster: https://api.mediux.pro/assets/f3cc828f-d212-4c99-b824-89f9cd9d9606
+    url_background: https://api.mediux.pro/assets/aa886fde-a44d-410b-87fc-b6c4edec9b7f
+
+  512895: # Lady and the Tramp (2019) Poster by Olivier_286 on MediUX.  https://mediux.pro/sets/3872
+    url_poster: https://api.mediux.pro/assets/6966750b-3b20-4e49-af12-0b5e02b0d852
+    url_background: https://api.mediux.pro/assets/9364a47f-5e09-41e0-b723-2684211c98df
+
+  420808: # Peter Pan u0026 Wendy (2023) Poster by Olivier_286 on MediUX.  https://mediux.pro/sets/3880
+    url_poster: https://api.mediux.pro/assets/8a9b9af4-a263-4fb7-97b9-6850c9caa266
+    url_background: https://api.mediux.pro/assets/8f5ac488-dd58-4ba7-afaa-d8afc98daa5a
+
+  278927: # The Jungle Book (2016) Poster by Olivier_286 on MediUX.  https://mediux.pro/sets/3881
+    url_poster: https://api.mediux.pro/assets/73f810ce-ddd0-4498-a760-46e532aecb4d
+    url_background: https://api.mediux.pro/assets/3c2bfaed-ee38-45e1-9218-1332419a24bd
+
+  420818: # The Lion King (2019) Poster by Olivier_286 on MediUX.  https://mediux.pro/sets/3884
+    url_poster: https://api.mediux.pro/assets/960e30c2-e1c3-47c2-a3f4-a4f4c3b29446
+    url_background: https://api.mediux.pro/assets/d347f09f-651a-4189-a773-8c50422abbc1
+
+  337401: # Mulan (2020) Poster by Olivier_286 on MediUX.  https://mediux.pro/sets/6523
+    url_poster: https://api.mediux.pro/assets/95302277-6f3b-4c26-aa55-4acbb2101ffb
+    url_background: https://api.mediux.pro/assets/e8195d3a-68ec-469a-b74a-55584b806e67
+
+  150689: # Cinderella (2015) Poster by Olivier_286 on MediUX.  https://mediux.pro/sets/7205
+    url_poster: https://api.mediux.pro/assets/2e92d3f0-91ad-404c-aedc-540a7bb1ca80
+    url_background: https://api.mediux.pro/assets/ec45c2b2-e516-4ac5-8411-0e853e62189e
+
+
+  420814: # Christopher Robin (2018) Poster by Olivier_286 on MediUX.  https://mediux.pro/sets/19262
+    url_poster: https://api.mediux.pro/assets/3b6e5c05-b874-41e3-988b-9845480391c3
+    url_background: https://api.mediux.pro/assets/7dd11324-4d8e-4c43-a1e2-5934e8463910
+
+  12155: # Alice in Wonderland (2010) Poster by Olivier_286 on MediUX.  https://mediux.pro/sets/19302
+    url_poster: https://api.mediux.pro/assets/110a5644-28b1-4022-8b00-2184ed6bb825
+    url_background: https://api.mediux.pro/assets/278f5468-2e15-44a1-ae8a-1d698b7c422a
+
+  241259: # Alice Through the Looking Glass (2016) Poster by Olivier_286 on MediUX.  https://mediux.pro/sets/19302
+    url_poster: https://api.mediux.pro/assets/8f9d6086-908e-45f1-8053-9c801e2685ca
+    url_background: https://api.mediux.pro/assets/c872c0c8-6c8f-48cb-b7b0-f2909a4f3edd
+
+  11674: # 101 Dalmatians (1996) Poster by Olivier_286 on MediUX.  https://mediux.pro/sets/19385
+    url_poster: https://api.mediux.pro/assets/77efa110-db0e-4755-b378-96648601dde5
+    url_background: https://api.mediux.pro/assets/0a964ed1-e862-4a56-adfa-0691dd75331d
+
+  10481: # 102 Dalmatians (2000) Poster by Olivier_286 on MediUX.  https://mediux.pro/sets/19385
+    url_poster: https://api.mediux.pro/assets/413c9b24-ecd4-4250-a6f2-59d355c3a75f
+    url_background: https://api.mediux.pro/assets/03da3efe-c012-4208-bc49-fc4c274abe39
+
+  294272: # Pete's Dragon (2016) Poster by Olivier_286 on MediUX.  https://mediux.pro/sets/19387
+    url_poster: https://api.mediux.pro/assets/6a8c4a01-403f-4ce1-a198-b30e00745fb4
+    
   310: # Bruce Almighty (2003) Poster by RuviLev on MediUX. https://mediux.pro/sets/24701
     url_poster: https://api.mediux.pro/assets/3a388a8e-062c-46c3-af3a-cf5a5281ec21
   2698: # Evan Almighty (2007) Poster by RuviLev on MediUX. https://mediux.pro/sets/24701
@@ -443,9 +523,6 @@ metadata:
     url_poster: https://api.mediux.pro/assets/3698485a-23da-4989-9db9-38d684ed7e83
   945961: # Alien: Romulus (2024) Poster by willtong93 on MediUX.  https://mediux.pro/sets/25346
     url_poster: https://api.mediux.pro/assets/7917de7c-3da6-4c75-a10e-a712e285ac23
-  11674: # 101 Dalmatians (1996) Poster by Olivier_286 on MediUX. https://mediux.pro/sets/19385
-    url_poster: https://api.mediux.pro/assets/77efa110-db0e-4755-b378-96648601dde5
-    url_background: https://api.mediux.pro/assets/c872c0c8-6c8f-48cb-b7b0-f2909a4f3edd
   299537: # Captain Marvel (2019) Poster by Pejamas on MediUX. https://mediux.pro/sets/7161
     url_poster: https://api.mediux.pro/assets/97f6b19e-8a53-44c9-9489-cf770df9b921
   609681: # The Marvels (2023) Poster by Pejamas on MediUX. https://mediux.pro/sets/7161
