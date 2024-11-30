@@ -1,4 +1,65 @@
 metadata:
+  335983: # Venom (2018) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24315
+    url_poster: https://api.mediux.pro/assets/dfed1f6d-6e0f-4af7-8644-d8369cc6d917
+  580489: # Venom: Let There Be Carnage (2021) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24315
+    url_poster: https://api.mediux.pro/assets/ba63c787-c042-4487-b08a-e4619e88166e
+  912649: # Venom: The Last Dance (2024) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24315
+    url_poster: https://api.mediux.pro/assets/394585ec-2869-44b1-9b45-9a47d682d1f8
+  567604: # Once Upon a Deadpool (2018) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24347
+    url_poster: https://api.mediux.pro/assets/71e4dcb9-476a-4e6c-a37e-1dbfccd322c1
+  634492: # Madame Web (2024) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24349
+    url_poster: https://api.mediux.pro/assets/80dfceae-661c-4c2c-a448-6178675ac7b6
+  320288: # Dark Phoenix (2019) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24372
+    url_poster: https://api.mediux.pro/assets/db3deca4-5d9b-4eb5-89b3-11e11ead0d11
+  36657: # X-Men (2000) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24372
+    url_poster: https://api.mediux.pro/assets/3a56ad21-44cb-4258-bfb0-827b2095207d
+  246655: # X-Men: Apocalypse (2016) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24372
+    url_poster: https://api.mediux.pro/assets/14cca66c-681a-4935-87d7-ac46221d31c7
+  127585: # X-Men: Days of Future Past (2014) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24372
+    url_poster: https://api.mediux.pro/assets/5edec11b-8972-4b1f-aa1b-9ffb81a2e903
+  49538: # X-Men: First Class (2011) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24372
+    url_poster: https://api.mediux.pro/assets/6ee29981-b083-4906-89ed-da1f0f94d114
+  1930: # The Amazing Spider-Man (2012) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24394
+    url_poster: https://api.mediux.pro/assets/e8b839d5-62d1-43a3-b985-295c1409bc2a
+  102382: # The Amazing Spider-Man 2 (2014) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24394
+    url_poster: https://api.mediux.pro/assets/2a1e3e59-425d-4d21-a32e-36d890bb6f03
+  557: # Spider-Man (2002) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24397
+    url_poster: https://api.mediux.pro/assets/5315b341-46a9-4088-8935-b56917b833af
+  558: # Spider-Man 2 (2004) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24397
+    url_poster: https://api.mediux.pro/assets/e3ec6e0d-c0ad-4494-b37e-e64cccf9b001
+  559: # Spider-Man 3 (2007) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24397
+    url_poster: https://api.mediux.pro/assets/6fae2655-b735-4fe6-baac-0f68f14bc0b1
+  569094: # Spider-Man: Across the Spider-Verse (2023) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24404
+    url_poster: https://api.mediux.pro/assets/aa12cd8a-08ab-4c47-b82f-df370047d654
+  324857: # Spider-Man: Into the Spider-Verse (2018) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24404
+    url_poster: https://api.mediux.pro/assets/3ae60cf9-ad99-449c-971f-5d7c6eaba02f
+  1106299: # The Spider Within: A Spider-Verse Story (2023) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24405
+    url_poster: https://api.mediux.pro/assets/68a03aec-6324-4a39-b241-13eff2f04677
+  1250: # Ghost Rider (2007) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24408
+    url_poster: https://api.mediux.pro/assets/1bc2e283-b59c-4b98-98ec-0ab9ecab46c2
+  71676: # Ghost Rider: Spirit of Vengeance (2011) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24408
+    url_poster: https://api.mediux.pro/assets/b69d6dc3-6164-495c-b5d2-0308598ae915
+  18882: # Man-Thing (2005) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24412
+    url_poster: https://api.mediux.pro/assets/fc6657ac-beed-48eb-a1cf-0f2e9f36f749
+  177572: # Big Hero 6 (2014) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24413
+    url_poster: https://api.mediux.pro/assets/e59399d5-e0bf-4336-8924-bf7810d73a1a
+  9480: # Daredevil (2003) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24414
+    url_poster: https://api.mediux.pro/assets/2b62dc7e-98b2-4244-a020-814a9f93bb01
+  526896: # Morbius (2022) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24415
+    url_poster: https://api.mediux.pro/assets/fe79e314-2741-4432-a6dc-f4344de78b8d
+  13056: # Punisher: War Zone (2008) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24437
+    url_poster: https://api.mediux.pro/assets/19b87759-0c62-4a0c-9507-0c87dd7d0867
+  7220: # The Punisher (2004) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24437
+    url_poster: https://api.mediux.pro/assets/3375a489-d624-4681-b2a4-151235e7c8fe
+  8867: # The Punisher (1989) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24438
+    url_poster: https://api.mediux.pro/assets/ff6b9c52-d232-44b5-9f69-feb593fa7439
+  120605: # The Punisher: Dirty Laundry (2012) Poster by willtong93 on MediUX.  https://mediux.pro/sets/24439
+    url_poster: https://api.mediux.pro/assets/a5a85ab9-4d08-489e-ad7c-69da0db6b2a0
+  539972: # Kraven the Hunter (2024) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27821
+    url_poster: https://api.mediux.pro/assets/47a521da-d6e3-4685-962a-817a145d2a13
+
+  340102: # The New Mutants (2020) Poster by willtong93 on MediUX. https://mediux.pro/sets/24392
+    url_poster: https://api.mediux.pro/assets/8c876119-54d4-4897-ac66-f3f228c0dff2
   102651: # Maleficent (2014) Poster by Olivier_286 on MediUX. https://mediux.pro/sets/3875
     url_poster: https://api.mediux.pro/assets/cfd1eb7c-484e-4207-93d1-03b415432330
     url_background: https://api.mediux.pro/assets/9d09bfd6-9ef3-448e-bdb1-0a7adf0879af
@@ -85,24 +146,10 @@ metadata:
     url_poster: https://api.mediux.pro/assets/b352c2df-0a38-49c5-a3d5-950d677a293d
   399579: # Alita: Battle Angel (2019) Poster by willtong93 on MediUX. https://mediux.pro/sets/25551
     url_poster: https://api.mediux.pro/assets/2da4efb7-d283-4701-9f12-f4aa8cc2cda9
-  36657: # X-Men (2000) Poster by Pejamas on MediUX. https://mediux.pro/sets/4765
-    url_poster: https://api.mediux.pro/assets/9ea7b126-fbfb-4d3c-bbed-8c2f59b7ac83
   36658: # X2 (2003) Poster by Pejamas on MediUX. https://mediux.pro/sets/4765
     url_poster: https://api.mediux.pro/assets/10aee9b3-52f7-4b04-bd9d-b00a3b351e56
   36668: # X-Men: The Last Stand (2006) Poster by Pejamas on MediUX. https://mediux.pro/sets/4765
     url_poster: https://api.mediux.pro/assets/e8357de2-d39e-4893-b257-77f6c728cb79
-  49538: # X-Men: First Class (2011) Poster by Pejamas on MediUX. https://mediux.pro/sets/4765
-    url_poster: https://api.mediux.pro/assets/1ce3465f-f585-48b7-a494-44f149c9be90
-  127585: # X-Men: Days of Future Past (2014) Poster by Pejamas on MediUX. https://mediux.pro/sets/4765
-    url_poster: https://api.mediux.pro/assets/d3de7da6-5d23-4ee4-84f3-82d651dadc36
-  246655: # X-Men: Apocalypse (2016) Poster by Pejamas on MediUX. https://mediux.pro/sets/4765
-    url_poster: https://api.mediux.pro/assets/c3cf8b6d-98d4-4e85-8778-2adb7c80d0b3
-  320288: # Dark Phoenix (2019) Poster by Pejamas on MediUX. https://mediux.pro/sets/4765
-    url_poster: https://api.mediux.pro/assets/e7de0bff-705d-4dd0-9653-bda60b82879a
-  1930: # The Amazing Spider-Man (2012) Poster by Pejamas on MediUX. https://mediux.pro/sets/4767
-    url_poster: https://api.mediux.pro/assets/ee9ef8cf-019e-4c38-bf03-a4c03435274b
-  102382: # The Amazing Spider-Man 2 (2014) Poster by Pejamas on MediUX. https://mediux.pro/sets/4767
-    url_poster: https://api.mediux.pro/assets/3654eee1-cae8-440b-9593-a3759c99ca93
   211387: # Marvel One-Shot: Agent Carter (2013) Poster by Pejamas on MediUX. https://mediux.pro/sets/3120
     url_poster: https://api.mediux.pro/assets/1a327d90-d8a6-4bcc-823d-1c9a9a0a9e08
   253980: # Marvel One-Shot: All Hail the King (2014) Poster by Pejamas on MediUX.  https://mediux.pro/sets/3119
@@ -946,8 +993,6 @@ metadata:
     url_poster: https://api.mediux.pro/assets/9b4ec79b-2bc8-412b-b7ee-be143b7adaaf
   9982: # Chicken Little (2005) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26850
     url_poster: https://api.mediux.pro/assets/2c1aebe5-1c57-4f1b-9927-74fb0ac8bb51
-  177572: # Big Hero 6 (2014) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26851
-    url_poster: https://api.mediux.pro/assets/f3d1be45-30d0-47ba-9455-c0d02d5bf6f5
   38757: # Tangled (2010) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26852
     url_poster: https://api.mediux.pro/assets/92484afb-02b8-495c-9886-1b23649c7506
   1267: # Meet the Robinsons (2007) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26853
@@ -1238,8 +1283,6 @@ metadata:
     url_poster: https://api.mediux.pro/assets/32edd871-cc0f-4faf-b9db-08595ca15090
   225565: # That Awkward Moment (2014) Poster by 71622495t on MediUX. https://mediux.pro/sets/13076
     url_poster: https://api.mediux.pro/assets/1a3a21ed-ffa2-496c-affc-202caf8fab84
-  9480: # Daredevil (2003) Poster by Pejamas on MediUX. https://mediux.pro/sets/4771
-    url_poster: https://api.mediux.pro/assets/d8ad1f13-b174-427d-8596-05e72b23c0d6
   9947: # Elektra (2005) Poster by Pejamas on MediUX. https://mediux.pro/sets/4772
     url_poster: https://api.mediux.pro/assets/6966aef8-477d-4226-b408-d9a0395eeb82
 
@@ -1906,11 +1949,6 @@ metadata:
   315837: # Ghost in the Shell (2017) Poster by Pejamas on MediUX. https://mediux.pro/sets/11633
     url_poster: https://api.mediux.pro/assets/c82cf555-4516-4df7-a7ad-5f52c0cc0ef2
 
-  1250: # Ghost Rider (2007) Poster by Pejamas on MediUX. https://mediux.pro/sets/4776
-    url_poster: https://api.mediux.pro/assets/3daf5823-dca5-4e86-a3ea-acb3745cb65c
-
-  71676: # Ghost Rider: Spirit of Vengeance (2011) Poster by Pejamas on MediUX. https://mediux.pro/sets/4776
-    url_poster: https://api.mediux.pro/assets/6ee8038e-a257-4a9e-8650-57c0a6743b97
   9645: # Ghost Ship (2002) Poster by Pejamas on MediUX. https://mediux.pro/sets/13040
     url_poster: https://api.mediux.pro/assets/a8963cdd-caf9-4ff0-8a40-9cf91752d854
 
