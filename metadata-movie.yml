@@ -1,4 +1,71 @@
 metadata:
+  10228: # Pokémon: The First Movie (1998) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6428
+    url_poster: https://api.mediux.pro/assets/323aeac5-7904-4557-ac58-0431f0b4b592
+  12599: # Pokémon the Movie 2000 (1999) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6428
+    url_poster: https://api.mediux.pro/assets/9176b029-996c-4169-bb1c-918605d19e4b
+  10991: # Pokémon 3: The Movie (2000) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6428
+    url_poster: https://api.mediux.pro/assets/88be3d6b-9b5a-4634-8ae2-17c1c514c16a
+  12600: # Pokémon 4Ever (2001) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6428
+    url_poster: https://api.mediux.pro/assets/e0d9d97a-d058-4cef-9fdd-51b804be5da1
+  33875: # Pokémon Heroes (2002) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6428
+    url_poster: https://api.mediux.pro/assets/608607f7-5c38-4b2c-85c7-e4a5f7d72ea6
+  16808: # Pokémon Ranger and the Temple of the Sea (2006) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/6429
+    url_poster: https://api.mediux.pro/assets/126adc2b-dae5-4e09-9dea-7f389d0e04d1
+  34065: # Pokémon: Destiny Deoxys (2004) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/6429
+    url_poster: https://api.mediux.pro/assets/d6bfd9dc-96d5-4fa3-98cb-df345ba25fae
+  36218: # Pokémon: Jirachi - Wish Maker (2003) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/6429
+    url_poster: https://api.mediux.pro/assets/4c2527d8-38cf-49c2-bdc2-5758228a45b4
+  34067: # Pokémon: Lucario and the Mystery of Mew (2005) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/6429
+    url_poster: https://api.mediux.pro/assets/34d60f1e-4f9c-45ba-b63a-1900c04a66f2
+  115223: # Pokémon the Movie: Black - Victini and Reshiram (2011) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/6430
+    url_poster: https://api.mediux.pro/assets/3a0f332d-685b-4ad6-b641-fdaef4b0c79a
+  227679: # Pokémon the Movie: Genesect and the Legend Awakened (2013) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/6430
+    url_poster: https://api.mediux.pro/assets/8e3cf797-d11b-4e39-b9de-24f1783308e5
+  150213: # Pokémon the Movie: Kyurem vs. the Sword of Justice (2012) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/6430
+    url_poster: https://api.mediux.pro/assets/8bf2adc5-a022-47d8-a572-f1dc6e5c2599
+  88557: # Pokémon the Movie: White - Victini and Zekrom (2011) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/6430
+    url_poster: https://api.mediux.pro/assets/cb65d111-ccbf-499a-a74d-925c9f55e9ed
+  303903: # Pokémon the Movie: Diancie and the Cocoon of Destruction (2014) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/6431
+    url_poster: https://api.mediux.pro/assets/d20f420e-8451-4a75-bf5c-037bd3c5a791
+  350499: # Pokémon the Movie: Hoopa and the Clash of Ages (2015) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/6431
+    url_poster: https://api.mediux.pro/assets/2b71cb4e-a17b-4937-b6ef-57230faedb22
+  382190: # Pokémon the Movie: Volcanion and the Mechanical Marvel (2016) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/6431
+    url_poster: https://api.mediux.pro/assets/340f8bbf-5507-4619-b428-0be06072d596
+  39057: # Pokémon: Arceus and the Jewel of Life (2009) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/6432
+    url_poster: https://api.mediux.pro/assets/2c1d5015-30c3-42ea-a64c-023b6b483735
+  47292: # Pokémon: Giratina and the Sky Warrior (2008) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/6432
+    url_poster: https://api.mediux.pro/assets/341efc18-f908-4b6e-859e-e547c977e10e
+  25961: # Pokémon: The Rise of Darkrai (2007) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/6432
+    url_poster: https://api.mediux.pro/assets/16fb4b35-fa3f-487f-9602-90e5acfa8585
+  50087: # Pokémon: Zoroark - Master of Illusions (2010) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/6432
+    url_poster: https://api.mediux.pro/assets/c8864b40-1d96-43da-b427-2b14a3c46eb8
+  436931: # Pokémon the Movie: I Choose You! (2017) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/6433
+    url_poster: https://api.mediux.pro/assets/7bfede40-5b56-4920-8a5e-8b76f3db002c
+  662708: # Pokémon the Movie: Secrets of the Jungle (2020) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/6433
+    url_poster: https://api.mediux.pro/assets/ddf4cfb2-5364-4cec-9f2e-c0a8aafbc65f
+  494407: # Pokémon the Movie: The Power of Us (2018) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/6433
+    url_poster: https://api.mediux.pro/assets/d882824e-4a1c-42ad-9da1-c96da5c08873
+  571891: # Pokémon the Movie: Mewtwo Strikes Back - Evolution (2019) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/6434
+    url_poster: https://api.mediux.pro/assets/82b896f4-b61f-46bd-aa94-87992214728d
+  36897: # Pokémon: Mewtwo Returns (2001) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/6435
+    url_poster: https://api.mediux.pro/assets/d86f5fe9-309f-4944-8ea3-19e7cf647c9c
+  137773: # Pokémon: The Mastermind of Mirage Pokémon (2006) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/6436
+    url_poster: https://api.mediux.pro/assets/480fb1d6-b022-4fae-a7b1-47f5d75f5a7c
+  36753: # Pikachu u0026 Pichu (2000) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/16114
+    url_poster: https://api.mediux.pro/assets/babac847-5175-4f98-b696-92cfdf8d23ea
+  33376: # Pikachus Vacation (1998) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/16115
+    url_poster: https://api.mediux.pro/assets/8f0b2bd7-dac9-4cdb-b90b-c9b07ef2ad9f
+  387: # Das Boot (1981) Poster by pmbasehore on MediUX. https://mediux.pro/sets/2091
+    url_poster: https://api.mediux.pro/assets/36e44765-7473-49ad-a359-512d7ba893e2
+    url_background: https://api.mediux.pro/assets/c6f99f34-4984-4b55-a71e-35be18d7a4d4
+  20504: # The Book of Eli (2010) Poster by Pejamas on MediUX. https://mediux.pro/sets/13056
+    url_poster: https://api.mediux.pro/assets/75445962-2b01-4e78-92dd-fd86d75918ae
+  424694: # Bohemian Rhapsody (2018) Poster by willtong93 on MediUX. https://mediux.pro/sets/26508
+    url_poster: https://api.mediux.pro/assets/568821ec-ffb8-420f-904a-c538268477b3
+  301502: # Blonde (2022) Poster by kealoha_king on MediUX. https://mediux.pro/sets/23909
+    url_poster: https://api.mediux.pro/assets/29cc3bba-58cb-4d2a-b7c9-8d4882ae3dd1
+  746524: # Blood (2023) Poster by wwalkerrrrr on MediUX. https://mediux.pro/sets/16945
+    url_poster: https://api.mediux.pro/assets/2b1a86fa-7979-4537-8a09-8f1daae1f39b
   571: # The Birds (1963) Poster by darkwesley on MediUX. https://mediux.pro/sets/14464
     url_poster: https://api.mediux.pro/assets/776694f4-6a34-4d3a-b693-476b099aa2c9
   260: # The 39 Steps (1935) Poster by darkwesley on MediUX.  https://mediux.pro/sets/14463
@@ -166,11 +233,11 @@ metadata:
     url_poster: https://api.mediux.pro/assets/b1f12786-084f-4516-b8ed-0f048f6e26f0
   376570: # Hush (2016) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27306
     url_poster: https://api.mediux.pro/assets/b4b150b5-a80c-4a89-8419-d838c80e7770
-  1063877: # Don't Move (2024) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27574
+  1063877: # Dont Move (2024) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27574
     url_poster: https://api.mediux.pro/assets/c4b696fd-f8f2-4423-90ff-db69ff16dfe7
   1151949: # The Shadow Strays (2024) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27594
     url_poster: https://api.mediux.pro/assets/a5ec98c6-86c1-45c0-93b6-92c464be4616
-  1052280: # It's What's Inside (2024) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27595
+  1052280: # Its Whats Inside (2024) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27595
     url_poster: https://api.mediux.pro/assets/6967809f-f7ae-4dad-930b-41efb8285a92
   827931: # Time Cut (2024) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27639
     url_poster: https://api.mediux.pro/assets/d56b9464-2549-42c5-9d73-2d0a9e3a02d3
@@ -239,7 +306,7 @@ metadata:
       url_poster: https://api.mediux.pro/assets/562f2098-5fd5-4419-8a8c-1032e1a629c6
   953: # Madagascar (2005) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26567
       url_poster: https://api.mediux.pro/assets/6883c8fd-9279-4660-9f60-0c1cef781c2a
-  80321: # Madagascar 3: Europe's Most Wanted (2012) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26567
+  80321: # Madagascar 3: Europes Most Wanted (2012) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26567
       url_poster: https://api.mediux.pro/assets/8bca0bac-880e-47c6-a2c3-be8452f48a2c
   10527: # Madagascar: Escape 2 Africa (2008) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26567
       url_poster: https://api.mediux.pro/assets/fa646543-a9f8-4c3b-be3b-62244a3d9517
@@ -273,13 +340,13 @@ metadata:
       url_poster: https://api.mediux.pro/assets/a7754bdf-72e0-4010-9ee2-3135d1a29755
   83201: # Puss in Boots: The Three Diablos (2012) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26596
       url_poster: https://api.mediux.pro/assets/d0f8f801-3815-4837-a26d-4830a1aa8fa4
-  51256: # Donkey's Christmas Shrektacular (2010) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26597
+  51256: # Donkeys Christmas Shrektacular (2010) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26597
       url_poster: https://api.mediux.pro/assets/9a4a254f-93ca-4f4f-b769-d54e7d6f68e3
   1045944: # The Boss Baby: Christmas Bonus (2022) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26598
       url_poster: https://api.mediux.pro/assets/b19b547e-ab70-4d68-a03d-63a1cb55aa2d
   735364: # The Boss Baby: Get That Baby! (2020) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26599
       url_poster: https://api.mediux.pro/assets/61d44e8c-3234-4498-b30c-8627cf63aab0
-  460789: # The Boss Baby and Tim's Treasure Hunt Through Time (2017) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26600
+  460789: # The Boss Baby and Tims Treasure Hunt Through Time (2017) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26600
       url_poster: https://api.mediux.pro/assets/87e1cdd6-a95f-4123-9f45-e0c193fd04e5
   38055: # Megamind (2010) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26607
       url_poster: https://api.mediux.pro/assets/1b5bdd41-d50c-49aa-bd9b-af9eaa1a6f59
@@ -450,7 +517,7 @@ metadata:
     url_poster: https://api.mediux.pro/assets/dc6db9ca-2b17-48ad-98c9-4ad9a7fb73cb
   744594: # White Noise (2022) Poster by willtong93 on MediUX.  https://mediux.pro/sets/28044
     url_poster: https://api.mediux.pro/assets/1e9b0a4f-cedf-4073-845a-da9eb098cc56
-  828558: # God's Creatures (2022) Poster by willtong93 on MediUX.  https://mediux.pro/sets/28056
+  828558: # Gods Creatures (2022) Poster by willtong93 on MediUX.  https://mediux.pro/sets/28056
     url_poster: https://api.mediux.pro/assets/cac91404-af06-441c-a46c-8f632394063a
   530743: # Instinct (2019) Poster by willtong93 on MediUX.  https://mediux.pro/sets/28057
     url_poster: https://api.mediux.pro/assets/218d7020-ea94-4eb0-9100-28c3ffff2474
@@ -600,7 +667,7 @@ metadata:
     url_poster: https://api.mediux.pro/assets/413c9b24-ecd4-4250-a6f2-59d355c3a75f
     url_background: https://api.mediux.pro/assets/03da3efe-c012-4208-bc49-fc4c274abe39
 
-  294272: # Pete's Dragon (2016) Poster by Olivier_286 on MediUX.  https://mediux.pro/sets/19387
+  294272: # Petes Dragon (2016) Poster by Olivier_286 on MediUX.  https://mediux.pro/sets/19387
     url_poster: https://api.mediux.pro/assets/6a8c4a01-403f-4ce1-a198-b30e00745fb4
     
   310: # Bruce Almighty (2003) Poster by RuviLev on MediUX. https://mediux.pro/sets/24701
@@ -619,7 +686,7 @@ metadata:
     url_poster: https://api.mediux.pro/assets/372db8e7-e8c4-41be-82c0-9fcd328c49c3
   119569: # Marvel One-Shot: Item 47 (2012) Poster by Pejamas on MediUX.  https://mediux.pro/sets/3121
     url_poster: https://api.mediux.pro/assets/d9b85e05-2496-41ad-9ea0-1ea40e03eb1d
-  76535: # Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer (2011) Poster by Pejamas on MediUX.  https://mediux.pro/sets/3122
+  76535: # Marvel One-Shot: A Funny Thing Happened on the Way to Thors Hammer (2011) Poster by Pejamas on MediUX.  https://mediux.pro/sets/3122
     url_poster: https://api.mediux.pro/assets/336189a4-d2a8-4c19-adce-2d71f1ad8f5d
   76122: # Marvel One-Shot: The Consultant (2011) Poster by Pejamas on MediUX.  https://mediux.pro/sets/3123
     url_poster: https://api.mediux.pro/assets/447788fd-a183-4e2f-bc0a-043dcf4e8239
@@ -664,7 +731,7 @@ metadata:
     url_poster: https://api.mediux.pro/assets/a5b498f0-0bac-4dee-8b80-3e2fe649a672
   10681: # WALL·E (2008) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26754
     url_poster: https://api.mediux.pro/assets/da5682ca-b952-4fa4-835f-57b270e9bbc5
-  9487: # A Bug's Life (1998) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26755
+  9487: # A Bugs Life (1998) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26755
     url_poster: https://api.mediux.pro/assets/f36df378-31ce-4d45-9278-528071fbb33f
   2062: # Ratatouille (2007) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26756
     url_poster: https://api.mediux.pro/assets/00401787-2a9c-43fd-846b-f16c6ac5fc98
@@ -696,19 +763,19 @@ metadata:
     url_poster: https://api.mediux.pro/assets/98e83228-1018-4df0-996e-e3c7621209e8
   594530: # Lamp Life (2020) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26773
     url_poster: https://api.mediux.pro/assets/c11b544f-9693-4f87-a712-49f5f6f73160
-  24589: # Dug's Special Mission (2009) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26774
+  24589: # Dugs Special Mission (2009) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26774
     url_poster: https://api.mediux.pro/assets/a8e31c63-08bd-46f5-bedc-925468357d46
   72962: # George and A.J. (2009) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26775
     url_poster: https://api.mediux.pro/assets/232f24b3-0231-4968-abe8-63690f1b6163
-  1076364: # Carl's Date (2023) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26776
+  1076364: # Carls Date (2023) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26776
     url_poster: https://api.mediux.pro/assets/48b5de4d-d5cd-4f27-ac22-0936e67c88f4
-  777350: # Dory's Reef Cam (2020) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26777
+  777350: # Dorys Reef Cam (2020) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26777
     url_poster: https://api.mediux.pro/assets/927ec859-ed9a-4f3a-a760-03866a112eee
   427004: # Marine Life Interviews (2016) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26778
     url_poster: https://api.mediux.pro/assets/7c092658-e27b-4cc6-bfc0-90f7316a683e
   296850: # Exploring the Reef (2003) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26779
     url_poster: https://api.mediux.pro/assets/7ef8575e-23b8-4a48-acfa-81f1de5c1fcd
-  13931: # Mike's New Car (2002) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26780
+  13931: # Mikes New Car (2002) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26780
     url_poster: https://api.mediux.pro/assets/e0751cff-0b87-460a-a842-cfb046e88035
   258152: # Party Central (2014) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26781
     url_poster: https://api.mediux.pro/assets/2a516d56-ee11-401c-8cca-0ee1c9430015
@@ -871,7 +938,7 @@ metadata:
     url_poster: https://api.mediux.pro/assets/49132c88-6da4-4f5a-b714-2791f0118a25
   19323: # Superman: Brainiac Attacks (2006) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15795
     url_poster: https://api.mediux.pro/assets/592c88b3-5dbf-46fd-98fb-e441f05a913a
-  17074: # The Batman/Superman Movie: World's Finest (1998) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15795
+  17074: # The Batman/Superman Movie: Worlds Finest (1998) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15795
     url_poster: https://api.mediux.pro/assets/84c6280a-7d71-48fd-8e2d-5fdf744822c9
   13640: # Superman: Doomsday (2007) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/15796
     url_poster: https://api.mediux.pro/assets/1e1f7a49-983c-448c-bf33-87c0ce37970a
@@ -1124,7 +1191,7 @@ metadata:
     url_poster: https://api.mediux.pro/assets/ed332bea-47db-4acb-9d3f-8f93004fea7b
   50620: # The Twilight Saga: Breaking Dawn - Part 2 (2012) Poster by darkwesley on MediUX. https://mediux.pro/sets/9320
     url_poster: https://api.mediux.pro/assets/148aa7ac-c77b-418f-b6ff-a2f13fad3ca1
-  920125: # White Men Can't Jump (2023) Poster by Pejamas on MediUX. https://mediux.pro/sets/9236
+  920125: # White Men Cant Jump (2023) Poster by Pejamas on MediUX. https://mediux.pro/sets/9236
     url_poster: https://api.mediux.pro/assets/8e73de2d-53ef-470f-a123-3764babcc05f
   617: # Wild Things (1998) Poster by darkwesley on MediUX. https://mediux.pro/sets/12799
     url_poster: https://api.mediux.pro/assets/f38a79f2-0f19-4e85-a54a-86804b51b25f
@@ -1138,7 +1205,7 @@ metadata:
     url_poster: https://api.mediux.pro/assets/8c3546eb-0387-4a3f-ae89-a12f843785e2
   8487: # Wild Wild West (1999) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/5970
     url_poster: https://api.mediux.pro/assets/39fb6302-0052-4b5e-bea7-a2cf2f1d8ea0
-  531219: # Roald Dahl's The Witches (2020) Poster by 71622495t on MediUX. https://mediux.pro/sets/13453
+  531219: # Roald Dahls The Witches (2020) Poster by 71622495t on MediUX. https://mediux.pro/sets/13453
     url_poster: https://api.mediux.pro/assets/05a94580-68d0-4d7d-ba65-d8b6a0307b30
   37257: # Witness for the Prosecution (1957) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/912
     url_poster: https://api.mediux.pro/assets/343495e7-bc5d-45eb-adfc-4fd25e3e7c03
@@ -1168,7 +1235,7 @@ metadata:
     url_poster: https://api.mediux.pro/assets/92e3a5b0-0fd7-45c5-9f97-3f6e589c37fa
   72548: # Love from a Stranger (1947) Poster by Aloha_Alona on MediUX.  https://mediux.pro/sets/897
     url_poster: https://api.mediux.pro/assets/230a67ef-c74e-476f-b56d-43a7416864b1
-  6028: # The Mirror Crack'd (1980) Poster by Aloha_Alona on MediUX.  https://mediux.pro/sets/898
+  6028: # The Mirror Crackd (1980) Poster by Aloha_Alona on MediUX.  https://mediux.pro/sets/898
     url_poster: https://api.mediux.pro/assets/66e21022-fc5b-4742-bcef-417f28f5f426
   4176: # Murder on the Orient Express (1974) Poster by Aloha_Alona on MediUX.  https://mediux.pro/sets/899
     url_poster: https://api.mediux.pro/assets/f522eb20-7d22-40b6-8b50-228665df4ed3
@@ -1184,15 +1251,15 @@ metadata:
     url_poster: https://api.mediux.pro/assets/5fd2a240-cf61-4686-bd4c-f37ba94ecea8
   108387: # Ordeal by Innocence (1984) Poster by Aloha_Alona on MediUX.  https://mediux.pro/sets/905
     url_poster: https://api.mediux.pro/assets/55e1339d-c807-4958-b3f8-d714976d47ea
-  56012: # Agatha Christie's The Pale Horse (1997) Poster by Aloha_Alona on MediUX.  https://mediux.pro/sets/907
+  56012: # Agatha Christies The Pale Horse (1997) Poster by Aloha_Alona on MediUX.  https://mediux.pro/sets/907
     url_poster: https://api.mediux.pro/assets/7323564e-2a1c-46b0-8770-f6a088c75dae
-  55910: # Agatha Christie's Seven Dials Mystery (1981) Poster by Aloha_Alona on MediUX.  https://mediux.pro/sets/908
+  55910: # Agatha Christies Seven Dials Mystery (1981) Poster by Aloha_Alona on MediUX.  https://mediux.pro/sets/908
     url_poster: https://api.mediux.pro/assets/ae874caf-26de-4231-8e0a-736d5e4e2ef7
   4879: # Ten Little Indians (1965) Poster by Aloha_Alona on MediUX.  https://mediux.pro/sets/909
     url_poster: https://api.mediux.pro/assets/4bbfba24-85b1-455f-a574-b41a88e835bb
   103761: # Ten Little Indians (1989) Poster by Aloha_Alona on MediUX.  https://mediux.pro/sets/910
     url_poster: https://api.mediux.pro/assets/0bb0b452-59b2-4333-81db-67f114c9af7b
-  151606: # The Spider's Web (1960) Poster by Aloha_Alona on MediUX.  https://mediux.pro/sets/911
+  151606: # The Spiders Web (1960) Poster by Aloha_Alona on MediUX.  https://mediux.pro/sets/911
     url_poster: https://api.mediux.pro/assets/a6044aec-07dc-4459-9fca-ccfd476ca6ce
   655730: # Agatha and the Curse of Ishtar (2019) Poster by Aloha_Alona on MediUX.  https://mediux.pro/sets/18941
     url_poster: https://api.mediux.pro/assets/fee487fd-d444-4140-a218-272a1c36245c
@@ -1229,7 +1296,7 @@ metadata:
   787699: # Wonka (2023) Poster by PaliKinG on MediUX. https://mediux.pro/sets/5495
     url_poster: https://api.mediux.pro/assets/6a8ec145-b2bf-4ea8-83d4-b8965a1eb41b
     url_background: https://api.mediux.pro/assets/ccc88b8a-4b72-42c3-9aaf-aef4b431557d
-  107985: # The World's End (2013) Poster by Pejamas on MediUX. https://mediux.pro/sets/15031
+  107985: # The Worlds End (2013) Poster by Pejamas on MediUX. https://mediux.pro/sets/15031
     url_poster: https://api.mediux.pro/assets/4d650011-210a-49af-bc92-f957b6217543
   747: # Shaun of the Dead (2004) Poster by Pejamas on MediUX.  https://mediux.pro/sets/15029
     url_poster: https://api.mediux.pro/assets/7a0f580b-f940-4a6c-96e4-45ec0ec950be
@@ -1277,7 +1344,7 @@ metadata:
     url_poster: https://api.mediux.pro/assets/bc268a5c-6375-44b2-a9fe-004d630c3153
   565770: # Blue Beetle (2023) Poster by wiwer on MediUX.  https://mediux.pro/sets/9030
     url_poster: https://api.mediux.pro/assets/517fb559-f6c4-461e-9560-609dcca570db
-  791373: # Zack Snyder's Justice League (2021) Poster by wiwer on MediUX.  https://mediux.pro/sets/9031
+  791373: # Zack Snyders Justice League (2021) Poster by wiwer on MediUX.  https://mediux.pro/sets/9031
     url_poster: https://api.mediux.pro/assets/a6f900e8-46b6-4901-a9aa-895c0d089553
   298618: # The Flash (2023) Poster by wiwer on MediUX.  https://mediux.pro/sets/9033
     url_poster: https://api.mediux.pro/assets/75cbb53d-6d56-471a-a754-b551c86bc304
@@ -1347,9 +1414,9 @@ metadata:
     url_poster: https://api.mediux.pro/assets/8747f3b8-75c7-477b-b923-3c1a96a31811
   645710: # The Voyeurs (2021) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27246
     url_poster: https://api.mediux.pro/assets/c0952e30-2924-403a-b00f-bc41afa78bbd
-  567189: # Tom Clancy's Without Remorse (2021) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27247
+  567189: # Tom Clancys Without Remorse (2021) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27247
     url_poster: https://api.mediux.pro/assets/8749ce62-4c14-417e-b7b3-e131214d05c8
-  1213742: # Tyler Perry's Divorce in the Black (2024) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27248
+  1213742: # Tyler Perrys Divorce in the Black (2024) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27248
     url_poster: https://api.mediux.pro/assets/3b8f95e2-83c4-4593-96b4-d674a9fb6123
   964980: # Air (2023) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27249
     url_poster: https://api.mediux.pro/assets/14bd478d-4f47-49f6-ad02-786700d3c7f5
@@ -1396,7 +1463,7 @@ metadata:
   8587: # The Lion King (1994) Poster by willtong93 on MediUX. https://mediux.pro/sets/26831
     url_poster: https://api.mediux.pro/assets/66b84688-305a-409f-a43e-36da4528e10c
 
-  9732: # The Lion King II: Simba's Pride (1998) Poster by willtong93 on MediUX. https://mediux.pro/sets/26831
+  9732: # The Lion King II: Simbas Pride (1998) Poster by willtong93 on MediUX. https://mediux.pro/sets/26831
     url_poster: https://api.mediux.pro/assets/f7178ff8-3d09-488a-9f7d-af1b6cb61f75
 
   11430: # The Lion King 1½ (2004) Poster by willtong93 on MediUX. https://mediux.pro/sets/26831
@@ -1434,7 +1501,7 @@ metadata:
     url_poster: https://api.mediux.pro/assets/1626b259-d724-44ee-a01d-d2981ff9108c
   16119: # Cinderella III: A Twist in Time (2007) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26835
     url_poster: https://api.mediux.pro/assets/f84a9600-e658-4777-a4b6-af5cc4bd39a7
-  8965: # Atlantis: Milo's Return (2003) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26836
+  8965: # Atlantis: Milos Return (2003) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26836
     url_poster: https://api.mediux.pro/assets/8f989967-e463-432e-ae4d-e7cee55cc76d
   10865: # Atlantis: The Lost Empire (2001) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26836
     url_poster: https://api.mediux.pro/assets/e2c7a6a0-c307-488a-84d9-229c1e42898d
@@ -1472,15 +1539,15 @@ metadata:
     url_poster: https://api.mediux.pro/assets/f7af8f46-6dab-43a7-ac44-0cb0537a6a52
   1022796: # Wish (2023) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26859
     url_poster: https://api.mediux.pro/assets/6254e030-bd0c-4d02-b6b9-24f01a5474a9
-  13417: # Kronk's New Groove (2005) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26860
+  13417: # Kronks New Groove (2005) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26860
     url_poster: https://api.mediux.pro/assets/4cd01969-279e-4e3c-ab4c-807f786ff92f
-  11688: # The Emperor's New Groove (2000) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26860
+  11688: # The Emperors New Groove (2000) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26860
     url_poster: https://api.mediux.pro/assets/e58a8389-9f3a-4200-9f63-203ca828e748
   10144: # The Little Mermaid (1989) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26900
     url_poster: https://api.mediux.pro/assets/efd43a68-a1a0-47da-bc8e-16f0c6f0d316
   10898: # The Little Mermaid II: Return to the Sea (2000) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26900
     url_poster: https://api.mediux.pro/assets/1f55f8f0-6db2-4db9-93f3-acc5b101c151
-  13676: # The Little Mermaid: Ariel's Beginning (2008) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26900
+  13676: # The Little Mermaid: Ariels Beginning (2008) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26900
     url_poster: https://api.mediux.pro/assets/a7fdfd33-7165-4ca1-8d4e-57c0cac4cdda
   3170: # Bambi (1942) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26916
     url_poster: https://api.mediux.pro/assets/a1f7ae5f-f89c-49ec-a3c9-86dddd125ce0
@@ -1512,7 +1579,7 @@ metadata:
     url_poster: https://api.mediux.pro/assets/1fd4cd8a-c016-41fd-b35a-faf0a5209e5e
   13313: # Beauty and the Beast: The Enchanted Christmas (1997) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26953
     url_poster: https://api.mediux.pro/assets/82a45f7c-655c-4397-9dd2-25a4e48d1f12
-  20235: # Belle's Magical World (1998) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26953
+  20235: # Belles Magical World (1998) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26953
     url_poster: https://api.mediux.pro/assets/ac5e11e5-e20b-48f6-979b-fcd7a10cdb38
   10693: # Peter Pan (1953) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26954
     url_poster: https://api.mediux.pro/assets/1d68644d-25ac-4a3e-b7f9-980447c46cfa
@@ -1526,11 +1593,11 @@ metadata:
     url_poster: https://api.mediux.pro/assets/e1df2e5c-2360-4322-9934-df2ba1b19024
   250480: # The Many Adventures of Winnie the Pooh (1977) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27159
     url_poster: https://api.mediux.pro/assets/2429bf7a-1d04-4cf8-99f8-3ce1484f9509
-  13682: # Pooh's Heffalump Movie (2005) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27160
+  13682: # Poohs Heffalump Movie (2005) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27160
     url_poster: https://api.mediux.pro/assets/994cbc67-6334-4906-bac5-2ec9de82831d
   16394: # Winnie the Pooh: Springtime with Roo (2004) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27161
     url_poster: https://api.mediux.pro/assets/3ffea5d9-b8ed-437e-8e36-e7f3fa6052a7
-  13691: # Piglet's Big Movie (2003) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27162
+  13691: # Piglets Big Movie (2003) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27162
     url_poster: https://api.mediux.pro/assets/9b3bb6c2-513f-4f25-a560-6b5e5015ddee
   13706: # Winnie the Pooh: A Very Merry Pooh Year (2002) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27163
     url_poster: https://api.mediux.pro/assets/8ef9e897-6d99-416a-8f94-1c89acf82707
@@ -1538,19 +1605,19 @@ metadata:
     url_poster: https://api.mediux.pro/assets/dc06652e-4ff1-4ddd-a847-4d08ee02c1fb
   261339: # Winnie the Pooh: Seasons of Giving (1999) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27165
     url_poster: https://api.mediux.pro/assets/ecc4ff3a-41ab-45cd-a6d2-3f1b6c8827b4
-  14903: # Pooh's Grand Adventure: The Search for Christopher Robin (1997) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27166
+  14903: # Poohs Grand Adventure: The Search for Christopher Robin (1997) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27166
     url_poster: https://api.mediux.pro/assets/7265ad37-d91e-4d27-ab42-916857d3899b
   10948: # The Fox and the Hound (1981) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27167
     url_poster: https://api.mediux.pro/assets/e94e742d-a274-4609-9690-52735b50f15b
   9948: # The Fox and the Hound 2 (2006) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27167
     url_poster: https://api.mediux.pro/assets/00ef9b3c-999c-43ab-aa01-d1507dd58af2
-  13654: # 101 Dalmatians II: Patch's London Adventure (2002) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27169
+  13654: # 101 Dalmatians II: Patchs London Adventure (2002) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27169
     url_poster: https://api.mediux.pro/assets/b60b67a3-47c8-4c05-9721-15fe4bae5a50
   12230: # One Hundred and One Dalmatians (1961) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27169
     url_poster: https://api.mediux.pro/assets/95c00497-b034-4c27-a227-3a263950a609
   10340: # Lady and the Tramp (1955) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27170
     url_poster: https://api.mediux.pro/assets/6c8aec07-89e8-4f0d-a971-83f80121b12d
-  18269: # Lady and the Tramp II: Scamp's Adventure (2001) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27170
+  18269: # Lady and the Tramp II: Scamps Adventure (2001) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27170
     url_poster: https://api.mediux.pro/assets/f0ac9a09-0d3c-4be4-a34c-1a207284fd5c
   11319: # The Rescuers (1977) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27171
     url_poster: https://api.mediux.pro/assets/07ffd66f-4288-4a5e-82e4-c588f0ad6a2c
@@ -1580,13 +1647,13 @@ metadata:
     url_poster: https://api.mediux.pro/assets/642ec19f-0431-4e70-bab6-a837596d0c64
   21385: # Mickey, Donald, Goofy: The Three Musketeers (2004) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27182
     url_poster: https://api.mediux.pro/assets/252e91f3-ae63-4bab-a61c-76c492e549b1
-  14813: # Mickey's Christmas Carol (1983) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27183
+  14813: # Mickeys Christmas Carol (1983) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27183
     url_poster: https://api.mediux.pro/assets/b9db15f8-d849-43c9-8255-28de2bf9598a
-  22643: # Mickey's House of Villains (2001) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27184
+  22643: # Mickeys House of Villains (2001) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27184
     url_poster: https://api.mediux.pro/assets/ea72675e-3cac-4d74-9231-8579b5188c0f
-  21448: # Mickey's Magical Christmas: Snowed in at the House of Mouse (2001) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27185
+  21448: # Mickeys Magical Christmas: Snowed in at the House of Mouse (2001) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27185
     url_poster: https://api.mediux.pro/assets/6cdd4c02-7de1-40fb-ba77-fdf19b17b887
-  15400: # Mickey's Once Upon a Christmas (1999) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27186
+  15400: # Mickeys Once Upon a Christmas (1999) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27186
     url_poster: https://api.mediux.pro/assets/50e1c8ab-3dba-48d4-bc03-540ada194b58
   12233: # Oliver u0026 Company (1988) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27187
     url_poster: https://api.mediux.pro/assets/eb2aee5f-01c3-47ea-bb31-116b8ce99364
@@ -1594,7 +1661,7 @@ metadata:
     url_poster: https://api.mediux.pro/assets/3d43f0e7-7bb4-4b8b-9139-b698b546a61c
   10895: # Pinocchio (1940) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27189
     url_poster: https://api.mediux.pro/assets/1dea1b93-5df7-4b17-b068-07e64f86d4d7
-  14885: # Pooh's Heffalump Halloween Movie (2005) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27190
+  14885: # Poohs Heffalump Halloween Movie (2005) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27190
     url_poster: https://api.mediux.pro/assets/06057c84-6d18-4243-ae2e-5f2a60c979e5
   11886: # Robin Hood (1973) Poster by willtong93 on MediUX.  https://mediux.pro/sets/27191
     url_poster: https://api.mediux.pro/assets/06bb2eb3-b8e9-4e5e-bbf8-0e2280c84a24
@@ -1620,9 +1687,9 @@ metadata:
     url_poster: https://api.mediux.pro/assets/0953886a-cf29-4b3c-bf80-cebdb37221f8
   592350: # My Hero Academia: Heroes Rising (2019) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6572
     url_poster: https://api.mediux.pro/assets/a6bfd376-3626-4e98-a46d-89fced5c9e67
-  768744: # My Hero Academia: World Heroes' Mission (2021) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6572
+  768744: # My Hero Academia: World Heroes Mission (2021) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6572
     url_poster: https://api.mediux.pro/assets/7ea6134b-b931-4618-9d82-bde42bde20fe
-  1159311: # My Hero Academia: You're Next (2024) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6572
+  1159311: # My Hero Academia: Youre Next (2024) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6572
     url_poster: https://api.mediux.pro/assets/b30314b0-d424-45a5-b276-88fc36305186
   1054116: # My Hero Academia: All Might Rising (2019) Poster by MiniZaki on MediUX.  https://mediux.pro/sets/6574
     url_poster: https://api.mediux.pro/assets/31e0fa14-0084-4e81-a853-ab77b5694bc6
@@ -1636,7 +1703,7 @@ metadata:
     url_poster: https://api.mediux.pro/assets/66f63151-992e-4173-a8e8-d6d152539af0
   46169: # Twitches Too (2007) Poster by MiniZaki on MediUX. https://mediux.pro/sets/25023
     url_poster: https://api.mediux.pro/assets/ace754a9-0e87-4be7-84c5-8484446110a6
-  671: # Harry Potter and the Philosopher's Stone (2001) Poster by willtong93 on MediUX. https://mediux.pro/sets/26316
+  671: # Harry Potter and the Philosophers Stone (2001) Poster by willtong93 on MediUX. https://mediux.pro/sets/26316
     url_poster: https://api.mediux.pro/assets/599e8af2-c002-4f6e-9d35-bfb6e1618cea
   672: # Harry Potter and the Chamber of Secrets (2002) Poster by willtong93 on MediUX. https://mediux.pro/sets/26316
     url_poster: https://api.mediux.pro/assets/8826754d-8a7c-4d29-9981-03903d3886bf
@@ -1829,7 +1896,7 @@ metadata:
     url_poster: https://api.mediux.pro/assets/f92fb217-eabc-475e-81a0-06cc4d779639
   51052: # Arthur Christmas (2011) Poster by RuviLev on MediUX. https://mediux.pro/sets/11213
     url_poster: https://api.mediux.pro/assets/df1dbaa1-49bc-43b2-bf03-311ad2cb441e
-  121856: # Assassin's Creed (2016) Poster by RuviLev on MediUX. https://mediux.pro/sets/10049
+  121856: # Assassins Creed (2016) Poster by RuviLev on MediUX. https://mediux.pro/sets/10049
     url_poster: https://api.mediux.pro/assets/55b67a36-76a0-45b7-b32f-bbf2f1169e8c
   747188: # Asteroid City (2023) Poster by Pejamas on MediUX. https://mediux.pro/sets/9232
     url_poster: https://api.mediux.pro/assets/32fb8287-04d6-4297-ae46-a015abc593f8
@@ -1943,7 +2010,7 @@ metadata:
   26123: # American Pie Presents: The Book of Love (2009) Poster by RuviLev on MediUX. https://mediux.pro/sets/8360
     url_poster: https://api.mediux.pro/assets/e4219603-61f0-4000-9aa8-73370d7530bd
 
-  660982: # American Pie Presents: Girls' Rules (2020) Poster by RuviLev on MediUX. https://mediux.pro/sets/8360
+  660982: # American Pie Presents: Girls Rules (2020) Poster by RuviLev on MediUX. https://mediux.pro/sets/8360
     url_poster: https://api.mediux.pro/assets/07de4949-53ee-4756-b98b-d84baa277b7a
 
   8699: # Anchorman: The Legend of Ron Burgundy (2004) Poster by Pejamas on MediUX. https://mediux.pro/sets/14997
@@ -1996,10 +2063,10 @@ metadata:
   105965: # Beverly Hills Chihuahua 3: Viva la Fiesta! (2012) Poster by RuviLev on MediUX. https://mediux.pro/sets/13312
     url_poster: https://api.mediux.pro/assets/09d7eaaa-0784-4fb2-886c-1bcee6b6f147
 
-  1648: # Bill & Ted's Excellent Adventure (1989) Poster by 13slim on MediUX. https://mediux.pro/sets/9548
+  1648: # Bill & Teds Excellent Adventure (1989) Poster by 13slim on MediUX. https://mediux.pro/sets/9548
     url_poster: https://api.mediux.pro/assets/867a2380-6128-4049-80ef-688e8434cc9c
 
-  1649: # Bill & Ted's Bogus Journey (1991) Poster by 13slim on MediUX. https://mediux.pro/sets/9548
+  1649: # Bill & Teds Bogus Journey (1991) Poster by 13slim on MediUX. https://mediux.pro/sets/9548
     url_poster: https://api.mediux.pro/assets/a40e4e4f-b2fa-40ab-9573-3e07e072d613
 
   501979: # Bill & Ted Face the Music (2020) Poster by 13slim on MediUX. https://mediux.pro/sets/9548
@@ -2145,7 +2212,7 @@ metadata:
   39144: # Dragon Ball: Curse of the Blood Rubies (1986) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6457
     url_poster: https://api.mediux.pro/assets/787d2cf2-cda0-4612-b8ba-7bdff2621f4f
 
-  39145: # Dragon Ball: Sleeping Princess in Devil's Castle (1987) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6457
+  39145: # Dragon Ball: Sleeping Princess in Devils Castle (1987) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6457
     url_poster: https://api.mediux.pro/assets/68064d8d-5a61-4f26-b7b8-23c8968a8ed7
 
   116776: # Dragon Ball: Mystical Adventure (1988) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6457
@@ -2157,7 +2224,7 @@ metadata:
   28609: # Dragon Ball Z: Dead Zone (1989) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6459
     url_poster: https://api.mediux.pro/assets/22642e33-77de-4595-9075-2e592b311079
 
-  39100: # Dragon Ball Z: The World's Strongest (1990) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6459
+  39100: # Dragon Ball Z: The Worlds Strongest (1990) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6459
     url_poster: https://api.mediux.pro/assets/dfd6c888-53a4-4607-b178-b7044cfffdde
 
   39101: # Dragon Ball Z: The Tree of Might (1990) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6459
@@ -2166,7 +2233,7 @@ metadata:
   39102: # Dragon Ball Z: Lord Slug (1991) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6459
     url_poster: https://api.mediux.pro/assets/a94137ed-36c4-4171-b162-8dabd66975fd
 
-  24752: # Dragon Ball Z: Cooler's Revenge (1991) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6459
+  24752: # Dragon Ball Z: Coolers Revenge (1991) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6459
     url_poster: https://api.mediux.pro/assets/828cab7b-fe41-4822-80d8-4f8716213b6b
 
   39103: # Dragon Ball Z: The Return of Cooler (1992) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6459
@@ -2196,7 +2263,7 @@ metadata:
   126963: # Dragon Ball Z: Battle of Gods (2013) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6461
     url_poster: https://api.mediux.pro/assets/a237b333-1c25-4c71-b59c-e008cb54c0df
 
-  303857: # Dragon Ball Z: Resurrection 'F' (2015) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6461
+  303857: # Dragon Ball Z: Resurrection F (2015) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6461
     url_poster: https://api.mediux.pro/assets/2df5f16b-e938-4f53-ab0c-9fc57be186af
 
   503314: # Dragon Ball Super: Broly (2018) Poster by MiniZaki on MediUX. https://mediux.pro/sets/6461
@@ -2443,7 +2510,7 @@ metadata:
     url_poster: https://api.mediux.pro/assets/54434717-f8ad-4770-9d19-c324b6db274f
   360920: # The Grinch (2018) Poster by RuviLev on MediUX. https://mediux.pro/sets/12326
     url_poster: https://api.mediux.pro/assets/c7830939-d925-412e-9c01-e8d65775f2f6
-  38745: # Gulliver's Travels (2010) Poster by Pejamas on MediUX. https://mediux.pro/sets/14582
+  38745: # Gullivers Travels (2010) Poster by Pejamas on MediUX. https://mediux.pro/sets/14582
     url_poster: https://api.mediux.pro/assets/a813c2de-ff47-4045-b879-5ee13bf8aa62
   324786: # Hacksaw Ridge (2016) Poster by Pejamas on MediUX. https://mediux.pro/sets/10968
     url_poster: https://api.mediux.pro/assets/aac7755c-66ff-4e2e-85de-3e0be14b295a
