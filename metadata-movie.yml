@@ -1,5 +1,10 @@
 metadata:
-  
+  11395: # The Santa Clause (1994) Poster by RuviLev on MediUX. https://mediux.pro/sets/13433
+    url_poster: https://api.mediux.pro/assets/b423230c-f788-486f-807e-1a07f552f59a
+  9021: # The Santa Clause 2 (2002) Poster by RuviLev on MediUX. https://mediux.pro/sets/13433
+    url_poster: https://api.mediux.pro/assets/73372a6b-76bd-493a-b51b-e3383c0a0fa5
+  13767: # The Santa Clause 3: The Escape Clause (2006) Poster by RuviLev on MediUX. https://mediux.pro/sets/13433
+    url_poster: https://api.mediux.pro/assets/dd1159c5-54c3-49d4-b6e0-9594a0054b7e
   411: # The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005) Poster by RuviLev on MediUX. https://mediux.pro/sets/12313
     url_poster: https://api.mediux.pro/assets/d7f54696-a49c-4df8-80b2-09041b4703fe
   2454: # The Chronicles of Narnia: Prince Caspian (2008) Poster by RuviLev on MediUX. https://mediux.pro/sets/12313
