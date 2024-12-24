@@ -1,4 +1,11 @@
 metadata:
+  
+  13377: # How the Grinch Stole Christmas! (1966) Poster by RuviLev on MediUX. https://mediux.pro/sets/13341
+    url_poster: https://api.mediux.pro/assets/df036c1a-fcf0-44df-b3f7-414dec452b91
+  98: # Gladiator (2000) Poster by Pejamas on MediUX. https://mediux.pro/sets/8971
+    url_poster: https://api.mediux.pro/assets/df37fa88-456c-46c0-bf76-fb4dc5329edf
+  558449: # Gladiator II (2024) Poster by Pejamas on MediUX. https://mediux.pro/sets/8971
+    url_poster: https://api.mediux.pro/assets/2a597ee6-025f-4382-b27a-a8fbc666d880
   162: # Edward Scissorhands (1990) Poster by RuviLev on MediUX. https://mediux.pro/sets/9336
     url_poster: https://api.mediux.pro/assets/762aa37e-e501-4f1e-9c6d-1ff2115d47c9
   291870: # Dirty Grandpa (2016) Poster by RuviLev on MediUX. https://mediux.pro/sets/24707
@@ -2557,33 +2564,22 @@ metadata:
     url_poster: https://api.mediux.pro/assets/5e77c5e4-d320-413f-8819-d21b69abc420
   10591: # The Girl Next Door (2004) Poster by RuviLev on MediUX. https://mediux.pro/sets/10080
     url_poster: https://api.mediux.pro/assets/ac2ab30f-826b-4f58-8232-b4dfb6b715ee
-
-  98: # Gladiator (2000) Poster by Pejamas on MediUX. https://mediux.pro/sets/8971
-    url_poster: https://api.mediux.pro/assets/df37fa88-456c-46c0-bf76-fb4dc5329edf
   450465: # Glass (2019) Poster by Pejamas on MediUX. https://mediux.pro/sets/11311
     url_poster: https://api.mediux.pro/assets/7dd36426-94f1-4264-a181-d3f545347e46
-
   45772: # Gnomeo & Juliet (2011) Poster by RuviLev on MediUX. https://mediux.pro/sets/13843
     url_poster: https://api.mediux.pro/assets/7bdac72f-fe1b-489f-a74f-15a070e4f2ec
-
   370567: # Sherlock Gnomes (2018) Poster by RuviLev on MediUX. https://mediux.pro/sets/13843
     url_poster: https://api.mediux.pro/assets/8f77209e-9267-4b2a-b483-0e4aa75c3d48
-
   238: # The Godfather (1972) Poster by Pejamas on MediUX. https://mediux.pro/sets/14321
     url_poster: https://api.mediux.pro/assets/7dcdddc3-f434-431c-be02-aa986dc6c775
-
   240: # The Godfather Part II (1974) Poster by Pejamas on MediUX. https://mediux.pro/sets/14321
     url_poster: https://api.mediux.pro/assets/c7fd263c-1dae-4c00-8d1d-c69e155643a9
-
   242: # The Godfather Part III (1990) Poster by Pejamas on MediUX. https://mediux.pro/sets/14321
     url_poster: https://api.mediux.pro/assets/f11962d5-885a-4c60-8a99-02c70c7a53fb
-
   124905: # Godzilla (2014) Poster by Pejamas on MediUX. https://mediux.pro/sets/7239
     url_poster: https://api.mediux.pro/assets/b9f6fcca-04ed-40fa-ad4e-5c45d3481da2
-
   373571: # Godzilla: King of the Monsters (2019) Poster by Pejamas on MediUX. https://mediux.pro/sets/7239
     url_poster: https://api.mediux.pro/assets/624fa9e7-9bac-49fc-9abd-33a4defc0e21
-
   399566: # Godzilla vs. Kong (2021) Poster by Pejamas on MediUX. https://mediux.pro/sets/7239
     url_poster: https://api.mediux.pro/assets/8ac33a3e-8c93-430f-a79b-c87c55b59ce7
   940721: # Godzilla Minus One (2023) Poster by ChamikaNLakshan on MediUX. https://mediux.pro/sets/19357
