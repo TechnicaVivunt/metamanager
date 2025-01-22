@@ -1,4 +1,26 @@
 metadata:
+  24: # Kill Bill: Vol. 1 (2003) Poster by willtong93 on MediUX. https://mediux.pro/sets/26695
+    url_poster: https://api.mediux.pro/assets/98a26a63-9970-4d54-af4d-35b7ea21379f
+  393: # Kill Bill: Vol. 2 (2004) Poster by willtong93 on MediUX. https://mediux.pro/sets/26695
+    url_poster: https://api.mediux.pro/assets/b970e867-84b6-4a50-8f07-6ce111f238ac
+  68718: # Django Unchained (2012) Poster by willtong93 on MediUX.  https://mediux.pro/sets/25683
+    url_poster: https://api.mediux.pro/assets/29375ec7-696d-485c-ab2f-b34e0a323b85
+  184: # Jackie Brown (1997) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26694
+    url_poster: https://api.mediux.pro/assets/46d9008e-c841-479f-acfa-e757be99515c
+  414419: # Kill Bill: The Whole Bloody Affair (2011) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26696
+    url_poster: https://api.mediux.pro/assets/c1866b0e-40d0-4f54-8217-05e54d5e8446
+  1991: # Death Proof (2007) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26697
+    url_poster: https://api.mediux.pro/assets/c0508a09-2c22-4234-82e2-daa881ff9ea1
+  16869: # Inglourious Basterds (2009) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26698
+    url_poster: https://api.mediux.pro/assets/448d208e-6614-4f9a-a699-a2ec2681f897
+  466272: # Once Upon a Time... in Hollywood (2019) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26699
+    url_poster: https://api.mediux.pro/assets/68472755-ef12-4c7b-bbb4-72cc905028e7
+  680: # Pulp Fiction (1994) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26700
+    url_poster: https://api.mediux.pro/assets/1a4194da-c339-4afe-8e13-b9198d5ce1a0
+  500: # Reservoir Dogs (1992) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26701
+    url_poster: https://api.mediux.pro/assets/25aabff0-96ee-4b66-9adb-4579edd73799
+  273248: # The Hateful Eight (2015) Poster by willtong93 on MediUX.  https://mediux.pro/sets/26702
+    url_poster: https://api.mediux.pro/assets/2fc8e1f5-ddb2-4377-a3a3-07ab0f167faa
   771: # Home Alone (1990) Poster by RuviLev on MediUX. https://mediux.pro/sets/9250
     url_poster: https://api.mediux.pro/assets/75385360-7818-43b0-89cd-9a0884816339
   772: # Home Alone 2: Lost in New York (1992) Poster by RuviLev on MediUX. https://mediux.pro/sets/9250
