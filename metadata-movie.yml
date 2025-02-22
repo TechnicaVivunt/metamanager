@@ -1,4 +1,18 @@
 metadata:
+  85: # Raiders of the Lost Ark (1981) Poster by Pejamas on MediUX. https://mediux.pro/sets/8780
+    url_poster: https://api.mediux.pro/assets/10e19d82-6480-46b3-8ae0-1e67b5fb2b6a
+  87: # Indiana Jones and the Temple of Doom (1984) Poster by Pejamas on MediUX. https://mediux.pro/sets/8780
+    url_poster: https://api.mediux.pro/assets/3a41993e-6c8a-433b-87bd-d69266d8444b
+  89: # Indiana Jones and the Last Crusade (1989) Poster by Pejamas on MediUX. https://mediux.pro/sets/8780
+    url_poster: https://api.mediux.pro/assets/2e0057c4-ecd7-43ca-b02e-2003878c4c15
+  217: # Indiana Jones and the Kingdom of the Crystal Skull (2008) Poster by Pejamas on MediUX. https://mediux.pro/sets/8780
+    url_poster: https://api.mediux.pro/assets/9f505a29-0573-4b24-bc88-9c68daafeaf9
+  335977: # Indiana Jones and the Dial of Destiny (2023) Poster by Pejamas on MediUX. https://mediux.pro/sets/8780
+    url_poster: https://api.mediux.pro/assets/48e74e9e-cd57-4f5b-8481-4ef22b1d3aad
+  792: # Platoon (1986) Poster by Pejamas on MediUX. https://mediux.pro/sets/9893
+    url_poster: https://api.mediux.pro/assets/d1b35911-edc5-40d5-bd3b-16ab3b930131
+  10860: # Steel Magnolias (1989) Poster by darkwesley on MediUX. https://mediux.pro/sets/13602
+    url_poster: https://api.mediux.pro/assets/ebedf039-2f9b-44db-a49f-8c07536d0de6
   24: # Kill Bill: Vol. 1 (2003) Poster by willtong93 on MediUX. https://mediux.pro/sets/26695
     url_poster: https://api.mediux.pro/assets/98a26a63-9970-4d54-af4d-35b7ea21379f
   393: # Kill Bill: Vol. 2 (2004) Poster by willtong93 on MediUX. https://mediux.pro/sets/26695
