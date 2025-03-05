@@ -1,4 +1,30 @@
 metadata:
+  193: # Star Trek: Generations (1994) Poster by Pejamas on MediUX. https://mediux.pro/sets/7859
+    url_poster: https://api.mediux.pro/assets/640d9241-e6a9-4be3-8f5d-c7267a41b8d4
+  199: # Star Trek: First Contact (1996) Poster by Pejamas on MediUX. https://mediux.pro/sets/7859
+    url_poster: https://api.mediux.pro/assets/c9718428-4e7f-4d13-83e3-907e11281002
+  200: # Star Trek: Insurrection (1998) Poster by Pejamas on MediUX. https://mediux.pro/sets/7859
+    url_poster: https://api.mediux.pro/assets/5774d429-cae3-4038-a4b3-51cb2ef6afdf
+  201: # Star Trek: Nemesis (2002) Poster by Pejamas on MediUX. https://mediux.pro/sets/7859
+    url_poster: https://api.mediux.pro/assets/8fc10c4c-5209-4de2-a213-b1ed0db4f3dc
+  152: # Star Trek: The Motion Picture (1979) Poster by RuviLev on MediUX. https://mediux.pro/sets/7117
+    url_poster: https://api.mediux.pro/assets/116bd6ce-40a8-4711-93ae-704a2e479fa8
+  154: # Star Trek II: The Wrath of Khan (1982) Poster by RuviLev on MediUX. https://mediux.pro/sets/7117
+    url_poster: https://api.mediux.pro/assets/7f2b0991-7340-4197-8baf-29a70e1f409d
+  157: # Star Trek III: The Search for Spock (1984) Poster by RuviLev on MediUX. https://mediux.pro/sets/7117
+    url_poster: https://api.mediux.pro/assets/8558cd70-3068-4bce-bac9-035e2814c92d
+  168: # Star Trek IV: The Voyage Home (1986) Poster by RuviLev on MediUX. https://mediux.pro/sets/7117
+    url_poster: https://api.mediux.pro/assets/516aa14e-5c50-4499-8fe6-9070d00697af
+  172: # Star Trek V: The Final Frontier (1989) Poster by RuviLev on MediUX. https://mediux.pro/sets/7117
+    url_poster: https://api.mediux.pro/assets/3e63aea0-35fc-4e8a-bc57-31a8a5f742df
+  174: # Star Trek VI: The Undiscovered Country (1991) Poster by RuviLev on MediUX. https://mediux.pro/sets/7117
+    url_poster: https://api.mediux.pro/assets/aef40fec-39fd-4d31-ad3e-bbe505335754
+  13475: # Star Trek (2009) Poster by Pejamas on MediUX. https://mediux.pro/sets/7861
+    url_poster: https://api.mediux.pro/assets/31b9db60-2ffa-48fd-a07e-262db0b27a4a
+  54138: # Star Trek Into Darkness (2013) Poster by Pejamas on MediUX. https://mediux.pro/sets/7861
+    url_poster: https://api.mediux.pro/assets/1f705c4c-169b-43c5-b9f4-364016f0e1d2
+  188927: # Star Trek Beyond (2016) Poster by Pejamas on MediUX. https://mediux.pro/sets/7861
+    url_poster: https://api.mediux.pro/assets/c32313a4-dca1-4726-9b56-76703383d52b
   319: # True Romance (1993) Poster by Pejamas on MediUX. https://mediux.pro/sets/14980
     url_poster: https://api.mediux.pro/assets/25cacc9c-ab6e-4e3f-915c-304fa94e884a
   85: # Raiders of the Lost Ark (1981) Poster by Pejamas on MediUX. https://mediux.pro/sets/8780
