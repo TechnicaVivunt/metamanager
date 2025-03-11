@@ -1,4 +1,32 @@
 metadata:
+  1126166: # Flight Risk (2025) Poster by plexstreaming on MediUX. https://mediux.pro/sets/30688
+    url_poster: https://api.mediux.pro/assets/784f4660-31a8-47c7-bab3-bcf5ac177ed1
+    url_background: https://api.mediux.pro/assets/ef7f3f96-3948-49b1-ac76-1da7d1301b89
+  329865: # Arrival (2016) Poster by willtong93 on MediUX. https://mediux.pro/sets/28965
+    url_poster: https://api.mediux.pro/assets/2f0442e9-a223-481e-b078-a8b18bfda9e2
+    url_background: https://api.mediux.pro/assets/c14c2316-72a0-41d5-8521-cb83fda122bf
+  198663: # The Maze Runner (2014) Poster by willtong93 on MediUX. https://mediux.pro/sets/27353
+    url_poster: https://api.mediux.pro/assets/b31e0c1e-e158-43bb-bb2d-c545330067e3
+  294254: # Maze Runner: The Scorch Trials (2015) Poster by willtong93 on MediUX. https://mediux.pro/sets/27353
+    url_poster: https://api.mediux.pro/assets/d2af8ee5-0924-4488-9ee7-932b35cb56c8
+  336843: # Maze Runner: The Death Cure (2018) Poster by willtong93 on MediUX. https://mediux.pro/sets/27353
+    url_poster: https://api.mediux.pro/assets/d6752d36-bff9-4e70-8cb2-da286183b8a7
+  293660: # Deadpool (2016) Poster by willtong93 on MediUX. https://mediux.pro/sets/24333
+    url_poster: https://api.mediux.pro/assets/de0134e3-abb2-4f86-b321-c76041b221f1
+  383498: # Deadpool 2 (2018) Poster by willtong93 on MediUX. https://mediux.pro/sets/24333
+    url_poster: https://api.mediux.pro/assets/2b0f39af-8e93-4609-9e50-33d4bbb21f63
+  533535: # Deadpool & Wolverine (2024) Poster by willtong93 on MediUX. https://mediux.pro/sets/24333
+    url_poster: https://api.mediux.pro/assets/f27e2fcb-48bd-406a-8a7c-0b980672298f
+  22: # Pirates of the Caribbean: The Curse of the Black Pearl (2003) Poster by darkwesley on MediUX. https://mediux.pro/sets/12816
+    url_poster: https://api.mediux.pro/assets/734c3146-4f11-4628-87c2-fdd2ee8c5595
+  58: # Pirates of the Caribbean: Dead Man's Chest (2006) Poster by darkwesley on MediUX. https://mediux.pro/sets/12816
+    url_poster: https://api.mediux.pro/assets/8cdc9a8a-1c20-44bd-8df4-1d77aa110165
+  285: # Pirates of the Caribbean: At World's End (2007) Poster by darkwesley on MediUX. https://mediux.pro/sets/12816
+    url_poster: https://api.mediux.pro/assets/8d546aaa-e3c4-4d30-80ed-9a15c86cd917
+  1865: # Pirates of the Caribbean: On Stranger Tides (2011) Poster by darkwesley on MediUX. https://mediux.pro/sets/12816
+    url_poster: https://api.mediux.pro/assets/eabba968-6fbd-4442-9043-0930d3f5c084
+  166426: # Pirates of the Caribbean: Dead Men Tell No Tales (2017) Poster by darkwesley on MediUX. https://mediux.pro/sets/12816
+    url_poster: https://api.mediux.pro/assets/4cd856dd-a72d-4a83-92a4-4d553a8cff2e
   1498: # Teenage Mutant Ninja Turtles (1990) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/7564
     url_poster: https://api.mediux.pro/assets/8a60f51a-642a-4d0a-9396-a31bf77a00dc
   1497: # Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/7564
@@ -2381,16 +2409,7 @@ metadata:
 
   677179: # Creed III (2023) Poster by RuviLev on MediUX. https://mediux.pro/sets/8784
     url_poster: https://api.mediux.pro/assets/dc21beb9-413a-460f-8d6c-cd5a42240dd5
-
-  293660: # Deadpool (2016) Poster by Pejamas on MediUX. https://mediux.pro/sets/4773
-    url_poster: https://theposterdb.com/api/assets/259851/download?performed_by=technicavivunt
-
-  383498: # Deadpool 2 (2018) Poster by Pejamas on MediUX. https://mediux.pro/sets/4773
-    url_poster: https://theposterdb.com/api/assets/259852/download?performed_by=technicavivunt
-
-  533535: # Deadpool & Wolverine (2024) Poster by Pejamas on MediUX. https://mediux.pro/sets/4773
-    url_poster: https://theposterdb.com/api/assets/455844/download?performed_by=technicavivunt
-
+    
   20352: # Despicable Me (2010) Poster by MiniZaki on MediUX. https://mediux.pro/sets/24024
     url_poster: https://api.mediux.pro/assets/179058ff-5de9-410b-bc8d-f3072d69503a
 
