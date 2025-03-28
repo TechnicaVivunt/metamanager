@@ -1,4 +1,17 @@
 metadata:
+  10890: # Stripes (1981) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/5791
+    url_poster: https://api.mediux.pro/assets/bae3c01a-71af-46e5-b16a-d010b5970ed7
+  116149: # Paddington (2014) Poster by plexstreaming on MediUX. https://mediux.pro/sets/30693
+    url_poster: https://api.mediux.pro/assets/61f968e6-663e-47be-9548-a2a435bafa8d
+    url_background: https://api.mediux.pro/assets/6391146d-c936-4642-8d93-dbcfeead2354
+  346648: # Paddington 2 (2017) Poster by plexstreaming on MediUX. https://mediux.pro/sets/30693
+    url_poster: https://api.mediux.pro/assets/6390ed51-a4b4-4fdb-b8d0-c4e8c1f57d6b
+    url_background: https://api.mediux.pro/assets/0cfe7039-b1ec-45ce-98d8-2ec2db2ce8f6
+  516729: # Paddington in Peru (2024) Poster by plexstreaming on MediUX. https://mediux.pro/sets/30693
+    url_poster: https://api.mediux.pro/assets/a7d0eaaf-9850-4250-b6b5-290dbbfe1b72
+    url_background: https://api.mediux.pro/assets/26b15a19-c070-4ae2-bbec-8cf04ab7b7c0
+  10830: # Matilda (1996) Poster by RuviLev on MediUX. https://mediux.pro/sets/13363
+    url_poster: https://api.mediux.pro/assets/a67d1f9a-874c-4a57-8f1f-e2247181b3e7
   933738: # Ali Wong: Don Wong (2022) Poster by fxckingham on MediUX. https://mediux.pro/sets/23632
     url_poster: https://api.mediux.pro/assets/35afa6c0-2d34-4100-857f-9fcfe6d3abb3
   124461: # A Glimpse Inside the Mind of Charles Swan III (2013) Poster by fxckingham on MediUX.  https://mediux.pro/sets/14738
