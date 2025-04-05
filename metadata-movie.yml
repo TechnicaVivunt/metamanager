@@ -1,4 +1,9 @@
 metadata:
+  797457: # Nitram (2021) Poster by Pejamas on MediUX. https://mediux.pro/sets/3323
+    url_poster: https://api.mediux.pro/assets/0ceb858c-7cc6-49da-9e01-ec034bb3422b
+  427641: # Rampage (2018) Poster by plexstreaming on MediUX. https://mediux.pro/sets/29708
+    url_poster: https://api.mediux.pro/assets/c5b8e202-c2f8-440c-a8e1-e0c9d19052b4
+    url_background: https://api.mediux.pro/assets/c3f58682-8556-464c-8f6d-3eed362cd2e3
   10890: # Stripes (1981) Poster by Aloha_Alona on MediUX. https://mediux.pro/sets/5791
     url_poster: https://api.mediux.pro/assets/bae3c01a-71af-46e5-b16a-d010b5970ed7
   116149: # Paddington (2014) Poster by plexstreaming on MediUX. https://mediux.pro/sets/30693
