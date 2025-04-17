@@ -1,4 +1,23 @@
 metadata:
+
+  11: # Star Wars (1977) Poster by willtong93 on MediUX. https://mediux.pro/sets/26423
+    url_poster: https://api.mediux.pro/assets/b3f2bf44-ee52-48b6-abd0-d892eb07cf7a
+  1891: # The Empire Strikes Back (1980) Poster by willtong93 on MediUX. https://mediux.pro/sets/26423
+    url_poster: https://api.mediux.pro/assets/46da41cc-88a3-41c0-abd4-fbe6d71e5450
+  1892: # Return of the Jedi (1983) Poster by willtong93 on MediUX. https://mediux.pro/sets/26423
+    url_poster: https://api.mediux.pro/assets/02e0bbd2-1ec4-4608-b478-f83c2a005a2c
+  1893: # Star Wars: Episode I - The Phantom Menace (1999) Poster by willtong93 on MediUX. https://mediux.pro/sets/26423
+    url_poster: https://api.mediux.pro/assets/84e4a561-4581-482f-99af-8fea09a26b77
+  1894: # Star Wars: Episode II - Attack of the Clones (2002) Poster by willtong93 on MediUX. https://mediux.pro/sets/26423
+    url_poster: https://api.mediux.pro/assets/28078899-424b-4528-8ffc-134996cb2a57
+  1895: # Star Wars: Episode III - Revenge of the Sith (2005) Poster by willtong93 on MediUX. https://mediux.pro/sets/26423
+    url_poster: https://api.mediux.pro/assets/b7d5b210-5706-4ebd-a56d-0351a1dd194a
+  140607: # Star Wars: The Force Awakens (2015) Poster by willtong93 on MediUX. https://mediux.pro/sets/26423
+    url_poster: https://api.mediux.pro/assets/7dd0b9f4-6129-4011-a387-5b7e30f18ffa
+  181808: # Star Wars: The Last Jedi (2017) Poster by willtong93 on MediUX. https://mediux.pro/sets/26423
+    url_poster: https://api.mediux.pro/assets/6a02c972-6dbf-4e99-a410-21ac38961b35
+  181812: # Star Wars: The Rise of Skywalker (2019) Poster by willtong93 on MediUX. https://mediux.pro/sets/26423
+    url_poster: https://api.mediux.pro/assets/c03b307d-c1c6-4a83-a0e2-d44e170bd14c
   10585: # Child's Play (1988) Poster by Koltom on MediUX. https://mediux.pro/sets/770
     url_poster: https://api.mediux.pro/assets/5bc5e3e7-e728-4016-a920-f3e042362434
   11186: # Child's Play 2 (1990) Poster by Koltom on MediUX. https://mediux.pro/sets/770
